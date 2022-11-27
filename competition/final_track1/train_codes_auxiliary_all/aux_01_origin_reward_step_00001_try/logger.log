@@ -1,0 +1,2 @@
+[2022-11-23 10:05:03,523][my_ppo_all.py][line:690][INFO] start training!
+[2022-11-23 10:05:45,198][my_ppo_all.py][line:460][INFO] steps=0	 episode_num=15.00000	 reached_num=0.00000

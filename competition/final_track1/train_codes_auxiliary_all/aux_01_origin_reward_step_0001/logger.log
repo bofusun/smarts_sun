@@ -1,0 +1,1061 @@
+[2022-11-18 17:15:51,915][my_ppo_all.py][line:687][INFO] start training!
+[2022-11-18 17:25:05,172][my_ppo_all.py][line:460][INFO] steps=0	 episode_num=288.00000	 reached_num=0.00000
+[2022-11-18 17:25:23,704][my_ppo_all.py][line:739][INFO] steps 1, 0.00 steps/s
+[2022-11-18 17:25:23,706][my_ppo_all.py][line:740][INFO] steps=1	 train_return_reward=-21.61497	 reached_pro=0.00000	 action_loss=1.425	 value_loss=2.705 	 actor_supervise_loss=0.494 	 actor_supervise_accuracy=0.648	critic_supervise_loss=0.470 	 critic_supervise_accuracy=0.676	 entropy=2.249 	 kl=0.01733 	 lr=0.00002999
+[2022-11-18 17:33:58,422][my_ppo_all.py][line:460][INFO] steps=1	 episode_num=263.00000	 reached_num=0.00000
+[2022-11-18 17:34:16,076][my_ppo_all.py][line:739][INFO] steps 2, 0.00 steps/s
+[2022-11-18 17:34:16,077][my_ppo_all.py][line:740][INFO] steps=2	 train_return_reward=-18.90539	 reached_pro=0.00000	 action_loss=0.931	 value_loss=1.341 	 actor_supervise_loss=0.385 	 actor_supervise_accuracy=0.863	critic_supervise_loss=0.353 	 critic_supervise_accuracy=0.927	 entropy=2.465 	 kl=0.02200 	 lr=0.00002999
+[2022-11-18 17:41:26,828][my_ppo_all.py][line:460][INFO] steps=2	 episode_num=230.00000	 reached_num=0.00000
+[2022-11-18 17:41:45,071][my_ppo_all.py][line:739][INFO] steps 3, 0.00 steps/s
+[2022-11-18 17:41:45,074][my_ppo_all.py][line:740][INFO] steps=3	 train_return_reward=-17.15863	 reached_pro=0.00000	 action_loss=0.515	 value_loss=0.947 	 actor_supervise_loss=0.364 	 actor_supervise_accuracy=0.871	critic_supervise_loss=0.350 	 critic_supervise_accuracy=0.894	 entropy=2.505 	 kl=0.01202 	 lr=0.00002998
+[2022-11-18 17:49:21,086][my_ppo_all.py][line:460][INFO] steps=3	 episode_num=264.00000	 reached_num=5.00000
+[2022-11-18 17:49:39,431][my_ppo_all.py][line:739][INFO] steps 4, 0.00 steps/s
+[2022-11-18 17:49:39,432][my_ppo_all.py][line:740][INFO] steps=4	 train_return_reward=-13.20349	 reached_pro=0.01894	 action_loss=0.103	 value_loss=0.965 	 actor_supervise_loss=0.368 	 actor_supervise_accuracy=0.835	critic_supervise_loss=0.361 	 critic_supervise_accuracy=0.852	 entropy=2.537 	 kl=0.01334 	 lr=0.00002998
+[2022-11-18 17:56:41,616][my_ppo_all.py][line:460][INFO] steps=4	 episode_num=273.00000	 reached_num=6.00000
+[2022-11-18 17:56:59,528][my_ppo_all.py][line:739][INFO] steps 5, 0.00 steps/s
+[2022-11-18 17:56:59,530][my_ppo_all.py][line:740][INFO] steps=5	 train_return_reward=-12.70850	 reached_pro=0.02198	 action_loss=-0.159	 value_loss=1.561 	 actor_supervise_loss=0.334 	 actor_supervise_accuracy=0.961	critic_supervise_loss=0.327 	 critic_supervise_accuracy=0.974	 entropy=2.525 	 kl=0.00934 	 lr=0.00002997
+[2022-11-18 18:04:19,137][my_ppo_all.py][line:460][INFO] steps=5	 episode_num=271.00000	 reached_num=6.00000
+[2022-11-18 18:04:37,171][my_ppo_all.py][line:739][INFO] steps 6, 0.00 steps/s
+[2022-11-18 18:04:37,173][my_ppo_all.py][line:740][INFO] steps=6	 train_return_reward=-12.05168	 reached_pro=0.02214	 action_loss=-0.167	 value_loss=1.907 	 actor_supervise_loss=0.323 	 actor_supervise_accuracy=0.981	critic_supervise_loss=0.321 	 critic_supervise_accuracy=0.985	 entropy=2.512 	 kl=0.01127 	 lr=0.00002996
+[2022-11-18 18:11:15,435][my_ppo_all.py][line:460][INFO] steps=6	 episode_num=212.00000	 reached_num=5.00000
+[2022-11-18 18:11:34,127][my_ppo_all.py][line:739][INFO] steps 7, 0.00 steps/s
+[2022-11-18 18:11:34,129][my_ppo_all.py][line:740][INFO] steps=7	 train_return_reward=-14.45571	 reached_pro=0.02358	 action_loss=-0.097	 value_loss=1.615 	 actor_supervise_loss=0.375 	 actor_supervise_accuracy=0.808	critic_supervise_loss=0.372 	 critic_supervise_accuracy=0.814	 entropy=2.541 	 kl=0.01143 	 lr=0.00002996
+[2022-11-18 18:18:11,832][my_ppo_all.py][line:460][INFO] steps=7	 episode_num=204.00000	 reached_num=9.00000
+[2022-11-18 18:18:29,880][my_ppo_all.py][line:739][INFO] steps 8, 0.00 steps/s
+[2022-11-18 18:18:29,881][my_ppo_all.py][line:740][INFO] steps=8	 train_return_reward=-11.14752	 reached_pro=0.04412	 action_loss=-0.381	 value_loss=1.709 	 actor_supervise_loss=0.370 	 actor_supervise_accuracy=0.824	critic_supervise_loss=0.368 	 critic_supervise_accuracy=0.824	 entropy=2.499 	 kl=0.01216 	 lr=0.00002995
+[2022-11-18 18:24:47,516][my_ppo_all.py][line:460][INFO] steps=8	 episode_num=192.00000	 reached_num=7.00000
+[2022-11-18 18:25:05,771][my_ppo_all.py][line:739][INFO] steps 9, 0.00 steps/s
+[2022-11-18 18:25:05,774][my_ppo_all.py][line:740][INFO] steps=9	 train_return_reward=-12.95935	 reached_pro=0.03646	 action_loss=-0.233	 value_loss=1.264 	 actor_supervise_loss=0.371 	 actor_supervise_accuracy=0.818	critic_supervise_loss=0.371 	 critic_supervise_accuracy=0.818	 entropy=2.457 	 kl=0.01141 	 lr=0.00002995
+[2022-11-18 18:32:04,528][my_ppo_all.py][line:460][INFO] steps=9	 episode_num=266.00000	 reached_num=12.00000
+[2022-11-18 18:32:31,749][my_ppo_all.py][line:674][INFO] steps=10	 scenario1_to_3lane_left_turn_c	 test_return_reward=-8.32543	 actor_accuracy=0.00000	 critic_accuracy=0.00000	 goal_pro=0.00000
+[2022-11-18 18:32:41,101][my_ppo_all.py][line:674][INFO] steps=10	 scenario1_to_3lane_left_turn_t	 test_return_reward=-9.20533	 actor_accuracy=1.00000	 critic_accuracy=1.00000	 goal_pro=0.00000
+[2022-11-18 18:34:03,133][my_ppo_all.py][line:674][INFO] steps=10	 scenario3lane_merge_single_agent	 test_return_reward=4.81894	 actor_accuracy=1.00000	 critic_accuracy=1.00000	 goal_pro=0.00000
+[2022-11-18 18:35:24,050][my_ppo_all.py][line:674][INFO] steps=10	 scenario3lane_cruise_single_agent	 test_return_reward=38.67751	 actor_accuracy=1.00000	 critic_accuracy=1.00000	 goal_pro=0.80000
+[2022-11-18 18:36:39,360][my_ppo_all.py][line:674][INFO] steps=10	 scenario3lane_overtake	 test_return_reward=19.37662	 actor_accuracy=1.00000	 critic_accuracy=1.00000	 goal_pro=0.60000
+[2022-11-18 18:38:06,271][my_ppo_all.py][line:674][INFO] steps=10	 scenario3lane_cut_in	 test_return_reward=5.61483	 actor_accuracy=1.00000	 critic_accuracy=1.00000	 goal_pro=0.20000
+[2022-11-18 18:44:14,668][my_ppo_all.py][line:460][INFO] steps=10	 episode_num=179.00000	 reached_num=9.00000
+[2022-11-18 18:44:40,689][my_ppo_all.py][line:739][INFO] steps 11, 0.00 steps/s
+[2022-11-18 18:44:40,691][my_ppo_all.py][line:740][INFO] steps=11	 train_return_reward=-9.33524	 reached_pro=0.05028	 action_loss=-0.435	 value_loss=2.151 	 actor_supervise_loss=0.368 	 actor_supervise_accuracy=0.826	critic_supervise_loss=0.366 	 critic_supervise_accuracy=0.830	 entropy=2.365 	 kl=0.01626 	 lr=0.00002993
+[2022-11-18 18:51:06,338][my_ppo_all.py][line:460][INFO] steps=11	 episode_num=188.00000	 reached_num=11.00000
+[2022-11-18 18:51:26,174][my_ppo_all.py][line:739][INFO] steps 12, 0.00 steps/s
+[2022-11-18 18:51:26,176][my_ppo_all.py][line:740][INFO] steps=12	 train_return_reward=-11.34492	 reached_pro=0.05851	 action_loss=-0.208	 value_loss=1.809 	 actor_supervise_loss=0.367 	 actor_supervise_accuracy=0.829	critic_supervise_loss=0.324 	 critic_supervise_accuracy=0.979	 entropy=2.324 	 kl=0.01479 	 lr=0.00002993
+[2022-11-18 18:57:03,675][my_ppo_all.py][line:460][INFO] steps=12	 episode_num=141.00000	 reached_num=11.00000
+[2022-11-18 18:57:23,726][my_ppo_all.py][line:739][INFO] steps 13, 0.00 steps/s
+[2022-11-18 18:57:23,728][my_ppo_all.py][line:740][INFO] steps=13	 train_return_reward=-6.38466	 reached_pro=0.07801	 action_loss=-0.381	 value_loss=1.671 	 actor_supervise_loss=0.366 	 actor_supervise_accuracy=0.832	critic_supervise_loss=0.352 	 critic_supervise_accuracy=0.884	 entropy=2.232 	 kl=0.01449 	 lr=0.00002992
+[2022-11-18 19:03:20,341][my_ppo_all.py][line:460][INFO] steps=13	 episode_num=157.00000	 reached_num=10.00000
+[2022-11-18 19:03:40,514][my_ppo_all.py][line:739][INFO] steps 14, 0.00 steps/s
+[2022-11-18 19:03:40,518][my_ppo_all.py][line:740][INFO] steps=14	 train_return_reward=-8.02699	 reached_pro=0.06369	 action_loss=-0.196	 value_loss=1.289 	 actor_supervise_loss=0.372 	 actor_supervise_accuracy=0.806	critic_supervise_loss=0.350 	 critic_supervise_accuracy=0.887	 entropy=2.215 	 kl=0.01612 	 lr=0.00002992
+[2022-11-18 19:09:08,482][my_ppo_all.py][line:460][INFO] steps=14	 episode_num=144.00000	 reached_num=13.00000
+[2022-11-18 19:09:28,667][my_ppo_all.py][line:739][INFO] steps 15, 0.00 steps/s
+[2022-11-18 19:09:28,669][my_ppo_all.py][line:740][INFO] steps=15	 train_return_reward=-7.27570	 reached_pro=0.09028	 action_loss=-0.322	 value_loss=1.427 	 actor_supervise_loss=0.372 	 actor_supervise_accuracy=0.811	critic_supervise_loss=0.326 	 critic_supervise_accuracy=0.969	 entropy=2.088 	 kl=0.01587 	 lr=0.00002991
+[2022-11-18 19:15:13,504][my_ppo_all.py][line:460][INFO] steps=15	 episode_num=145.00000	 reached_num=13.00000
+[2022-11-18 19:15:33,175][my_ppo_all.py][line:739][INFO] steps 16, 0.00 steps/s
+[2022-11-18 19:15:33,177][my_ppo_all.py][line:740][INFO] steps=16	 train_return_reward=-4.88053	 reached_pro=0.08966	 action_loss=-0.367	 value_loss=2.013 	 actor_supervise_loss=0.366 	 actor_supervise_accuracy=0.832	critic_supervise_loss=0.316 	 critic_supervise_accuracy=0.997	 entropy=1.991 	 kl=0.02085 	 lr=0.00002990
+[2022-11-18 19:21:19,169][my_ppo_all.py][line:460][INFO] steps=16	 episode_num=152.00000	 reached_num=12.00000
+[2022-11-18 19:21:39,439][my_ppo_all.py][line:739][INFO] steps 17, 0.00 steps/s
+[2022-11-18 19:21:39,440][my_ppo_all.py][line:740][INFO] steps=17	 train_return_reward=-3.85007	 reached_pro=0.07895	 action_loss=-0.383	 value_loss=1.868 	 actor_supervise_loss=0.378 	 actor_supervise_accuracy=0.794	critic_supervise_loss=0.332 	 critic_supervise_accuracy=0.947	 entropy=1.829 	 kl=0.02770 	 lr=0.00002990
+[2022-11-18 19:27:52,348][my_ppo_all.py][line:460][INFO] steps=17	 episode_num=169.00000	 reached_num=13.00000
+[2022-11-18 19:28:12,477][my_ppo_all.py][line:739][INFO] steps 18, 0.00 steps/s
+[2022-11-18 19:28:12,479][my_ppo_all.py][line:740][INFO] steps=18	 train_return_reward=-3.54898	 reached_pro=0.07692	 action_loss=-0.355	 value_loss=2.147 	 actor_supervise_loss=0.368 	 actor_supervise_accuracy=0.825	critic_supervise_loss=0.324 	 critic_supervise_accuracy=0.969	 entropy=1.852 	 kl=0.01762 	 lr=0.00002989
+[2022-11-18 19:33:52,871][my_ppo_all.py][line:460][INFO] steps=18	 episode_num=144.00000	 reached_num=15.00000
+[2022-11-18 19:34:12,587][my_ppo_all.py][line:739][INFO] steps 19, 0.00 steps/s
+[2022-11-18 19:34:12,589][my_ppo_all.py][line:740][INFO] steps=19	 train_return_reward=-3.73740	 reached_pro=0.10417	 action_loss=-0.154	 value_loss=1.397 	 actor_supervise_loss=0.345 	 actor_supervise_accuracy=0.944	critic_supervise_loss=0.333 	 critic_supervise_accuracy=0.948	 entropy=1.767 	 kl=0.02079 	 lr=0.00002989
+[2022-11-18 19:39:59,976][my_ppo_all.py][line:460][INFO] steps=19	 episode_num=178.00000	 reached_num=18.00000
+[2022-11-18 19:40:29,432][my_ppo_all.py][line:674][INFO] steps=20	 scenario1_to_3lane_left_turn_c	 test_return_reward=-8.50831	 actor_accuracy=1.00000	 critic_accuracy=1.00000	 goal_pro=0.00000
+[2022-11-18 19:40:42,749][my_ppo_all.py][line:674][INFO] steps=20	 scenario1_to_3lane_left_turn_t	 test_return_reward=-7.90157	 actor_accuracy=0.00000	 critic_accuracy=0.00000	 goal_pro=0.00000
+[2022-11-18 19:42:12,960][my_ppo_all.py][line:674][INFO] steps=20	 scenario3lane_merge_single_agent	 test_return_reward=4.26966	 actor_accuracy=1.00000	 critic_accuracy=1.00000	 goal_pro=0.00000
+[2022-11-18 19:43:29,005][my_ppo_all.py][line:674][INFO] steps=20	 scenario3lane_cruise_single_agent	 test_return_reward=28.36014	 actor_accuracy=0.67857	 critic_accuracy=0.97143	 goal_pro=0.60000
+[2022-11-18 19:44:59,096][my_ppo_all.py][line:674][INFO] steps=20	 scenario3lane_overtake	 test_return_reward=29.48359	 actor_accuracy=1.00000	 critic_accuracy=1.00000	 goal_pro=0.60000
+[2022-11-18 19:46:28,060][my_ppo_all.py][line:674][INFO] steps=20	 scenario3lane_cut_in	 test_return_reward=41.95642	 actor_accuracy=1.00000	 critic_accuracy=1.00000	 goal_pro=0.80000
+[2022-11-18 19:52:28,017][my_ppo_all.py][line:460][INFO] steps=20	 episode_num=179.00000	 reached_num=16.00000
+[2022-11-18 19:52:49,757][my_ppo_all.py][line:739][INFO] steps 21, 0.00 steps/s
+[2022-11-18 19:52:49,758][my_ppo_all.py][line:740][INFO] steps=21	 train_return_reward=-2.90715	 reached_pro=0.08939	 action_loss=-0.412	 value_loss=2.366 	 actor_supervise_loss=0.357 	 actor_supervise_accuracy=0.876	critic_supervise_loss=0.343 	 critic_supervise_accuracy=0.918	 entropy=1.549 	 kl=0.02227 	 lr=0.00002987
+[2022-11-18 19:58:58,070][my_ppo_all.py][line:460][INFO] steps=21	 episode_num=187.00000	 reached_num=16.00000
+[2022-11-18 19:59:17,842][my_ppo_all.py][line:739][INFO] steps 22, 0.00 steps/s
+[2022-11-18 19:59:17,844][my_ppo_all.py][line:740][INFO] steps=22	 train_return_reward=-3.48221	 reached_pro=0.08556	 action_loss=-0.384	 value_loss=2.359 	 actor_supervise_loss=0.355 	 actor_supervise_accuracy=0.870	critic_supervise_loss=0.343 	 critic_supervise_accuracy=0.912	 entropy=1.500 	 kl=0.01861 	 lr=0.00002987
+[2022-11-18 20:05:33,766][my_ppo_all.py][line:460][INFO] steps=22	 episode_num=205.00000	 reached_num=19.00000
+[2022-11-18 20:05:54,541][my_ppo_all.py][line:739][INFO] steps 23, 0.00 steps/s
+[2022-11-18 20:05:54,543][my_ppo_all.py][line:740][INFO] steps=23	 train_return_reward=-3.93516	 reached_pro=0.09268	 action_loss=-0.372	 value_loss=1.932 	 actor_supervise_loss=0.329 	 actor_supervise_accuracy=0.974	critic_supervise_loss=0.322 	 critic_supervise_accuracy=0.985	 entropy=1.422 	 kl=0.02656 	 lr=0.00002986
+[2022-11-18 20:11:50,730][my_ppo_all.py][line:460][INFO] steps=23	 episode_num=141.00000	 reached_num=22.00000
+[2022-11-18 20:12:10,754][my_ppo_all.py][line:739][INFO] steps 24, 0.00 steps/s
+[2022-11-18 20:12:10,756][my_ppo_all.py][line:740][INFO] steps=24	 train_return_reward=-0.90552	 reached_pro=0.15603	 action_loss=-0.333	 value_loss=2.303 	 actor_supervise_loss=0.328 	 actor_supervise_accuracy=0.972	critic_supervise_loss=0.325 	 critic_supervise_accuracy=0.977	 entropy=1.389 	 kl=0.02653 	 lr=0.00002986
+[2022-11-18 20:17:37,962][my_ppo_all.py][line:460][INFO] steps=24	 episode_num=112.00000	 reached_num=22.00000
+[2022-11-18 20:17:58,275][my_ppo_all.py][line:739][INFO] steps 25, 0.00 steps/s
+[2022-11-18 20:17:58,279][my_ppo_all.py][line:740][INFO] steps=25	 train_return_reward=-0.04479	 reached_pro=0.19643	 action_loss=-0.159	 value_loss=1.595 	 actor_supervise_loss=0.328 	 actor_supervise_accuracy=0.977	critic_supervise_loss=0.323 	 critic_supervise_accuracy=0.988	 entropy=1.359 	 kl=0.02863 	 lr=0.00002985
+[2022-11-18 20:23:23,425][my_ppo_all.py][line:460][INFO] steps=25	 episode_num=104.00000	 reached_num=25.00000
+[2022-11-18 20:23:43,228][my_ppo_all.py][line:739][INFO] steps 26, 0.00 steps/s
+[2022-11-18 20:23:43,229][my_ppo_all.py][line:740][INFO] steps=26	 train_return_reward=3.19433	 reached_pro=0.24038	 action_loss=-0.138	 value_loss=1.569 	 actor_supervise_loss=0.338 	 actor_supervise_accuracy=0.936	critic_supervise_loss=0.332 	 critic_supervise_accuracy=0.951	 entropy=1.378 	 kl=0.03426 	 lr=0.00002984
+[2022-11-18 20:29:21,166][my_ppo_all.py][line:460][INFO] steps=26	 episode_num=114.00000	 reached_num=29.00000
+[2022-11-18 20:29:42,183][my_ppo_all.py][line:739][INFO] steps 27, 0.00 steps/s
+[2022-11-18 20:29:42,186][my_ppo_all.py][line:740][INFO] steps=27	 train_return_reward=3.23662	 reached_pro=0.25439	 action_loss=-0.185	 value_loss=2.099 	 actor_supervise_loss=0.363 	 actor_supervise_accuracy=0.843	critic_supervise_loss=0.337 	 critic_supervise_accuracy=0.946	 entropy=1.196 	 kl=0.03497 	 lr=0.00002984
+[2022-11-18 20:35:21,502][my_ppo_all.py][line:460][INFO] steps=27	 episode_num=117.00000	 reached_num=29.00000
+[2022-11-18 20:35:41,113][my_ppo_all.py][line:739][INFO] steps 28, 0.00 steps/s
+[2022-11-18 20:35:41,115][my_ppo_all.py][line:740][INFO] steps=28	 train_return_reward=4.09204	 reached_pro=0.24786	 action_loss=-0.401	 value_loss=2.564 	 actor_supervise_loss=0.355 	 actor_supervise_accuracy=0.880	critic_supervise_loss=0.337 	 critic_supervise_accuracy=0.937	 entropy=1.235 	 kl=0.04047 	 lr=0.00002983
+[2022-11-18 20:41:17,922][my_ppo_all.py][line:460][INFO] steps=28	 episode_num=116.00000	 reached_num=25.00000
+[2022-11-18 20:41:38,325][my_ppo_all.py][line:739][INFO] steps 29, 0.00 steps/s
+[2022-11-18 20:41:38,327][my_ppo_all.py][line:740][INFO] steps=29	 train_return_reward=0.49835	 reached_pro=0.21552	 action_loss=-0.055	 value_loss=3.029 	 actor_supervise_loss=0.344 	 actor_supervise_accuracy=0.916	critic_supervise_loss=0.336 	 critic_supervise_accuracy=0.939	 entropy=1.302 	 kl=0.03442 	 lr=0.00002983
+[2022-11-18 20:47:16,761][my_ppo_all.py][line:460][INFO] steps=29	 episode_num=111.00000	 reached_num=31.00000
+[2022-11-18 20:47:50,707][my_ppo_all.py][line:674][INFO] steps=30	 scenario1_to_3lane_left_turn_c	 test_return_reward=-6.78561	 actor_accuracy=1.00000	 critic_accuracy=1.00000	 goal_pro=0.00000
+[2022-11-18 20:48:08,114][my_ppo_all.py][line:674][INFO] steps=30	 scenario1_to_3lane_left_turn_t	 test_return_reward=14.91136	 actor_accuracy=0.00000	 critic_accuracy=1.00000	 goal_pro=0.40000
+[2022-11-18 20:49:26,194][my_ppo_all.py][line:674][INFO] steps=30	 scenario3lane_merge_single_agent	 test_return_reward=-2.05511	 actor_accuracy=1.00000	 critic_accuracy=1.00000	 goal_pro=0.00000
+[2022-11-18 20:50:50,382][my_ppo_all.py][line:674][INFO] steps=30	 scenario3lane_cruise_single_agent	 test_return_reward=41.63542	 actor_accuracy=1.00000	 critic_accuracy=0.92086	 goal_pro=1.00000
+[2022-11-18 20:51:57,658][my_ppo_all.py][line:674][INFO] steps=30	 scenario3lane_overtake	 test_return_reward=17.88299	 actor_accuracy=1.00000	 critic_accuracy=1.00000	 goal_pro=0.80000
+[2022-11-18 20:53:36,862][my_ppo_all.py][line:674][INFO] steps=30	 scenario3lane_cut_in	 test_return_reward=28.21807	 actor_accuracy=1.00000	 critic_accuracy=1.00000	 goal_pro=0.80000
+[2022-11-18 20:59:12,221][my_ppo_all.py][line:460][INFO] steps=30	 episode_num=127.00000	 reached_num=34.00000
+[2022-11-18 20:59:32,605][my_ppo_all.py][line:739][INFO] steps 31, 0.00 steps/s
+[2022-11-18 20:59:32,606][my_ppo_all.py][line:740][INFO] steps=31	 train_return_reward=3.72820	 reached_pro=0.26772	 action_loss=-0.276	 value_loss=2.378 	 actor_supervise_loss=0.370 	 actor_supervise_accuracy=0.820	critic_supervise_loss=0.335 	 critic_supervise_accuracy=0.952	 entropy=1.103 	 kl=0.05235 	 lr=0.00002981
+[2022-11-18 21:05:21,678][my_ppo_all.py][line:460][INFO] steps=31	 episode_num=140.00000	 reached_num=33.00000
+[2022-11-18 21:05:41,375][my_ppo_all.py][line:739][INFO] steps 32, 0.00 steps/s
+[2022-11-18 21:05:41,377][my_ppo_all.py][line:740][INFO] steps=32	 train_return_reward=2.69000	 reached_pro=0.23571	 action_loss=-0.203	 value_loss=1.961 	 actor_supervise_loss=0.334 	 actor_supervise_accuracy=0.959	critic_supervise_loss=0.325 	 critic_supervise_accuracy=0.976	 entropy=1.019 	 kl=0.05140 	 lr=0.00002981
+[2022-11-18 21:11:33,470][my_ppo_all.py][line:460][INFO] steps=32	 episode_num=119.00000	 reached_num=40.00000
+[2022-11-18 21:11:53,845][my_ppo_all.py][line:739][INFO] steps 33, 0.00 steps/s
+[2022-11-18 21:11:53,846][my_ppo_all.py][line:740][INFO] steps=33	 train_return_reward=8.08965	 reached_pro=0.33613	 action_loss=-0.510	 value_loss=2.369 	 actor_supervise_loss=0.338 	 actor_supervise_accuracy=0.943	critic_supervise_loss=0.330 	 critic_supervise_accuracy=0.962	 entropy=1.003 	 kl=0.04745 	 lr=0.00002980
+[2022-11-18 21:17:18,639][my_ppo_all.py][line:460][INFO] steps=33	 episode_num=90.00000	 reached_num=37.00000
+[2022-11-18 21:17:39,355][my_ppo_all.py][line:739][INFO] steps 34, 0.00 steps/s
+[2022-11-18 21:17:39,357][my_ppo_all.py][line:740][INFO] steps=34	 train_return_reward=11.70151	 reached_pro=0.41111	 action_loss=-0.170	 value_loss=2.674 	 actor_supervise_loss=0.331 	 actor_supervise_accuracy=0.963	critic_supervise_loss=0.333 	 critic_supervise_accuracy=0.953	 entropy=1.129 	 kl=0.05405 	 lr=0.00002980
+[2022-11-18 21:23:14,210][my_ppo_all.py][line:460][INFO] steps=34	 episode_num=104.00000	 reached_num=35.00000
+[2022-11-18 21:23:37,463][my_ppo_all.py][line:739][INFO] steps 35, 0.00 steps/s
+[2022-11-18 21:23:37,465][my_ppo_all.py][line:740][INFO] steps=35	 train_return_reward=9.81475	 reached_pro=0.33654	 action_loss=-0.360	 value_loss=2.643 	 actor_supervise_loss=0.331 	 actor_supervise_accuracy=0.965	critic_supervise_loss=0.327 	 critic_supervise_accuracy=0.973	 entropy=0.963 	 kl=0.05763 	 lr=0.00002979
+[2022-11-18 21:29:18,662][my_ppo_all.py][line:460][INFO] steps=35	 episode_num=96.00000	 reached_num=39.00000
+[2022-11-18 21:29:39,009][my_ppo_all.py][line:739][INFO] steps 36, 0.00 steps/s
+[2022-11-18 21:29:39,012][my_ppo_all.py][line:740][INFO] steps=36	 train_return_reward=12.14077	 reached_pro=0.40625	 action_loss=-0.306	 value_loss=2.542 	 actor_supervise_loss=0.355 	 actor_supervise_accuracy=0.875	critic_supervise_loss=0.354 	 critic_supervise_accuracy=0.877	 entropy=0.903 	 kl=0.06085 	 lr=0.00002978
+[2022-11-18 21:35:21,013][my_ppo_all.py][line:460][INFO] steps=36	 episode_num=108.00000	 reached_num=40.00000
+[2022-11-18 21:35:40,599][my_ppo_all.py][line:739][INFO] steps 37, 0.00 steps/s
+[2022-11-18 21:35:40,602][my_ppo_all.py][line:740][INFO] steps=37	 train_return_reward=11.41425	 reached_pro=0.37037	 action_loss=-0.311	 value_loss=2.423 	 actor_supervise_loss=0.364 	 actor_supervise_accuracy=0.844	critic_supervise_loss=0.354 	 critic_supervise_accuracy=0.893	 entropy=0.693 	 kl=0.07215 	 lr=0.00002978
+[2022-11-18 21:41:55,701][my_ppo_all.py][line:460][INFO] steps=37	 episode_num=120.00000	 reached_num=37.00000
+[2022-11-18 21:42:15,377][my_ppo_all.py][line:739][INFO] steps 38, 0.00 steps/s
+[2022-11-18 21:42:15,380][my_ppo_all.py][line:740][INFO] steps=38	 train_return_reward=7.38016	 reached_pro=0.30833	 action_loss=-0.185	 value_loss=2.607 	 actor_supervise_loss=0.364 	 actor_supervise_accuracy=0.842	critic_supervise_loss=0.353 	 critic_supervise_accuracy=0.891	 entropy=0.839 	 kl=0.08709 	 lr=0.00002977
+[2022-11-18 21:48:03,493][my_ppo_all.py][line:460][INFO] steps=38	 episode_num=122.00000	 reached_num=45.00000
+[2022-11-18 21:48:23,691][my_ppo_all.py][line:739][INFO] steps 39, 0.00 steps/s
+[2022-11-18 21:48:23,693][my_ppo_all.py][line:740][INFO] steps=39	 train_return_reward=10.29539	 reached_pro=0.36885	 action_loss=-0.505	 value_loss=2.776 	 actor_supervise_loss=0.343 	 actor_supervise_accuracy=0.943	critic_supervise_loss=0.337 	 critic_supervise_accuracy=0.948	 entropy=0.574 	 kl=0.05788 	 lr=0.00002977
+[2022-11-18 21:54:25,175][my_ppo_all.py][line:460][INFO] steps=39	 episode_num=133.00000	 reached_num=36.00000
+[2022-11-18 21:54:59,066][my_ppo_all.py][line:674][INFO] steps=40	 scenario1_to_3lane_left_turn_c	 test_return_reward=15.93363	 actor_accuracy=0.87037	 critic_accuracy=0.87037	 goal_pro=0.40000
+[2022-11-18 21:55:10,338][my_ppo_all.py][line:674][INFO] steps=40	 scenario1_to_3lane_left_turn_t	 test_return_reward=-8.37744	 actor_accuracy=0.00000	 critic_accuracy=0.00000	 goal_pro=0.00000
+[2022-11-18 21:56:15,604][my_ppo_all.py][line:674][INFO] steps=40	 scenario3lane_merge_single_agent	 test_return_reward=0.13010	 actor_accuracy=1.00000	 critic_accuracy=1.00000	 goal_pro=0.00000
+[2022-11-18 21:57:43,832][my_ppo_all.py][line:674][INFO] steps=40	 scenario3lane_cruise_single_agent	 test_return_reward=27.35669	 actor_accuracy=0.71333	 critic_accuracy=0.56000	 goal_pro=0.80000
+[2022-11-18 21:59:05,840][my_ppo_all.py][line:674][INFO] steps=40	 scenario3lane_overtake	 test_return_reward=41.26237	 actor_accuracy=1.00000	 critic_accuracy=1.00000	 goal_pro=1.00000
+[2022-11-18 22:00:42,798][my_ppo_all.py][line:674][INFO] steps=40	 scenario3lane_cut_in	 test_return_reward=38.97679	 actor_accuracy=1.00000	 critic_accuracy=0.28462	 goal_pro=0.80000
+[2022-11-18 22:06:02,680][my_ppo_all.py][line:460][INFO] steps=40	 episode_num=97.00000	 reached_num=42.00000
+[2022-11-18 22:06:21,507][my_ppo_all.py][line:739][INFO] steps 41, 0.00 steps/s
+[2022-11-18 22:06:21,509][my_ppo_all.py][line:740][INFO] steps=41	 train_return_reward=15.75885	 reached_pro=0.43299	 action_loss=-0.528	 value_loss=2.465 	 actor_supervise_loss=0.329 	 actor_supervise_accuracy=0.969	critic_supervise_loss=0.329 	 critic_supervise_accuracy=0.970	 entropy=0.758 	 kl=0.06295 	 lr=0.00002975
+[2022-11-18 22:12:03,105][my_ppo_all.py][line:460][INFO] steps=41	 episode_num=112.00000	 reached_num=41.00000
+[2022-11-18 22:12:21,426][my_ppo_all.py][line:739][INFO] steps 42, 0.00 steps/s
+[2022-11-18 22:12:21,427][my_ppo_all.py][line:740][INFO] steps=42	 train_return_reward=10.81354	 reached_pro=0.36607	 action_loss=-0.343	 value_loss=2.119 	 actor_supervise_loss=0.343 	 actor_supervise_accuracy=0.918	critic_supervise_loss=0.336 	 critic_supervise_accuracy=0.939	 entropy=0.577 	 kl=0.07514 	 lr=0.00002975
+[2022-11-18 22:18:07,555][my_ppo_all.py][line:460][INFO] steps=42	 episode_num=129.00000	 reached_num=38.00000
+[2022-11-18 22:18:25,994][my_ppo_all.py][line:739][INFO] steps 43, 0.00 steps/s
+[2022-11-18 22:18:25,999][my_ppo_all.py][line:740][INFO] steps=43	 train_return_reward=7.77613	 reached_pro=0.29457	 action_loss=-0.532	 value_loss=2.854 	 actor_supervise_loss=0.334 	 actor_supervise_accuracy=0.954	critic_supervise_loss=0.327 	 critic_supervise_accuracy=0.972	 entropy=0.381 	 kl=0.07323 	 lr=0.00002974
+[2022-11-18 22:24:16,929][my_ppo_all.py][line:460][INFO] steps=43	 episode_num=114.00000	 reached_num=40.00000
+[2022-11-18 22:24:34,811][my_ppo_all.py][line:739][INFO] steps 44, 0.00 steps/s
+[2022-11-18 22:24:34,813][my_ppo_all.py][line:740][INFO] steps=44	 train_return_reward=9.72120	 reached_pro=0.35088	 action_loss=-0.176	 value_loss=1.862 	 actor_supervise_loss=0.332 	 actor_supervise_accuracy=0.960	critic_supervise_loss=0.330 	 critic_supervise_accuracy=0.961	 entropy=0.580 	 kl=0.07544 	 lr=0.00002974
+[2022-11-18 22:30:04,158][my_ppo_all.py][line:460][INFO] steps=44	 episode_num=89.00000	 reached_num=42.00000
+[2022-11-18 22:30:21,657][my_ppo_all.py][line:739][INFO] steps 45, 0.00 steps/s
+[2022-11-18 22:30:21,659][my_ppo_all.py][line:740][INFO] steps=45	 train_return_reward=16.14682	 reached_pro=0.47191	 action_loss=-0.212	 value_loss=2.023 	 actor_supervise_loss=0.333 	 actor_supervise_accuracy=0.961	critic_supervise_loss=0.328 	 critic_supervise_accuracy=0.971	 entropy=0.662 	 kl=0.06783 	 lr=0.00002973
+[2022-11-18 22:35:49,437][my_ppo_all.py][line:460][INFO] steps=45	 episode_num=103.00000	 reached_num=39.00000
+[2022-11-18 22:36:07,523][my_ppo_all.py][line:739][INFO] steps 46, 0.00 steps/s
+[2022-11-18 22:36:07,525][my_ppo_all.py][line:740][INFO] steps=46	 train_return_reward=9.56293	 reached_pro=0.37864	 action_loss=0.029	 value_loss=2.317 	 actor_supervise_loss=0.334 	 actor_supervise_accuracy=0.957	critic_supervise_loss=0.328 	 critic_supervise_accuracy=0.966	 entropy=0.732 	 kl=0.09067 	 lr=0.00002972
+[2022-11-18 22:41:38,337][my_ppo_all.py][line:460][INFO] steps=46	 episode_num=105.00000	 reached_num=37.00000
+[2022-11-18 22:41:57,076][my_ppo_all.py][line:739][INFO] steps 47, 0.00 steps/s
+[2022-11-18 22:41:57,078][my_ppo_all.py][line:740][INFO] steps=47	 train_return_reward=10.20083	 reached_pro=0.35238	 action_loss=-0.190	 value_loss=1.572 	 actor_supervise_loss=0.356 	 actor_supervise_accuracy=0.872	critic_supervise_loss=0.354 	 critic_supervise_accuracy=0.872	 entropy=0.566 	 kl=0.09996 	 lr=0.00002972
+[2022-11-18 22:47:34,286][my_ppo_all.py][line:460][INFO] steps=47	 episode_num=92.00000	 reached_num=38.00000
+[2022-11-18 22:47:52,183][my_ppo_all.py][line:739][INFO] steps 48, 0.00 steps/s
+[2022-11-18 22:47:52,185][my_ppo_all.py][line:740][INFO] steps=48	 train_return_reward=12.60099	 reached_pro=0.41304	 action_loss=-0.043	 value_loss=2.390 	 actor_supervise_loss=0.361 	 actor_supervise_accuracy=0.847	critic_supervise_loss=0.347 	 critic_supervise_accuracy=0.920	 entropy=0.535 	 kl=0.08026 	 lr=0.00002971
+[2022-11-18 22:53:19,400][my_ppo_all.py][line:460][INFO] steps=48	 episode_num=97.00000	 reached_num=39.00000
+[2022-11-18 22:53:37,430][my_ppo_all.py][line:739][INFO] steps 49, 0.00 steps/s
+[2022-11-18 22:53:37,433][my_ppo_all.py][line:740][INFO] steps=49	 train_return_reward=12.31062	 reached_pro=0.40206	 action_loss=-0.287	 value_loss=2.103 	 actor_supervise_loss=0.362 	 actor_supervise_accuracy=0.848	critic_supervise_loss=0.348 	 critic_supervise_accuracy=0.908	 entropy=0.488 	 kl=0.09526 	 lr=0.00002971
+[2022-11-18 22:59:18,963][my_ppo_all.py][line:460][INFO] steps=49	 episode_num=115.00000	 reached_num=35.00000
+[2022-11-18 22:59:56,374][my_ppo_all.py][line:674][INFO] steps=50	 scenario1_to_3lane_left_turn_c	 test_return_reward=27.17369	 actor_accuracy=0.00000	 critic_accuracy=1.00000	 goal_pro=0.60000
+[2022-11-18 23:00:11,208][my_ppo_all.py][line:674][INFO] steps=50	 scenario1_to_3lane_left_turn_t	 test_return_reward=-7.68597	 actor_accuracy=0.00000	 critic_accuracy=0.00000	 goal_pro=0.00000
+[2022-11-18 23:01:52,251][my_ppo_all.py][line:674][INFO] steps=50	 scenario3lane_merge_single_agent	 test_return_reward=4.39355	 actor_accuracy=1.00000	 critic_accuracy=1.00000	 goal_pro=0.00000
+[2022-11-18 23:03:06,530][my_ppo_all.py][line:674][INFO] steps=50	 scenario3lane_cruise_single_agent	 test_return_reward=36.85015	 actor_accuracy=1.00000	 critic_accuracy=1.00000	 goal_pro=0.80000
+[2022-11-18 23:04:25,879][my_ppo_all.py][line:674][INFO] steps=50	 scenario3lane_overtake	 test_return_reward=42.36909	 actor_accuracy=1.00000	 critic_accuracy=1.00000	 goal_pro=1.00000
+[2022-11-18 23:06:03,511][my_ppo_all.py][line:674][INFO] steps=50	 scenario3lane_cut_in	 test_return_reward=41.28746	 actor_accuracy=1.00000	 critic_accuracy=1.00000	 goal_pro=0.80000
+[2022-11-18 23:11:36,889][my_ppo_all.py][line:460][INFO] steps=50	 episode_num=106.00000	 reached_num=41.00000
+[2022-11-18 23:11:54,413][my_ppo_all.py][line:739][INFO] steps 51, 0.00 steps/s
+[2022-11-18 23:11:54,414][my_ppo_all.py][line:740][INFO] steps=51	 train_return_reward=12.40183	 reached_pro=0.38679	 action_loss=-0.248	 value_loss=2.410 	 actor_supervise_loss=0.373 	 actor_supervise_accuracy=0.816	critic_supervise_loss=0.332 	 critic_supervise_accuracy=0.956	 entropy=0.424 	 kl=0.10070 	 lr=0.00002969
+[2022-11-18 23:17:37,065][my_ppo_all.py][line:460][INFO] steps=51	 episode_num=101.00000	 reached_num=47.00000
+[2022-11-18 23:17:55,548][my_ppo_all.py][line:739][INFO] steps 52, 0.00 steps/s
+[2022-11-18 23:17:55,550][my_ppo_all.py][line:740][INFO] steps=52	 train_return_reward=16.80099	 reached_pro=0.46535	 action_loss=-0.271	 value_loss=2.232 	 actor_supervise_loss=0.352 	 actor_supervise_accuracy=0.900	critic_supervise_loss=0.337 	 critic_supervise_accuracy=0.940	 entropy=0.504 	 kl=0.08501 	 lr=0.00002969
+[2022-11-18 23:23:18,981][my_ppo_all.py][line:460][INFO] steps=52	 episode_num=94.00000	 reached_num=47.00000
+[2022-11-18 23:23:38,349][my_ppo_all.py][line:739][INFO] steps 53, 0.00 steps/s
+[2022-11-18 23:23:38,350][my_ppo_all.py][line:740][INFO] steps=53	 train_return_reward=18.34243	 reached_pro=0.50000	 action_loss=0.030	 value_loss=1.909 	 actor_supervise_loss=0.349 	 actor_supervise_accuracy=0.911	critic_supervise_loss=0.338 	 critic_supervise_accuracy=0.932	 entropy=0.544 	 kl=0.10827 	 lr=0.00002968
+[2022-11-18 23:29:04,568][my_ppo_all.py][line:460][INFO] steps=53	 episode_num=103.00000	 reached_num=42.00000
+[2022-11-18 23:29:23,702][my_ppo_all.py][line:739][INFO] steps 54, 0.00 steps/s
+[2022-11-18 23:29:23,703][my_ppo_all.py][line:740][INFO] steps=54	 train_return_reward=14.58037	 reached_pro=0.40777	 action_loss=-0.122	 value_loss=1.627 	 actor_supervise_loss=0.359 	 actor_supervise_accuracy=0.870	critic_supervise_loss=0.345 	 critic_supervise_accuracy=0.908	 entropy=0.564 	 kl=0.06021 	 lr=0.00002968
+[2022-11-18 23:34:58,324][my_ppo_all.py][line:460][INFO] steps=54	 episode_num=96.00000	 reached_num=42.00000
+[2022-11-18 23:35:16,931][my_ppo_all.py][line:739][INFO] steps 55, 0.00 steps/s
+[2022-11-18 23:35:16,934][my_ppo_all.py][line:740][INFO] steps=55	 train_return_reward=15.27926	 reached_pro=0.43750	 action_loss=-0.280	 value_loss=2.096 	 actor_supervise_loss=0.370 	 actor_supervise_accuracy=0.832	critic_supervise_loss=0.341 	 critic_supervise_accuracy=0.935	 entropy=0.433 	 kl=0.09173 	 lr=0.00002967
+[2022-11-18 23:40:55,803][my_ppo_all.py][line:460][INFO] steps=55	 episode_num=106.00000	 reached_num=44.00000
+[2022-11-18 23:41:14,375][my_ppo_all.py][line:739][INFO] steps 56, 0.00 steps/s
+[2022-11-18 23:41:14,377][my_ppo_all.py][line:740][INFO] steps=56	 train_return_reward=13.90022	 reached_pro=0.41509	 action_loss=-0.282	 value_loss=1.734 	 actor_supervise_loss=0.368 	 actor_supervise_accuracy=0.835	critic_supervise_loss=0.331 	 critic_supervise_accuracy=0.958	 entropy=0.459 	 kl=0.07348 	 lr=0.00002966
+[2022-11-18 23:47:02,725][my_ppo_all.py][line:460][INFO] steps=56	 episode_num=107.00000	 reached_num=41.00000
+[2022-11-18 23:47:21,914][my_ppo_all.py][line:739][INFO] steps 57, 0.00 steps/s
+[2022-11-18 23:47:21,915][my_ppo_all.py][line:740][INFO] steps=57	 train_return_reward=13.01593	 reached_pro=0.38318	 action_loss=0.009	 value_loss=1.867 	 actor_supervise_loss=0.357 	 actor_supervise_accuracy=0.874	critic_supervise_loss=0.325 	 critic_supervise_accuracy=0.980	 entropy=0.484 	 kl=0.09454 	 lr=0.00002966
+[2022-11-18 23:53:21,414][my_ppo_all.py][line:460][INFO] steps=57	 episode_num=122.00000	 reached_num=35.00000
+[2022-11-18 23:53:39,562][my_ppo_all.py][line:739][INFO] steps 58, 0.00 steps/s
+[2022-11-18 23:53:39,564][my_ppo_all.py][line:740][INFO] steps=58	 train_return_reward=6.54435	 reached_pro=0.28689	 action_loss=0.272	 value_loss=2.730 	 actor_supervise_loss=0.325 	 actor_supervise_accuracy=0.980	critic_supervise_loss=0.322 	 critic_supervise_accuracy=0.983	 entropy=0.382 	 kl=0.13959 	 lr=0.00002965
+[2022-11-18 23:59:21,725][my_ppo_all.py][line:460][INFO] steps=58	 episode_num=123.00000	 reached_num=41.00000
+[2022-11-18 23:59:40,171][my_ppo_all.py][line:739][INFO] steps 59, 0.00 steps/s
+[2022-11-18 23:59:40,171][my_ppo_all.py][line:740][INFO] steps=59	 train_return_reward=9.04389	 reached_pro=0.33333	 action_loss=-0.015	 value_loss=1.452 	 actor_supervise_loss=0.327 	 actor_supervise_accuracy=0.978	critic_supervise_loss=0.325 	 critic_supervise_accuracy=0.978	 entropy=0.338 	 kl=0.09745 	 lr=0.00002965
+[2022-11-19 00:05:05,642][my_ppo_all.py][line:460][INFO] steps=59	 episode_num=103.00000	 reached_num=41.00000
+[2022-11-19 00:05:35,906][my_ppo_all.py][line:674][INFO] steps=60	 scenario1_to_3lane_left_turn_c	 test_return_reward=3.84382	 actor_accuracy=1.00000	 critic_accuracy=0.72000	 goal_pro=0.20000
+[2022-11-19 00:05:53,401][my_ppo_all.py][line:674][INFO] steps=60	 scenario1_to_3lane_left_turn_t	 test_return_reward=3.64574	 actor_accuracy=1.00000	 critic_accuracy=1.00000	 goal_pro=0.20000
+[2022-11-19 00:07:22,520][my_ppo_all.py][line:674][INFO] steps=60	 scenario3lane_merge_single_agent	 test_return_reward=2.43769	 actor_accuracy=1.00000	 critic_accuracy=1.00000	 goal_pro=0.00000
+[2022-11-19 00:08:39,183][my_ppo_all.py][line:674][INFO] steps=60	 scenario3lane_cruise_single_agent	 test_return_reward=23.59286	 actor_accuracy=1.00000	 critic_accuracy=1.00000	 goal_pro=0.80000
+[2022-11-19 00:09:52,377][my_ppo_all.py][line:674][INFO] steps=60	 scenario3lane_overtake	 test_return_reward=43.18967	 actor_accuracy=1.00000	 critic_accuracy=1.00000	 goal_pro=1.00000
+[2022-11-19 00:11:32,344][my_ppo_all.py][line:674][INFO] steps=60	 scenario3lane_cut_in	 test_return_reward=32.31277	 actor_accuracy=0.87597	 critic_accuracy=0.86047	 goal_pro=0.60000
+[2022-11-19 00:17:32,136][my_ppo_all.py][line:460][INFO] steps=60	 episode_num=104.00000	 reached_num=50.00000
+[2022-11-19 00:17:50,562][my_ppo_all.py][line:739][INFO] steps 61, 0.00 steps/s
+[2022-11-19 00:17:50,563][my_ppo_all.py][line:740][INFO] steps=61	 train_return_reward=16.69332	 reached_pro=0.48077	 action_loss=0.145	 value_loss=2.401 	 actor_supervise_loss=0.350 	 actor_supervise_accuracy=0.894	critic_supervise_loss=0.344 	 critic_supervise_accuracy=0.909	 entropy=0.644 	 kl=0.08555 	 lr=0.00002963
+[2022-11-19 00:23:45,985][my_ppo_all.py][line:460][INFO] steps=61	 episode_num=145.00000	 reached_num=32.00000
+[2022-11-19 00:24:05,547][my_ppo_all.py][line:739][INFO] steps 62, 0.00 steps/s
+[2022-11-19 00:24:05,548][my_ppo_all.py][line:740][INFO] steps=62	 train_return_reward=3.50396	 reached_pro=0.22069	 action_loss=-0.105	 value_loss=1.986 	 actor_supervise_loss=0.354 	 actor_supervise_accuracy=0.901	critic_supervise_loss=0.348 	 critic_supervise_accuracy=0.905	 entropy=0.297 	 kl=0.11820 	 lr=0.00002963
+[2022-11-19 00:30:12,559][my_ppo_all.py][line:460][INFO] steps=62	 episode_num=133.00000	 reached_num=36.00000
+[2022-11-19 00:30:29,950][my_ppo_all.py][line:739][INFO] steps 63, 0.00 steps/s
+[2022-11-19 00:30:29,951][my_ppo_all.py][line:740][INFO] steps=63	 train_return_reward=5.48861	 reached_pro=0.27068	 action_loss=0.161	 value_loss=2.134 	 actor_supervise_loss=0.357 	 actor_supervise_accuracy=0.873	critic_supervise_loss=0.342 	 critic_supervise_accuracy=0.924	 entropy=0.413 	 kl=0.11842 	 lr=0.00002962
+[2022-11-19 00:36:31,506][my_ppo_all.py][line:460][INFO] steps=63	 episode_num=144.00000	 reached_num=29.00000
+[2022-11-19 00:36:49,058][my_ppo_all.py][line:739][INFO] steps 64, 0.00 steps/s
+[2022-11-19 00:36:49,061][my_ppo_all.py][line:740][INFO] steps=64	 train_return_reward=2.15666	 reached_pro=0.20139	 action_loss=0.020	 value_loss=1.998 	 actor_supervise_loss=0.352 	 actor_supervise_accuracy=0.899	critic_supervise_loss=0.337 	 critic_supervise_accuracy=0.936	 entropy=0.381 	 kl=0.09749 	 lr=0.00002962
+[2022-11-19 00:43:13,261][my_ppo_all.py][line:460][INFO] steps=64	 episode_num=141.00000	 reached_num=32.00000
+[2022-11-19 00:43:30,444][my_ppo_all.py][line:739][INFO] steps 65, 0.00 steps/s
+[2022-11-19 00:43:30,447][my_ppo_all.py][line:740][INFO] steps=65	 train_return_reward=3.73854	 reached_pro=0.22695	 action_loss=0.031	 value_loss=1.878 	 actor_supervise_loss=0.349 	 actor_supervise_accuracy=0.901	critic_supervise_loss=0.341 	 critic_supervise_accuracy=0.920	 entropy=0.308 	 kl=0.14685 	 lr=0.00002961
+[2022-11-19 00:49:15,024][my_ppo_all.py][line:460][INFO] steps=65	 episode_num=140.00000	 reached_num=29.00000
+[2022-11-19 00:49:31,376][my_ppo_all.py][line:739][INFO] steps 66, 0.00 steps/s
+[2022-11-19 00:49:31,378][my_ppo_all.py][line:740][INFO] steps=66	 train_return_reward=3.09278	 reached_pro=0.20714	 action_loss=-0.132	 value_loss=2.210 	 actor_supervise_loss=0.326 	 actor_supervise_accuracy=0.975	critic_supervise_loss=0.323 	 critic_supervise_accuracy=0.989	 entropy=0.178 	 kl=0.14501 	 lr=0.00002960
+[2022-11-19 00:55:43,141][my_ppo_all.py][line:460][INFO] steps=66	 episode_num=156.00000	 reached_num=28.00000
+[2022-11-19 00:56:00,710][my_ppo_all.py][line:739][INFO] steps 67, 0.00 steps/s
+[2022-11-19 00:56:00,713][my_ppo_all.py][line:740][INFO] steps=67	 train_return_reward=0.72783	 reached_pro=0.17949	 action_loss=0.139	 value_loss=2.217 	 actor_supervise_loss=0.324 	 actor_supervise_accuracy=0.981	critic_supervise_loss=0.321 	 critic_supervise_accuracy=0.988	 entropy=0.317 	 kl=0.14719 	 lr=0.00002960
+[2022-11-19 01:01:44,798][my_ppo_all.py][line:460][INFO] steps=67	 episode_num=122.00000	 reached_num=32.00000
+[2022-11-19 01:02:03,346][my_ppo_all.py][line:739][INFO] steps 68, 0.00 steps/s
+[2022-11-19 01:02:03,350][my_ppo_all.py][line:740][INFO] steps=68	 train_return_reward=5.05048	 reached_pro=0.26230	 action_loss=0.351	 value_loss=2.951 	 actor_supervise_loss=0.327 	 actor_supervise_accuracy=0.978	critic_supervise_loss=0.327 	 critic_supervise_accuracy=0.972	 entropy=0.485 	 kl=0.13396 	 lr=0.00002959
+[2022-11-19 01:07:29,016][my_ppo_all.py][line:460][INFO] steps=68	 episode_num=84.00000	 reached_num=47.00000
+[2022-11-19 01:07:46,866][my_ppo_all.py][line:739][INFO] steps 69, 0.00 steps/s
+[2022-11-19 01:07:46,867][my_ppo_all.py][line:740][INFO] steps=69	 train_return_reward=21.01928	 reached_pro=0.55952	 action_loss=-0.100	 value_loss=2.147 	 actor_supervise_loss=0.336 	 actor_supervise_accuracy=0.948	critic_supervise_loss=0.331 	 critic_supervise_accuracy=0.954	 entropy=0.436 	 kl=0.08204 	 lr=0.00002959
+[2022-11-19 01:13:21,884][my_ppo_all.py][line:460][INFO] steps=69	 episode_num=91.00000	 reached_num=50.00000
+[2022-11-19 01:13:54,302][my_ppo_all.py][line:674][INFO] steps=70	 scenario1_to_3lane_left_turn_c	 test_return_reward=-6.85119	 actor_accuracy=1.00000	 critic_accuracy=1.00000	 goal_pro=0.00000
+[2022-11-19 01:14:16,428][my_ppo_all.py][line:674][INFO] steps=70	 scenario1_to_3lane_left_turn_t	 test_return_reward=16.31155	 actor_accuracy=1.00000	 critic_accuracy=0.92157	 goal_pro=0.40000
+[2022-11-19 01:15:56,071][my_ppo_all.py][line:674][INFO] steps=70	 scenario3lane_merge_single_agent	 test_return_reward=3.62634	 actor_accuracy=1.00000	 critic_accuracy=1.00000	 goal_pro=0.00000
+[2022-11-19 01:16:56,137][my_ppo_all.py][line:674][INFO] steps=70	 scenario3lane_cruise_single_agent	 test_return_reward=25.88429	 actor_accuracy=1.00000	 critic_accuracy=1.00000	 goal_pro=0.60000
+[2022-11-19 01:18:11,680][my_ppo_all.py][line:674][INFO] steps=70	 scenario3lane_overtake	 test_return_reward=36.01656	 actor_accuracy=1.00000	 critic_accuracy=1.00000	 goal_pro=1.00000
+[2022-11-19 01:19:39,749][my_ppo_all.py][line:674][INFO] steps=70	 scenario3lane_cut_in	 test_return_reward=42.78698	 actor_accuracy=1.00000	 critic_accuracy=1.00000	 goal_pro=0.80000
+[2022-11-19 01:25:30,124][my_ppo_all.py][line:460][INFO] steps=70	 episode_num=90.00000	 reached_num=41.00000
+[2022-11-19 01:25:47,782][my_ppo_all.py][line:739][INFO] steps 71, 0.00 steps/s
+[2022-11-19 01:25:47,784][my_ppo_all.py][line:740][INFO] steps=71	 train_return_reward=17.89478	 reached_pro=0.45556	 action_loss=0.054	 value_loss=2.079 	 actor_supervise_loss=0.365 	 actor_supervise_accuracy=0.837	critic_supervise_loss=0.337 	 critic_supervise_accuracy=0.948	 entropy=0.531 	 kl=0.11675 	 lr=0.00002957
+[2022-11-19 01:31:21,619][my_ppo_all.py][line:460][INFO] steps=71	 episode_num=92.00000	 reached_num=44.00000
+[2022-11-19 01:31:39,708][my_ppo_all.py][line:739][INFO] steps 72, 0.00 steps/s
+[2022-11-19 01:31:39,710][my_ppo_all.py][line:740][INFO] steps=72	 train_return_reward=18.85030	 reached_pro=0.47826	 action_loss=0.013	 value_loss=1.594 	 actor_supervise_loss=0.364 	 actor_supervise_accuracy=0.843	critic_supervise_loss=0.339 	 critic_supervise_accuracy=0.934	 entropy=0.441 	 kl=0.10667 	 lr=0.00002957
+[2022-11-19 01:37:24,383][my_ppo_all.py][line:460][INFO] steps=72	 episode_num=93.00000	 reached_num=42.00000
+[2022-11-19 01:37:42,813][my_ppo_all.py][line:739][INFO] steps 73, 0.00 steps/s
+[2022-11-19 01:37:42,814][my_ppo_all.py][line:740][INFO] steps=73	 train_return_reward=16.98249	 reached_pro=0.45161	 action_loss=0.075	 value_loss=1.839 	 actor_supervise_loss=0.362 	 actor_supervise_accuracy=0.845	critic_supervise_loss=0.331 	 critic_supervise_accuracy=0.964	 entropy=0.381 	 kl=0.12111 	 lr=0.00002956
+[2022-11-19 01:43:20,855][my_ppo_all.py][line:460][INFO] steps=73	 episode_num=92.00000	 reached_num=43.00000
+[2022-11-19 01:43:40,430][my_ppo_all.py][line:739][INFO] steps 74, 0.00 steps/s
+[2022-11-19 01:43:40,432][my_ppo_all.py][line:740][INFO] steps=74	 train_return_reward=18.91342	 reached_pro=0.46739	 action_loss=-0.077	 value_loss=1.564 	 actor_supervise_loss=0.368 	 actor_supervise_accuracy=0.834	critic_supervise_loss=0.343 	 critic_supervise_accuracy=0.921	 entropy=0.343 	 kl=0.10378 	 lr=0.00002956
+[2022-11-19 01:49:10,340][my_ppo_all.py][line:460][INFO] steps=74	 episode_num=86.00000	 reached_num=42.00000
+[2022-11-19 01:49:30,510][my_ppo_all.py][line:739][INFO] steps 75, 0.00 steps/s
+[2022-11-19 01:49:30,512][my_ppo_all.py][line:740][INFO] steps=75	 train_return_reward=20.00911	 reached_pro=0.48837	 action_loss=0.169	 value_loss=2.973 	 actor_supervise_loss=0.366 	 actor_supervise_accuracy=0.837	critic_supervise_loss=0.333 	 critic_supervise_accuracy=0.954	 entropy=0.315 	 kl=0.11375 	 lr=0.00002955
+[2022-11-19 01:55:32,437][my_ppo_all.py][line:460][INFO] steps=75	 episode_num=101.00000	 reached_num=37.00000
+[2022-11-19 01:55:49,785][my_ppo_all.py][line:739][INFO] steps 76, 0.00 steps/s
+[2022-11-19 01:55:49,787][my_ppo_all.py][line:740][INFO] steps=76	 train_return_reward=13.92730	 reached_pro=0.36634	 action_loss=0.221	 value_loss=2.549 	 actor_supervise_loss=0.355 	 actor_supervise_accuracy=0.882	critic_supervise_loss=0.331 	 critic_supervise_accuracy=0.958	 entropy=0.446 	 kl=0.12637 	 lr=0.00002954
+[2022-11-19 02:01:31,861][my_ppo_all.py][line:460][INFO] steps=76	 episode_num=93.00000	 reached_num=37.00000
+[2022-11-19 02:01:48,879][my_ppo_all.py][line:739][INFO] steps 77, 0.00 steps/s
+[2022-11-19 02:01:48,881][my_ppo_all.py][line:740][INFO] steps=77	 train_return_reward=13.10743	 reached_pro=0.39785	 action_loss=0.104	 value_loss=2.088 	 actor_supervise_loss=0.333 	 actor_supervise_accuracy=0.954	critic_supervise_loss=0.325 	 critic_supervise_accuracy=0.972	 entropy=0.297 	 kl=0.10001 	 lr=0.00002954
+[2022-11-19 02:07:17,963][my_ppo_all.py][line:460][INFO] steps=77	 episode_num=84.00000	 reached_num=36.00000
+[2022-11-19 02:07:35,714][my_ppo_all.py][line:739][INFO] steps 78, 0.00 steps/s
+[2022-11-19 02:07:35,716][my_ppo_all.py][line:740][INFO] steps=78	 train_return_reward=17.51770	 reached_pro=0.42857	 action_loss=0.047	 value_loss=2.808 	 actor_supervise_loss=0.339 	 actor_supervise_accuracy=0.927	critic_supervise_loss=0.329 	 critic_supervise_accuracy=0.959	 entropy=0.212 	 kl=0.13500 	 lr=0.00002953
+[2022-11-19 02:13:03,684][my_ppo_all.py][line:460][INFO] steps=78	 episode_num=96.00000	 reached_num=31.00000
+[2022-11-19 02:13:21,039][my_ppo_all.py][line:739][INFO] steps 79, 0.00 steps/s
+[2022-11-19 02:13:21,043][my_ppo_all.py][line:740][INFO] steps=79	 train_return_reward=10.56940	 reached_pro=0.32292	 action_loss=0.349	 value_loss=3.307 	 actor_supervise_loss=0.330 	 actor_supervise_accuracy=0.956	critic_supervise_loss=0.323 	 critic_supervise_accuracy=0.980	 entropy=0.181 	 kl=0.14963 	 lr=0.00002953
+[2022-11-19 02:18:47,793][my_ppo_all.py][line:460][INFO] steps=79	 episode_num=86.00000	 reached_num=36.00000
+[2022-11-19 02:19:24,659][my_ppo_all.py][line:674][INFO] steps=80	 scenario1_to_3lane_left_turn_c	 test_return_reward=4.51240	 actor_accuracy=1.00000	 critic_accuracy=0.96491	 goal_pro=0.20000
+[2022-11-19 02:19:49,450][my_ppo_all.py][line:674][INFO] steps=80	 scenario1_to_3lane_left_turn_t	 test_return_reward=15.15229	 actor_accuracy=1.00000	 critic_accuracy=1.00000	 goal_pro=0.40000
+[2022-11-19 02:21:46,151][my_ppo_all.py][line:674][INFO] steps=80	 scenario3lane_merge_single_agent	 test_return_reward=3.59852	 actor_accuracy=1.00000	 critic_accuracy=1.00000	 goal_pro=0.00000
+[2022-11-19 02:23:06,855][my_ppo_all.py][line:674][INFO] steps=80	 scenario3lane_cruise_single_agent	 test_return_reward=24.61596	 actor_accuracy=1.00000	 critic_accuracy=1.00000	 goal_pro=0.80000
+[2022-11-19 02:24:22,031][my_ppo_all.py][line:674][INFO] steps=80	 scenario3lane_overtake	 test_return_reward=42.82975	 actor_accuracy=1.00000	 critic_accuracy=1.00000	 goal_pro=1.00000
+[2022-11-19 02:25:54,984][my_ppo_all.py][line:674][INFO] steps=80	 scenario3lane_cut_in	 test_return_reward=25.84114	 actor_accuracy=1.00000	 critic_accuracy=1.00000	 goal_pro=0.60000
+[2022-11-19 02:31:21,549][my_ppo_all.py][line:460][INFO] steps=80	 episode_num=81.00000	 reached_num=47.00000
+[2022-11-19 02:31:39,487][my_ppo_all.py][line:739][INFO] steps 81, 0.00 steps/s
+[2022-11-19 02:31:39,489][my_ppo_all.py][line:740][INFO] steps=81	 train_return_reward=25.12291	 reached_pro=0.58025	 action_loss=0.059	 value_loss=2.487 	 actor_supervise_loss=0.331 	 actor_supervise_accuracy=0.954	critic_supervise_loss=0.325 	 critic_supervise_accuracy=0.980	 entropy=0.300 	 kl=0.07086 	 lr=0.00002951
+[2022-11-19 02:37:09,972][my_ppo_all.py][line:460][INFO] steps=81	 episode_num=84.00000	 reached_num=41.00000
+[2022-11-19 02:37:27,116][my_ppo_all.py][line:739][INFO] steps 82, 0.00 steps/s
+[2022-11-19 02:37:27,118][my_ppo_all.py][line:740][INFO] steps=82	 train_return_reward=20.50383	 reached_pro=0.48810	 action_loss=0.289	 value_loss=2.879 	 actor_supervise_loss=0.338 	 actor_supervise_accuracy=0.939	critic_supervise_loss=0.328 	 critic_supervise_accuracy=0.968	 entropy=0.492 	 kl=0.10794 	 lr=0.00002951
+[2022-11-19 02:42:58,069][my_ppo_all.py][line:460][INFO] steps=82	 episode_num=84.00000	 reached_num=34.00000
+[2022-11-19 02:43:15,262][my_ppo_all.py][line:739][INFO] steps 83, 0.00 steps/s
+[2022-11-19 02:43:15,263][my_ppo_all.py][line:740][INFO] steps=83	 train_return_reward=14.92106	 reached_pro=0.40476	 action_loss=0.493	 value_loss=4.224 	 actor_supervise_loss=0.335 	 actor_supervise_accuracy=0.941	critic_supervise_loss=0.328 	 critic_supervise_accuracy=0.960	 entropy=0.500 	 kl=0.14332 	 lr=0.00002950
+[2022-11-19 02:48:45,715][my_ppo_all.py][line:460][INFO] steps=83	 episode_num=80.00000	 reached_num=41.00000
+[2022-11-19 02:49:03,017][my_ppo_all.py][line:739][INFO] steps 84, 0.00 steps/s
+[2022-11-19 02:49:03,018][my_ppo_all.py][line:740][INFO] steps=84	 train_return_reward=20.45525	 reached_pro=0.51250	 action_loss=0.265	 value_loss=3.451 	 actor_supervise_loss=0.370 	 actor_supervise_accuracy=0.820	critic_supervise_loss=0.358 	 critic_supervise_accuracy=0.869	 entropy=0.371 	 kl=0.08919 	 lr=0.00002950
+[2022-11-19 02:54:19,824][my_ppo_all.py][line:460][INFO] steps=84	 episode_num=82.00000	 reached_num=37.00000
+[2022-11-19 02:54:35,940][my_ppo_all.py][line:739][INFO] steps 85, 0.00 steps/s
+[2022-11-19 02:54:35,943][my_ppo_all.py][line:740][INFO] steps=85	 train_return_reward=17.28894	 reached_pro=0.45122	 action_loss=0.071	 value_loss=2.137 	 actor_supervise_loss=0.361 	 actor_supervise_accuracy=0.856	critic_supervise_loss=0.336 	 critic_supervise_accuracy=0.948	 entropy=0.409 	 kl=0.14623 	 lr=0.00002949
+[2022-11-19 02:59:59,779][my_ppo_all.py][line:460][INFO] steps=85	 episode_num=79.00000	 reached_num=40.00000
+[2022-11-19 03:00:17,023][my_ppo_all.py][line:739][INFO] steps 86, 0.00 steps/s
+[2022-11-19 03:00:17,026][my_ppo_all.py][line:740][INFO] steps=86	 train_return_reward=20.94612	 reached_pro=0.50633	 action_loss=-0.089	 value_loss=1.134 	 actor_supervise_loss=0.362 	 actor_supervise_accuracy=0.863	critic_supervise_loss=0.346 	 critic_supervise_accuracy=0.916	 entropy=0.452 	 kl=0.14349 	 lr=0.00002948
+[2022-11-19 03:05:44,193][my_ppo_all.py][line:460][INFO] steps=86	 episode_num=81.00000	 reached_num=36.00000
+[2022-11-19 03:06:03,988][my_ppo_all.py][line:739][INFO] steps 87, 0.00 steps/s
+[2022-11-19 03:06:03,990][my_ppo_all.py][line:740][INFO] steps=87	 train_return_reward=16.85024	 reached_pro=0.44444	 action_loss=0.124	 value_loss=2.027 	 actor_supervise_loss=0.359 	 actor_supervise_accuracy=0.858	critic_supervise_loss=0.342 	 critic_supervise_accuracy=0.922	 entropy=0.482 	 kl=0.08767 	 lr=0.00002948
+[2022-11-19 03:11:26,257][my_ppo_all.py][line:460][INFO] steps=87	 episode_num=67.00000	 reached_num=40.00000
+[2022-11-19 03:11:43,136][my_ppo_all.py][line:739][INFO] steps 88, 0.00 steps/s
+[2022-11-19 03:11:43,138][my_ppo_all.py][line:740][INFO] steps=88	 train_return_reward=24.95730	 reached_pro=0.59701	 action_loss=-0.058	 value_loss=1.746 	 actor_supervise_loss=0.338 	 actor_supervise_accuracy=0.935	critic_supervise_loss=0.326 	 critic_supervise_accuracy=0.975	 entropy=0.396 	 kl=0.09924 	 lr=0.00002947
+[2022-11-19 03:17:07,695][my_ppo_all.py][line:460][INFO] steps=88	 episode_num=84.00000	 reached_num=30.00000
+[2022-11-19 03:17:24,968][my_ppo_all.py][line:739][INFO] steps 89, 0.00 steps/s
+[2022-11-19 03:17:24,969][my_ppo_all.py][line:740][INFO] steps=89	 train_return_reward=11.11715	 reached_pro=0.35714	 action_loss=0.494	 value_loss=3.759 	 actor_supervise_loss=0.334 	 actor_supervise_accuracy=0.946	critic_supervise_loss=0.326 	 critic_supervise_accuracy=0.972	 entropy=0.444 	 kl=0.12068 	 lr=0.00002947
+[2022-11-19 03:22:40,612][my_ppo_all.py][line:460][INFO] steps=89	 episode_num=73.00000	 reached_num=32.00000
+[2022-11-19 03:23:11,941][my_ppo_all.py][line:674][INFO] steps=90	 scenario1_to_3lane_left_turn_c	 test_return_reward=-8.13417	 actor_accuracy=1.00000	 critic_accuracy=1.00000	 goal_pro=0.00000
+[2022-11-19 03:23:36,502][my_ppo_all.py][line:674][INFO] steps=90	 scenario1_to_3lane_left_turn_t	 test_return_reward=14.15218	 actor_accuracy=0.81250	 critic_accuracy=0.82812	 goal_pro=0.40000
+[2022-11-19 03:25:13,771][my_ppo_all.py][line:674][INFO] steps=90	 scenario3lane_merge_single_agent	 test_return_reward=2.78270	 actor_accuracy=1.00000	 critic_accuracy=1.00000	 goal_pro=0.00000
+[2022-11-19 03:26:26,693][my_ppo_all.py][line:674][INFO] steps=90	 scenario3lane_cruise_single_agent	 test_return_reward=36.12432	 actor_accuracy=0.92517	 critic_accuracy=0.98639	 goal_pro=0.80000
+[2022-11-19 03:27:37,904][my_ppo_all.py][line:674][INFO] steps=90	 scenario3lane_overtake	 test_return_reward=34.60331	 actor_accuracy=1.00000	 critic_accuracy=1.00000	 goal_pro=0.80000
+[2022-11-19 03:29:18,990][my_ppo_all.py][line:674][INFO] steps=90	 scenario3lane_cut_in	 test_return_reward=12.44195	 actor_accuracy=0.98361	 critic_accuracy=1.00000	 goal_pro=0.20000
+[2022-11-19 03:34:49,609][my_ppo_all.py][line:460][INFO] steps=90	 episode_num=80.00000	 reached_num=31.00000
+[2022-11-19 03:35:06,952][my_ppo_all.py][line:739][INFO] steps 91, 0.00 steps/s
+[2022-11-19 03:35:06,955][my_ppo_all.py][line:740][INFO] steps=91	 train_return_reward=13.12805	 reached_pro=0.38750	 action_loss=0.291	 value_loss=2.653 	 actor_supervise_loss=0.333 	 actor_supervise_accuracy=0.943	critic_supervise_loss=0.327 	 critic_supervise_accuracy=0.966	 entropy=0.368 	 kl=0.19949 	 lr=0.00002945
+[2022-11-19 03:40:24,601][my_ppo_all.py][line:460][INFO] steps=91	 episode_num=78.00000	 reached_num=37.00000
+[2022-11-19 03:40:43,559][my_ppo_all.py][line:739][INFO] steps 92, 0.00 steps/s
+[2022-11-19 03:40:43,561][my_ppo_all.py][line:740][INFO] steps=92	 train_return_reward=18.40686	 reached_pro=0.47436	 action_loss=0.258	 value_loss=3.016 	 actor_supervise_loss=0.334 	 actor_supervise_accuracy=0.946	critic_supervise_loss=0.331 	 critic_supervise_accuracy=0.956	 entropy=0.326 	 kl=0.12060 	 lr=0.00002945
+[2022-11-19 03:46:30,406][my_ppo_all.py][line:460][INFO] steps=92	 episode_num=81.00000	 reached_num=41.00000
+[2022-11-19 03:46:47,664][my_ppo_all.py][line:739][INFO] steps 93, 0.00 steps/s
+[2022-11-19 03:46:47,665][my_ppo_all.py][line:740][INFO] steps=93	 train_return_reward=21.87698	 reached_pro=0.50617	 action_loss=0.220	 value_loss=3.027 	 actor_supervise_loss=0.332 	 actor_supervise_accuracy=0.952	critic_supervise_loss=0.328 	 critic_supervise_accuracy=0.966	 entropy=0.566 	 kl=0.12092 	 lr=0.00002944
+[2022-11-19 03:52:15,014][my_ppo_all.py][line:460][INFO] steps=93	 episode_num=87.00000	 reached_num=41.00000
+[2022-11-19 03:52:32,526][my_ppo_all.py][line:739][INFO] steps 94, 0.00 steps/s
+[2022-11-19 03:52:32,527][my_ppo_all.py][line:740][INFO] steps=94	 train_return_reward=18.63119	 reached_pro=0.47126	 action_loss=0.039	 value_loss=3.003 	 actor_supervise_loss=0.335 	 actor_supervise_accuracy=0.951	critic_supervise_loss=0.332 	 critic_supervise_accuracy=0.963	 entropy=0.410 	 kl=0.09537 	 lr=0.00002944
+[2022-11-19 03:58:09,817][my_ppo_all.py][line:460][INFO] steps=94	 episode_num=91.00000	 reached_num=38.00000
+[2022-11-19 03:58:25,752][my_ppo_all.py][line:739][INFO] steps 95, 0.00 steps/s
+[2022-11-19 03:58:25,754][my_ppo_all.py][line:740][INFO] steps=95	 train_return_reward=15.57279	 reached_pro=0.41758	 action_loss=-0.063	 value_loss=2.650 	 actor_supervise_loss=0.335 	 actor_supervise_accuracy=0.944	critic_supervise_loss=0.331 	 critic_supervise_accuracy=0.955	 entropy=0.368 	 kl=0.15717 	 lr=0.00002943
+[2022-11-19 04:04:01,415][my_ppo_all.py][line:460][INFO] steps=95	 episode_num=80.00000	 reached_num=37.00000
+[2022-11-19 04:04:16,958][my_ppo_all.py][line:739][INFO] steps 96, 0.00 steps/s
+[2022-11-19 04:04:16,959][my_ppo_all.py][line:740][INFO] steps=96	 train_return_reward=18.83629	 reached_pro=0.46250	 action_loss=0.131	 value_loss=2.683 	 actor_supervise_loss=0.327 	 actor_supervise_accuracy=0.969	critic_supervise_loss=0.326 	 critic_supervise_accuracy=0.972	 entropy=0.393 	 kl=0.19636 	 lr=0.00002942
+[2022-11-19 04:09:26,066][my_ppo_all.py][line:460][INFO] steps=96	 episode_num=76.00000	 reached_num=40.00000
+[2022-11-19 04:09:43,376][my_ppo_all.py][line:739][INFO] steps 97, 0.00 steps/s
+[2022-11-19 04:09:43,378][my_ppo_all.py][line:740][INFO] steps=97	 train_return_reward=22.73140	 reached_pro=0.52632	 action_loss=-0.210	 value_loss=1.727 	 actor_supervise_loss=0.330 	 actor_supervise_accuracy=0.965	critic_supervise_loss=0.325 	 critic_supervise_accuracy=0.975	 entropy=0.325 	 kl=0.12624 	 lr=0.00002942
+[2022-11-19 04:15:06,815][my_ppo_all.py][line:460][INFO] steps=97	 episode_num=77.00000	 reached_num=38.00000
+[2022-11-19 04:15:24,654][my_ppo_all.py][line:739][INFO] steps 98, 0.00 steps/s
+[2022-11-19 04:15:24,656][my_ppo_all.py][line:740][INFO] steps=98	 train_return_reward=21.53739	 reached_pro=0.49351	 action_loss=-0.061	 value_loss=2.318 	 actor_supervise_loss=0.334 	 actor_supervise_accuracy=0.950	critic_supervise_loss=0.327 	 critic_supervise_accuracy=0.972	 entropy=0.252 	 kl=0.10239 	 lr=0.00002941
+[2022-11-19 04:21:00,151][my_ppo_all.py][line:460][INFO] steps=98	 episode_num=79.00000	 reached_num=33.00000
+[2022-11-19 04:21:05,942][my_ppo_all.py][line:739][INFO] steps 99, 0.00 steps/s
+[2022-11-19 04:21:05,950][my_ppo_all.py][line:740][INFO] steps=99	 train_return_reward=15.46502	 reached_pro=0.41772	 action_loss=0.122	 value_loss=3.739 	 actor_supervise_loss=0.352 	 actor_supervise_accuracy=0.885	critic_supervise_loss=0.351 	 critic_supervise_accuracy=0.877	 entropy=0.146 	 kl=0.12184 	 lr=0.00002941
+[2022-11-19 04:26:20,966][my_ppo_all.py][line:460][INFO] steps=99	 episode_num=77.00000	 reached_num=34.00000
+[2022-11-19 04:27:01,973][my_ppo_all.py][line:674][INFO] steps=100	 scenario1_to_3lane_left_turn_c	 test_return_reward=3.09220	 actor_accuracy=0.76829	 critic_accuracy=0.97561	 goal_pro=0.40000
+[2022-11-19 04:27:36,653][my_ppo_all.py][line:674][INFO] steps=100	 scenario1_to_3lane_left_turn_t	 test_return_reward=-27.60527	 actor_accuracy=0.77612	 critic_accuracy=0.89552	 goal_pro=0.20000
+[2022-11-19 04:29:21,529][my_ppo_all.py][line:674][INFO] steps=100	 scenario3lane_merge_single_agent	 test_return_reward=4.41181	 actor_accuracy=1.00000	 critic_accuracy=1.00000	 goal_pro=0.00000
+[2022-11-19 04:30:48,763][my_ppo_all.py][line:674][INFO] steps=100	 scenario3lane_cruise_single_agent	 test_return_reward=16.86639	 actor_accuracy=1.00000	 critic_accuracy=1.00000	 goal_pro=0.60000
+[2022-11-19 04:31:59,860][my_ppo_all.py][line:674][INFO] steps=100	 scenario3lane_overtake	 test_return_reward=15.33663	 actor_accuracy=1.00000	 critic_accuracy=1.00000	 goal_pro=0.40000
+[2022-11-19 04:33:28,699][my_ppo_all.py][line:674][INFO] steps=100	 scenario3lane_cut_in	 test_return_reward=42.74349	 actor_accuracy=1.00000	 critic_accuracy=1.00000	 goal_pro=0.80000
+[2022-11-19 04:39:01,357][my_ppo_all.py][line:460][INFO] steps=100	 episode_num=86.00000	 reached_num=30.00000
+[2022-11-19 04:39:18,562][my_ppo_all.py][line:739][INFO] steps 101, 0.00 steps/s
+[2022-11-19 04:39:18,563][my_ppo_all.py][line:740][INFO] steps=101	 train_return_reward=10.29617	 reached_pro=0.34884	 action_loss=0.208	 value_loss=3.344 	 actor_supervise_loss=0.364 	 actor_supervise_accuracy=0.846	critic_supervise_loss=0.354 	 critic_supervise_accuracy=0.882	 entropy=0.167 	 kl=0.12975 	 lr=0.00002939
+[2022-11-19 04:44:45,330][my_ppo_all.py][line:460][INFO] steps=101	 episode_num=83.00000	 reached_num=34.00000
+[2022-11-19 04:45:02,816][my_ppo_all.py][line:739][INFO] steps 102, 0.00 steps/s
+[2022-11-19 04:45:02,817][my_ppo_all.py][line:740][INFO] steps=102	 train_return_reward=12.10982	 reached_pro=0.40964	 action_loss=0.204	 value_loss=3.240 	 actor_supervise_loss=0.362 	 actor_supervise_accuracy=0.869	critic_supervise_loss=0.345 	 critic_supervise_accuracy=0.927	 entropy=0.098 	 kl=0.15471 	 lr=0.00002939
+[2022-11-19 04:50:32,614][my_ppo_all.py][line:460][INFO] steps=102	 episode_num=76.00000	 reached_num=35.00000
+[2022-11-19 04:50:51,507][my_ppo_all.py][line:739][INFO] steps 103, 0.00 steps/s
+[2022-11-19 04:50:51,509][my_ppo_all.py][line:740][INFO] steps=103	 train_return_reward=17.18909	 reached_pro=0.46053	 action_loss=-0.120	 value_loss=1.818 	 actor_supervise_loss=0.351 	 actor_supervise_accuracy=0.897	critic_supervise_loss=0.344 	 critic_supervise_accuracy=0.918	 entropy=0.084 	 kl=0.14423 	 lr=0.00002938
+[2022-11-19 04:56:20,099][my_ppo_all.py][line:460][INFO] steps=103	 episode_num=77.00000	 reached_num=36.00000
+[2022-11-19 04:56:37,688][my_ppo_all.py][line:739][INFO] steps 104, 0.00 steps/s
+[2022-11-19 04:56:37,689][my_ppo_all.py][line:740][INFO] steps=104	 train_return_reward=17.51460	 reached_pro=0.46753	 action_loss=-0.119	 value_loss=2.713 	 actor_supervise_loss=0.335 	 actor_supervise_accuracy=0.950	critic_supervise_loss=0.327 	 critic_supervise_accuracy=0.974	 entropy=-0.011 	 kl=0.09231 	 lr=0.00002938
+[2022-11-19 05:02:25,769][my_ppo_all.py][line:460][INFO] steps=104	 episode_num=91.00000	 reached_num=31.00000
+[2022-11-19 05:02:43,367][my_ppo_all.py][line:739][INFO] steps 105, 0.00 steps/s
+[2022-11-19 05:02:43,368][my_ppo_all.py][line:740][INFO] steps=105	 train_return_reward=10.22580	 reached_pro=0.34066	 action_loss=0.224	 value_loss=2.932 	 actor_supervise_loss=0.332 	 actor_supervise_accuracy=0.962	critic_supervise_loss=0.331 	 critic_supervise_accuracy=0.959	 entropy=0.085 	 kl=0.13972 	 lr=0.00002937
+[2022-11-19 05:07:55,730][my_ppo_all.py][line:460][INFO] steps=105	 episode_num=78.00000	 reached_num=37.00000
+[2022-11-19 05:08:14,994][my_ppo_all.py][line:739][INFO] steps 106, 0.00 steps/s
+[2022-11-19 05:08:14,997][my_ppo_all.py][line:740][INFO] steps=106	 train_return_reward=14.04178	 reached_pro=0.47436	 action_loss=-0.115	 value_loss=2.181 	 actor_supervise_loss=0.336 	 actor_supervise_accuracy=0.939	critic_supervise_loss=0.331 	 critic_supervise_accuracy=0.956	 entropy=0.051 	 kl=0.14033 	 lr=0.00002936
+[2022-11-19 05:13:59,696][my_ppo_all.py][line:460][INFO] steps=106	 episode_num=83.00000	 reached_num=32.00000
+[2022-11-19 05:14:16,162][my_ppo_all.py][line:739][INFO] steps 107, 0.00 steps/s
+[2022-11-19 05:14:16,163][my_ppo_all.py][line:740][INFO] steps=107	 train_return_reward=9.94756	 reached_pro=0.38554	 action_loss=0.095	 value_loss=2.642 	 actor_supervise_loss=0.327 	 actor_supervise_accuracy=0.966	critic_supervise_loss=0.327 	 critic_supervise_accuracy=0.967	 entropy=0.123 	 kl=0.14644 	 lr=0.00002936
+[2022-11-19 05:20:00,435][my_ppo_all.py][line:460][INFO] steps=107	 episode_num=93.00000	 reached_num=44.00000
+[2022-11-19 05:20:17,932][my_ppo_all.py][line:739][INFO] steps 108, 0.00 steps/s
+[2022-11-19 05:20:17,933][my_ppo_all.py][line:740][INFO] steps=108	 train_return_reward=18.53412	 reached_pro=0.47312	 action_loss=-0.059	 value_loss=2.173 	 actor_supervise_loss=0.328 	 actor_supervise_accuracy=0.968	critic_supervise_loss=0.331 	 critic_supervise_accuracy=0.955	 entropy=0.230 	 kl=0.09701 	 lr=0.00002935
+[2022-11-19 05:25:33,594][my_ppo_all.py][line:460][INFO] steps=108	 episode_num=85.00000	 reached_num=47.00000
+[2022-11-19 05:25:50,993][my_ppo_all.py][line:739][INFO] steps 109, 0.00 steps/s
+[2022-11-19 05:25:50,997][my_ppo_all.py][line:740][INFO] steps=109	 train_return_reward=22.76337	 reached_pro=0.55294	 action_loss=-0.003	 value_loss=1.621 	 actor_supervise_loss=0.333 	 actor_supervise_accuracy=0.960	critic_supervise_loss=0.331 	 critic_supervise_accuracy=0.963	 entropy=0.106 	 kl=0.15149 	 lr=0.00002935
+[2022-11-19 05:31:28,014][my_ppo_all.py][line:460][INFO] steps=109	 episode_num=87.00000	 reached_num=39.00000
+[2022-11-19 05:31:59,476][my_ppo_all.py][line:674][INFO] steps=110	 scenario1_to_3lane_left_turn_c	 test_return_reward=3.79453	 actor_accuracy=1.00000	 critic_accuracy=1.00000	 goal_pro=0.20000
+[2022-11-19 05:32:23,306][my_ppo_all.py][line:674][INFO] steps=110	 scenario1_to_3lane_left_turn_t	 test_return_reward=3.56103	 actor_accuracy=0.28000	 critic_accuracy=0.00000	 goal_pro=0.20000
+[2022-11-19 05:33:52,308][my_ppo_all.py][line:674][INFO] steps=110	 scenario3lane_merge_single_agent	 test_return_reward=5.08725	 actor_accuracy=1.00000	 critic_accuracy=1.00000	 goal_pro=0.00000
+[2022-11-19 05:35:18,098][my_ppo_all.py][line:674][INFO] steps=110	 scenario3lane_cruise_single_agent	 test_return_reward=47.62947	 actor_accuracy=1.00000	 critic_accuracy=1.00000	 goal_pro=1.00000
+[2022-11-19 05:36:28,572][my_ppo_all.py][line:674][INFO] steps=110	 scenario3lane_overtake	 test_return_reward=43.38295	 actor_accuracy=1.00000	 critic_accuracy=1.00000	 goal_pro=0.80000
+[2022-11-19 05:38:00,338][my_ppo_all.py][line:674][INFO] steps=110	 scenario3lane_cut_in	 test_return_reward=43.09113	 actor_accuracy=1.00000	 critic_accuracy=1.00000	 goal_pro=0.80000
+[2022-11-19 05:43:39,983][my_ppo_all.py][line:460][INFO] steps=110	 episode_num=89.00000	 reached_num=44.00000
+[2022-11-19 05:43:57,318][my_ppo_all.py][line:739][INFO] steps 111, 0.00 steps/s
+[2022-11-19 05:43:57,320][my_ppo_all.py][line:740][INFO] steps=111	 train_return_reward=21.38012	 reached_pro=0.49438	 action_loss=-0.224	 value_loss=1.787 	 actor_supervise_loss=0.349 	 actor_supervise_accuracy=0.893	critic_supervise_loss=0.344 	 critic_supervise_accuracy=0.902	 entropy=0.139 	 kl=0.10896 	 lr=0.00002933
+[2022-11-19 05:49:31,657][my_ppo_all.py][line:460][INFO] steps=111	 episode_num=98.00000	 reached_num=35.00000
+[2022-11-19 05:49:50,776][my_ppo_all.py][line:739][INFO] steps 112, 0.00 steps/s
+[2022-11-19 05:49:50,777][my_ppo_all.py][line:740][INFO] steps=112	 train_return_reward=13.26788	 reached_pro=0.35714	 action_loss=0.040	 value_loss=1.924 	 actor_supervise_loss=0.373 	 actor_supervise_accuracy=0.815	critic_supervise_loss=0.350 	 critic_supervise_accuracy=0.900	 entropy=0.320 	 kl=0.15654 	 lr=0.00002933
+[2022-11-19 05:55:29,263][my_ppo_all.py][line:460][INFO] steps=112	 episode_num=88.00000	 reached_num=42.00000
+[2022-11-19 05:55:49,347][my_ppo_all.py][line:739][INFO] steps 113, 0.00 steps/s
+[2022-11-19 05:55:49,348][my_ppo_all.py][line:740][INFO] steps=113	 train_return_reward=19.29324	 reached_pro=0.47727	 action_loss=-0.091	 value_loss=1.327 	 actor_supervise_loss=0.371 	 actor_supervise_accuracy=0.819	critic_supervise_loss=0.345 	 critic_supervise_accuracy=0.911	 entropy=0.128 	 kl=0.14282 	 lr=0.00002932
+[2022-11-19 06:01:34,840][my_ppo_all.py][line:460][INFO] steps=113	 episode_num=88.00000	 reached_num=42.00000
+[2022-11-19 06:01:51,675][my_ppo_all.py][line:739][INFO] steps 114, 0.00 steps/s
+[2022-11-19 06:01:51,676][my_ppo_all.py][line:740][INFO] steps=114	 train_return_reward=19.95767	 reached_pro=0.47727	 action_loss=-0.236	 value_loss=1.165 	 actor_supervise_loss=0.363 	 actor_supervise_accuracy=0.840	critic_supervise_loss=0.346 	 critic_supervise_accuracy=0.908	 entropy=0.094 	 kl=0.15525 	 lr=0.00002932
+[2022-11-19 06:07:17,711][my_ppo_all.py][line:460][INFO] steps=114	 episode_num=79.00000	 reached_num=42.00000
+[2022-11-19 06:07:35,166][my_ppo_all.py][line:739][INFO] steps 115, 0.00 steps/s
+[2022-11-19 06:07:35,169][my_ppo_all.py][line:740][INFO] steps=115	 train_return_reward=22.74380	 reached_pro=0.53165	 action_loss=0.144	 value_loss=2.404 	 actor_supervise_loss=0.343 	 actor_supervise_accuracy=0.928	critic_supervise_loss=0.332 	 critic_supervise_accuracy=0.958	 entropy=0.097 	 kl=0.15947 	 lr=0.00002931
+[2022-11-19 06:13:12,186][my_ppo_all.py][line:460][INFO] steps=115	 episode_num=76.00000	 reached_num=38.00000
+[2022-11-19 06:13:22,628][my_ppo_all.py][line:739][INFO] steps 116, 0.00 steps/s
+[2022-11-19 06:13:22,638][my_ppo_all.py][line:740][INFO] steps=116	 train_return_reward=14.42662	 reached_pro=0.50000	 action_loss=0.342	 value_loss=6.002 	 actor_supervise_loss=0.337 	 actor_supervise_accuracy=0.942	critic_supervise_loss=0.330 	 critic_supervise_accuracy=0.960	 entropy=0.420 	 kl=0.22628 	 lr=0.00002930
+[2022-11-19 06:19:25,838][my_ppo_all.py][line:460][INFO] steps=116	 episode_num=91.00000	 reached_num=33.00000
+[2022-11-19 06:19:42,293][my_ppo_all.py][line:739][INFO] steps 117, 0.00 steps/s
+[2022-11-19 06:19:42,296][my_ppo_all.py][line:740][INFO] steps=117	 train_return_reward=13.89180	 reached_pro=0.36264	 action_loss=0.203	 value_loss=2.489 	 actor_supervise_loss=0.343 	 actor_supervise_accuracy=0.918	critic_supervise_loss=0.336 	 critic_supervise_accuracy=0.937	 entropy=0.239 	 kl=0.20375 	 lr=0.00002930
+[2022-11-19 06:25:14,645][my_ppo_all.py][line:460][INFO] steps=117	 episode_num=87.00000	 reached_num=40.00000
+[2022-11-19 06:25:31,819][my_ppo_all.py][line:739][INFO] steps 118, 0.00 steps/s
+[2022-11-19 06:25:31,822][my_ppo_all.py][line:740][INFO] steps=118	 train_return_reward=19.24497	 reached_pro=0.45977	 action_loss=0.013	 value_loss=2.539 	 actor_supervise_loss=0.332 	 actor_supervise_accuracy=0.951	critic_supervise_loss=0.325 	 critic_supervise_accuracy=0.976	 entropy=0.339 	 kl=0.15356 	 lr=0.00002929
+[2022-11-19 06:31:19,550][my_ppo_all.py][line:460][INFO] steps=118	 episode_num=93.00000	 reached_num=41.00000
+[2022-11-19 06:31:36,669][my_ppo_all.py][line:739][INFO] steps 119, 0.00 steps/s
+[2022-11-19 06:31:36,671][my_ppo_all.py][line:740][INFO] steps=119	 train_return_reward=18.96782	 reached_pro=0.44086	 action_loss=0.298	 value_loss=2.900 	 actor_supervise_loss=0.378 	 actor_supervise_accuracy=0.800	critic_supervise_loss=0.354 	 critic_supervise_accuracy=0.889	 entropy=0.386 	 kl=0.12806 	 lr=0.00002929
+[2022-11-19 06:37:33,088][my_ppo_all.py][line:460][INFO] steps=119	 episode_num=99.00000	 reached_num=37.00000
+[2022-11-19 06:38:05,182][my_ppo_all.py][line:674][INFO] steps=120	 scenario1_to_3lane_left_turn_c	 test_return_reward=15.31049	 actor_accuracy=1.00000	 critic_accuracy=1.00000	 goal_pro=0.40000
+[2022-11-19 06:38:27,499][my_ppo_all.py][line:674][INFO] steps=120	 scenario1_to_3lane_left_turn_t	 test_return_reward=16.00677	 actor_accuracy=0.98276	 critic_accuracy=1.00000	 goal_pro=0.40000
+[2022-11-19 06:39:59,112][my_ppo_all.py][line:674][INFO] steps=120	 scenario3lane_merge_single_agent	 test_return_reward=4.42945	 actor_accuracy=1.00000	 critic_accuracy=1.00000	 goal_pro=0.00000
+[2022-11-19 06:41:23,080][my_ppo_all.py][line:674][INFO] steps=120	 scenario3lane_cruise_single_agent	 test_return_reward=47.73971	 actor_accuracy=0.86928	 critic_accuracy=0.99346	 goal_pro=1.00000
+[2022-11-19 06:42:26,408][my_ppo_all.py][line:674][INFO] steps=120	 scenario3lane_overtake	 test_return_reward=35.68734	 actor_accuracy=1.00000	 critic_accuracy=1.00000	 goal_pro=0.60000
+[2022-11-19 06:43:56,257][my_ppo_all.py][line:674][INFO] steps=120	 scenario3lane_cut_in	 test_return_reward=24.95258	 actor_accuracy=1.00000	 critic_accuracy=1.00000	 goal_pro=0.40000
+[2022-11-19 06:49:36,875][my_ppo_all.py][line:460][INFO] steps=120	 episode_num=106.00000	 reached_num=39.00000
+[2022-11-19 06:49:54,369][my_ppo_all.py][line:739][INFO] steps 121, 0.00 steps/s
+[2022-11-19 06:49:54,371][my_ppo_all.py][line:740][INFO] steps=121	 train_return_reward=13.73930	 reached_pro=0.36792	 action_loss=0.295	 value_loss=2.671 	 actor_supervise_loss=0.366 	 actor_supervise_accuracy=0.848	critic_supervise_loss=0.326 	 critic_supervise_accuracy=0.973	 entropy=0.553 	 kl=0.14314 	 lr=0.00002927
+[2022-11-19 06:56:30,609][my_ppo_all.py][line:460][INFO] steps=121	 episode_num=111.00000	 reached_num=43.00000
+[2022-11-19 06:56:47,225][my_ppo_all.py][line:739][INFO] steps 122, 0.00 steps/s
+[2022-11-19 06:56:47,227][my_ppo_all.py][line:740][INFO] steps=122	 train_return_reward=14.72551	 reached_pro=0.38739	 action_loss=0.269	 value_loss=3.146 	 actor_supervise_loss=0.332 	 actor_supervise_accuracy=0.972	critic_supervise_loss=0.324 	 critic_supervise_accuracy=0.978	 entropy=0.662 	 kl=0.16606 	 lr=0.00002927
+[2022-11-19 07:02:25,539][my_ppo_all.py][line:460][INFO] steps=122	 episode_num=97.00000	 reached_num=41.00000
+[2022-11-19 07:02:43,073][my_ppo_all.py][line:739][INFO] steps 123, 0.00 steps/s
+[2022-11-19 07:02:43,074][my_ppo_all.py][line:740][INFO] steps=123	 train_return_reward=17.30636	 reached_pro=0.42268	 action_loss=-0.043	 value_loss=2.549 	 actor_supervise_loss=0.332 	 actor_supervise_accuracy=0.960	critic_supervise_loss=0.324 	 critic_supervise_accuracy=0.986	 entropy=0.574 	 kl=0.12574 	 lr=0.00002926
+[2022-11-19 07:08:58,308][my_ppo_all.py][line:460][INFO] steps=123	 episode_num=145.00000	 reached_num=28.00000
+[2022-11-19 07:09:14,624][my_ppo_all.py][line:739][INFO] steps 124, 0.00 steps/s
+[2022-11-19 07:09:14,627][my_ppo_all.py][line:740][INFO] steps=124	 train_return_reward=4.13034	 reached_pro=0.19310	 action_loss=-0.080	 value_loss=3.063 	 actor_supervise_loss=0.331 	 actor_supervise_accuracy=0.957	critic_supervise_loss=0.320 	 critic_supervise_accuracy=0.989	 entropy=0.454 	 kl=0.18848 	 lr=0.00002926
+[2022-11-19 07:15:08,130][my_ppo_all.py][line:460][INFO] steps=124	 episode_num=119.00000	 reached_num=35.00000
+[2022-11-19 07:15:23,417][my_ppo_all.py][line:739][INFO] steps 125, 0.00 steps/s
+[2022-11-19 07:15:23,419][my_ppo_all.py][line:740][INFO] steps=125	 train_return_reward=9.97729	 reached_pro=0.29412	 action_loss=0.081	 value_loss=2.229 	 actor_supervise_loss=0.326 	 actor_supervise_accuracy=0.976	critic_supervise_loss=0.322 	 critic_supervise_accuracy=0.985	 entropy=0.386 	 kl=0.17696 	 lr=0.00002925
+[2022-11-19 07:21:22,881][my_ppo_all.py][line:460][INFO] steps=125	 episode_num=100.00000	 reached_num=44.00000
+[2022-11-19 07:21:38,199][my_ppo_all.py][line:739][INFO] steps 126, 0.00 steps/s
+[2022-11-19 07:21:38,202][my_ppo_all.py][line:740][INFO] steps=126	 train_return_reward=17.36894	 reached_pro=0.44000	 action_loss=0.167	 value_loss=3.260 	 actor_supervise_loss=0.354 	 actor_supervise_accuracy=0.882	critic_supervise_loss=0.353 	 critic_supervise_accuracy=0.879	 entropy=0.561 	 kl=0.23308 	 lr=0.00002924
+[2022-11-19 07:27:55,574][my_ppo_all.py][line:460][INFO] steps=126	 episode_num=105.00000	 reached_num=43.00000
+[2022-11-19 07:28:12,425][my_ppo_all.py][line:739][INFO] steps 127, 0.00 steps/s
+[2022-11-19 07:28:12,426][my_ppo_all.py][line:740][INFO] steps=127	 train_return_reward=15.96514	 reached_pro=0.40952	 action_loss=0.258	 value_loss=3.480 	 actor_supervise_loss=0.372 	 actor_supervise_accuracy=0.821	critic_supervise_loss=0.372 	 critic_supervise_accuracy=0.822	 entropy=0.375 	 kl=0.18666 	 lr=0.00002924
+[2022-11-19 07:33:55,299][my_ppo_all.py][line:460][INFO] steps=127	 episode_num=108.00000	 reached_num=44.00000
+[2022-11-19 07:34:02,382][my_ppo_all.py][line:739][INFO] steps 128, 0.00 steps/s
+[2022-11-19 07:34:02,389][my_ppo_all.py][line:740][INFO] steps=128	 train_return_reward=14.48326	 reached_pro=0.40741	 action_loss=0.077	 value_loss=2.404 	 actor_supervise_loss=0.375 	 actor_supervise_accuracy=0.807	critic_supervise_loss=0.372 	 critic_supervise_accuracy=0.812	 entropy=0.626 	 kl=0.24977 	 lr=0.00002923
+[2022-11-19 07:40:12,649][my_ppo_all.py][line:460][INFO] steps=128	 episode_num=123.00000	 reached_num=40.00000
+[2022-11-19 07:40:30,151][my_ppo_all.py][line:739][INFO] steps 129, 0.00 steps/s
+[2022-11-19 07:40:30,155][my_ppo_all.py][line:740][INFO] steps=129	 train_return_reward=12.14951	 reached_pro=0.32520	 action_loss=0.128	 value_loss=2.550 	 actor_supervise_loss=0.372 	 actor_supervise_accuracy=0.816	critic_supervise_loss=0.349 	 critic_supervise_accuracy=0.911	 entropy=0.686 	 kl=0.09498 	 lr=0.00002923
+[2022-11-19 07:46:32,300][my_ppo_all.py][line:460][INFO] steps=129	 episode_num=119.00000	 reached_num=44.00000
+[2022-11-19 07:47:09,103][my_ppo_all.py][line:674][INFO] steps=130	 scenario1_to_3lane_left_turn_c	 test_return_reward=16.68553	 actor_accuracy=0.91111	 critic_accuracy=1.00000	 goal_pro=0.40000
+[2022-11-19 07:47:26,149][my_ppo_all.py][line:674][INFO] steps=130	 scenario1_to_3lane_left_turn_t	 test_return_reward=3.83127	 actor_accuracy=0.87234	 critic_accuracy=1.00000	 goal_pro=0.20000
+[2022-11-19 07:48:58,981][my_ppo_all.py][line:674][INFO] steps=130	 scenario3lane_merge_single_agent	 test_return_reward=6.42050	 actor_accuracy=1.00000	 critic_accuracy=1.00000	 goal_pro=0.00000
+[2022-11-19 07:50:22,364][my_ppo_all.py][line:674][INFO] steps=130	 scenario3lane_cruise_single_agent	 test_return_reward=49.48083	 actor_accuracy=1.00000	 critic_accuracy=0.97938	 goal_pro=1.00000
+[2022-11-19 07:51:24,298][my_ppo_all.py][line:674][INFO] steps=130	 scenario3lane_overtake	 test_return_reward=53.73055	 actor_accuracy=1.00000	 critic_accuracy=1.00000	 goal_pro=1.00000
+[2022-11-19 07:52:42,288][my_ppo_all.py][line:674][INFO] steps=130	 scenario3lane_cut_in	 test_return_reward=17.48126	 actor_accuracy=1.00000	 critic_accuracy=0.00000	 goal_pro=0.60000
+[2022-11-19 07:59:10,275][my_ppo_all.py][line:460][INFO] steps=130	 episode_num=122.00000	 reached_num=39.00000
+[2022-11-19 07:59:28,145][my_ppo_all.py][line:739][INFO] steps 131, 0.00 steps/s
+[2022-11-19 07:59:28,146][my_ppo_all.py][line:740][INFO] steps=131	 train_return_reward=11.85949	 reached_pro=0.31967	 action_loss=0.050	 value_loss=2.654 	 actor_supervise_loss=0.340 	 actor_supervise_accuracy=0.954	critic_supervise_loss=0.329 	 critic_supervise_accuracy=0.970	 entropy=0.602 	 kl=0.13931 	 lr=0.00002921
+[2022-11-19 08:05:38,061][my_ppo_all.py][line:460][INFO] steps=131	 episode_num=135.00000	 reached_num=35.00000
+[2022-11-19 08:05:52,077][my_ppo_all.py][line:739][INFO] steps 132, 0.00 steps/s
+[2022-11-19 08:05:52,079][my_ppo_all.py][line:740][INFO] steps=132	 train_return_reward=7.83721	 reached_pro=0.25926	 action_loss=0.047	 value_loss=1.970 	 actor_supervise_loss=0.329 	 actor_supervise_accuracy=0.979	critic_supervise_loss=0.324 	 critic_supervise_accuracy=0.982	 entropy=0.608 	 kl=0.27095 	 lr=0.00002921
+[2022-11-19 08:12:10,386][my_ppo_all.py][line:460][INFO] steps=132	 episode_num=114.00000	 reached_num=45.00000
+[2022-11-19 08:12:27,973][my_ppo_all.py][line:739][INFO] steps 133, 0.00 steps/s
+[2022-11-19 08:12:27,976][my_ppo_all.py][line:740][INFO] steps=133	 train_return_reward=16.45718	 reached_pro=0.39474	 action_loss=0.055	 value_loss=2.407 	 actor_supervise_loss=0.362 	 actor_supervise_accuracy=0.844	critic_supervise_loss=0.343 	 critic_supervise_accuracy=0.912	 entropy=0.745 	 kl=0.11894 	 lr=0.00002920
+[2022-11-19 08:18:27,244][my_ppo_all.py][line:460][INFO] steps=133	 episode_num=119.00000	 reached_num=44.00000
+[2022-11-19 08:18:46,885][my_ppo_all.py][line:739][INFO] steps 134, 0.00 steps/s
+[2022-11-19 08:18:46,886][my_ppo_all.py][line:740][INFO] steps=134	 train_return_reward=14.96271	 reached_pro=0.36975	 action_loss=-0.024	 value_loss=2.508 	 actor_supervise_loss=0.362 	 actor_supervise_accuracy=0.861	critic_supervise_loss=0.332 	 critic_supervise_accuracy=0.961	 entropy=0.780 	 kl=0.13413 	 lr=0.00002920
+[2022-11-19 08:25:03,671][my_ppo_all.py][line:460][INFO] steps=134	 episode_num=108.00000	 reached_num=32.00000
+[2022-11-19 08:25:19,399][my_ppo_all.py][line:739][INFO] steps 135, 0.00 steps/s
+[2022-11-19 08:25:19,402][my_ppo_all.py][line:740][INFO] steps=135	 train_return_reward=10.76833	 reached_pro=0.29630	 action_loss=0.595	 value_loss=5.165 	 actor_supervise_loss=0.333 	 actor_supervise_accuracy=0.961	critic_supervise_loss=0.327 	 critic_supervise_accuracy=0.975	 entropy=0.993 	 kl=0.17156 	 lr=0.00002919
+[2022-11-19 08:31:16,123][my_ppo_all.py][line:460][INFO] steps=135	 episode_num=108.00000	 reached_num=40.00000
+[2022-11-19 08:31:31,870][my_ppo_all.py][line:739][INFO] steps 136, 0.00 steps/s
+[2022-11-19 08:31:31,873][my_ppo_all.py][line:740][INFO] steps=136	 train_return_reward=13.27721	 reached_pro=0.37037	 action_loss=0.117	 value_loss=3.065 	 actor_supervise_loss=0.331 	 actor_supervise_accuracy=0.971	critic_supervise_loss=0.328 	 critic_supervise_accuracy=0.975	 entropy=0.903 	 kl=0.14759 	 lr=0.00002918
+[2022-11-19 08:37:29,562][my_ppo_all.py][line:460][INFO] steps=136	 episode_num=110.00000	 reached_num=38.00000
+[2022-11-19 08:37:45,992][my_ppo_all.py][line:739][INFO] steps 137, 0.00 steps/s
+[2022-11-19 08:37:45,996][my_ppo_all.py][line:740][INFO] steps=137	 train_return_reward=10.99463	 reached_pro=0.34545	 action_loss=0.195	 value_loss=2.751 	 actor_supervise_loss=0.335 	 actor_supervise_accuracy=0.952	critic_supervise_loss=0.324 	 critic_supervise_accuracy=0.984	 entropy=0.825 	 kl=0.19335 	 lr=0.00002918
+[2022-11-19 08:43:47,478][my_ppo_all.py][line:460][INFO] steps=137	 episode_num=91.00000	 reached_num=49.00000
+[2022-11-19 08:44:05,040][my_ppo_all.py][line:739][INFO] steps 138, 0.00 steps/s
+[2022-11-19 08:44:05,043][my_ppo_all.py][line:740][INFO] steps=138	 train_return_reward=23.32903	 reached_pro=0.53846	 action_loss=0.035	 value_loss=2.909 	 actor_supervise_loss=0.334 	 actor_supervise_accuracy=0.953	critic_supervise_loss=0.326 	 critic_supervise_accuracy=0.975	 entropy=0.916 	 kl=0.12744 	 lr=0.00002917
+[2022-11-19 08:49:47,502][my_ppo_all.py][line:460][INFO] steps=138	 episode_num=113.00000	 reached_num=42.00000
+[2022-11-19 08:50:04,158][my_ppo_all.py][line:739][INFO] steps 139, 0.00 steps/s
+[2022-11-19 08:50:04,161][my_ppo_all.py][line:740][INFO] steps=139	 train_return_reward=14.10453	 reached_pro=0.37168	 action_loss=0.135	 value_loss=2.889 	 actor_supervise_loss=0.333 	 actor_supervise_accuracy=0.956	critic_supervise_loss=0.325 	 critic_supervise_accuracy=0.980	 entropy=0.903 	 kl=0.13338 	 lr=0.00002917
+[2022-11-19 08:56:11,495][my_ppo_all.py][line:460][INFO] steps=139	 episode_num=108.00000	 reached_num=43.00000
+[2022-11-19 08:56:44,477][my_ppo_all.py][line:674][INFO] steps=140	 scenario1_to_3lane_left_turn_c	 test_return_reward=16.45739	 actor_accuracy=0.74468	 critic_accuracy=0.63830	 goal_pro=0.40000
+[2022-11-19 08:57:11,706][my_ppo_all.py][line:674][INFO] steps=140	 scenario1_to_3lane_left_turn_t	 test_return_reward=-34.41085	 actor_accuracy=0.94643	 critic_accuracy=0.98214	 goal_pro=0.40000
+[2022-11-19 08:58:45,736][my_ppo_all.py][line:674][INFO] steps=140	 scenario3lane_merge_single_agent	 test_return_reward=3.75413	 actor_accuracy=1.00000	 critic_accuracy=1.00000	 goal_pro=0.00000
+[2022-11-19 09:00:12,479][my_ppo_all.py][line:674][INFO] steps=140	 scenario3lane_cruise_single_agent	 test_return_reward=34.38820	 actor_accuracy=1.00000	 critic_accuracy=1.00000	 goal_pro=0.80000
+[2022-11-19 09:01:15,463][my_ppo_all.py][line:674][INFO] steps=140	 scenario3lane_overtake	 test_return_reward=53.74651	 actor_accuracy=1.00000	 critic_accuracy=1.00000	 goal_pro=1.00000
+[2022-11-19 09:02:41,019][my_ppo_all.py][line:674][INFO] steps=140	 scenario3lane_cut_in	 test_return_reward=37.22880	 actor_accuracy=1.00000	 critic_accuracy=1.00000	 goal_pro=0.80000
+[2022-11-19 09:08:48,739][my_ppo_all.py][line:460][INFO] steps=140	 episode_num=127.00000	 reached_num=42.00000
+[2022-11-19 09:09:06,157][my_ppo_all.py][line:739][INFO] steps 141, 0.00 steps/s
+[2022-11-19 09:09:06,158][my_ppo_all.py][line:740][INFO] steps=141	 train_return_reward=11.77984	 reached_pro=0.33071	 action_loss=-0.000	 value_loss=2.240 	 actor_supervise_loss=0.364 	 actor_supervise_accuracy=0.826	critic_supervise_loss=0.340 	 critic_supervise_accuracy=0.938	 entropy=0.832 	 kl=0.16019 	 lr=0.00002915
+[2022-11-19 09:15:01,117][my_ppo_all.py][line:460][INFO] steps=141	 episode_num=125.00000	 reached_num=33.00000
+[2022-11-19 09:15:16,505][my_ppo_all.py][line:739][INFO] steps 142, 0.00 steps/s
+[2022-11-19 09:15:16,506][my_ppo_all.py][line:740][INFO] steps=142	 train_return_reward=5.49747	 reached_pro=0.26400	 action_loss=0.337	 value_loss=5.138 	 actor_supervise_loss=0.349 	 actor_supervise_accuracy=0.899	critic_supervise_loss=0.334 	 critic_supervise_accuracy=0.955	 entropy=0.921 	 kl=0.20190 	 lr=0.00002915
+[2022-11-19 09:21:52,794][my_ppo_all.py][line:460][INFO] steps=142	 episode_num=104.00000	 reached_num=39.00000
+[2022-11-19 09:22:06,539][my_ppo_all.py][line:739][INFO] steps 143, 0.00 steps/s
+[2022-11-19 09:22:06,543][my_ppo_all.py][line:740][INFO] steps=143	 train_return_reward=13.23228	 reached_pro=0.37500	 action_loss=0.202	 value_loss=5.280 	 actor_supervise_loss=0.333 	 actor_supervise_accuracy=0.957	critic_supervise_loss=0.330 	 critic_supervise_accuracy=0.963	 entropy=0.915 	 kl=0.20567 	 lr=0.00002914
+[2022-11-19 09:28:12,033][my_ppo_all.py][line:460][INFO] steps=143	 episode_num=122.00000	 reached_num=30.00000
+[2022-11-19 09:28:27,193][my_ppo_all.py][line:739][INFO] steps 144, 0.00 steps/s
+[2022-11-19 09:28:27,196][my_ppo_all.py][line:740][INFO] steps=144	 train_return_reward=6.50570	 reached_pro=0.24590	 action_loss=0.473	 value_loss=3.261 	 actor_supervise_loss=0.335 	 actor_supervise_accuracy=0.957	critic_supervise_loss=0.327 	 critic_supervise_accuracy=0.979	 entropy=0.830 	 kl=0.20267 	 lr=0.00002914
+[2022-11-19 09:34:12,040][my_ppo_all.py][line:460][INFO] steps=144	 episode_num=110.00000	 reached_num=42.00000
+[2022-11-19 09:34:30,120][my_ppo_all.py][line:739][INFO] steps 145, 0.00 steps/s
+[2022-11-19 09:34:30,121][my_ppo_all.py][line:740][INFO] steps=145	 train_return_reward=14.58175	 reached_pro=0.38182	 action_loss=0.276	 value_loss=3.373 	 actor_supervise_loss=0.331 	 actor_supervise_accuracy=0.966	critic_supervise_loss=0.326 	 critic_supervise_accuracy=0.978	 entropy=1.157 	 kl=0.13048 	 lr=0.00002913
+[2022-11-19 09:40:46,663][my_ppo_all.py][line:460][INFO] steps=145	 episode_num=122.00000	 reached_num=39.00000
+[2022-11-19 09:41:03,682][my_ppo_all.py][line:739][INFO] steps 146, 0.00 steps/s
+[2022-11-19 09:41:03,685][my_ppo_all.py][line:740][INFO] steps=146	 train_return_reward=10.54931	 reached_pro=0.31967	 action_loss=0.024	 value_loss=3.559 	 actor_supervise_loss=0.335 	 actor_supervise_accuracy=0.945	critic_supervise_loss=0.332 	 critic_supervise_accuracy=0.957	 entropy=1.054 	 kl=0.14909 	 lr=0.00002912
+[2022-11-19 09:47:00,667][my_ppo_all.py][line:460][INFO] steps=146	 episode_num=119.00000	 reached_num=41.00000
+[2022-11-19 09:47:18,910][my_ppo_all.py][line:739][INFO] steps 147, 0.00 steps/s
+[2022-11-19 09:47:18,913][my_ppo_all.py][line:740][INFO] steps=147	 train_return_reward=13.63278	 reached_pro=0.34454	 action_loss=-0.023	 value_loss=2.953 	 actor_supervise_loss=0.351 	 actor_supervise_accuracy=0.888	critic_supervise_loss=0.341 	 critic_supervise_accuracy=0.921	 entropy=1.129 	 kl=0.11045 	 lr=0.00002912
+[2022-11-19 09:53:45,584][my_ppo_all.py][line:460][INFO] steps=147	 episode_num=134.00000	 reached_num=38.00000
+[2022-11-19 09:54:02,872][my_ppo_all.py][line:739][INFO] steps 148, 0.00 steps/s
+[2022-11-19 09:54:02,874][my_ppo_all.py][line:740][INFO] steps=148	 train_return_reward=8.29467	 reached_pro=0.28358	 action_loss=0.122	 value_loss=2.646 	 actor_supervise_loss=0.370 	 actor_supervise_accuracy=0.827	critic_supervise_loss=0.342 	 critic_supervise_accuracy=0.939	 entropy=0.930 	 kl=0.18679 	 lr=0.00002911
+[2022-11-19 10:00:51,940][my_ppo_all.py][line:460][INFO] steps=148	 episode_num=142.00000	 reached_num=41.00000
+[2022-11-19 10:01:10,821][my_ppo_all.py][line:739][INFO] steps 149, 0.00 steps/s
+[2022-11-19 10:01:10,821][my_ppo_all.py][line:740][INFO] steps=149	 train_return_reward=9.42993	 reached_pro=0.28873	 action_loss=-0.145	 value_loss=3.534 	 actor_supervise_loss=0.365 	 actor_supervise_accuracy=0.843	critic_supervise_loss=0.344 	 critic_supervise_accuracy=0.926	 entropy=0.956 	 kl=0.12213 	 lr=0.00002911
+[2022-11-19 10:07:11,279][my_ppo_all.py][line:460][INFO] steps=149	 episode_num=129.00000	 reached_num=37.00000
+[2022-11-19 10:07:34,389][my_ppo_all.py][line:674][INFO] steps=150	 scenario1_to_3lane_left_turn_c	 test_return_reward=-7.93967	 actor_accuracy=1.00000	 critic_accuracy=1.00000	 goal_pro=0.00000
+[2022-11-19 10:07:55,298][my_ppo_all.py][line:674][INFO] steps=150	 scenario1_to_3lane_left_turn_t	 test_return_reward=16.06186	 actor_accuracy=1.00000	 critic_accuracy=1.00000	 goal_pro=0.40000
+[2022-11-19 10:09:29,272][my_ppo_all.py][line:674][INFO] steps=150	 scenario3lane_merge_single_agent	 test_return_reward=6.43249	 actor_accuracy=0.97260	 critic_accuracy=0.97260	 goal_pro=0.00000
+[2022-11-19 10:10:47,654][my_ppo_all.py][line:674][INFO] steps=150	 scenario3lane_cruise_single_agent	 test_return_reward=42.10796	 actor_accuracy=1.00000	 critic_accuracy=1.00000	 goal_pro=0.80000
+[2022-11-19 10:11:50,616][my_ppo_all.py][line:674][INFO] steps=150	 scenario3lane_overtake	 test_return_reward=35.51546	 actor_accuracy=1.00000	 critic_accuracy=1.00000	 goal_pro=0.60000
+[2022-11-19 10:13:13,802][my_ppo_all.py][line:674][INFO] steps=150	 scenario3lane_cut_in	 test_return_reward=34.04906	 actor_accuracy=1.00000	 critic_accuracy=1.00000	 goal_pro=0.80000
+[2022-11-19 10:19:43,525][my_ppo_all.py][line:460][INFO] steps=150	 episode_num=145.00000	 reached_num=35.00000
+[2022-11-19 10:19:59,677][my_ppo_all.py][line:739][INFO] steps 151, 0.00 steps/s
+[2022-11-19 10:19:59,679][my_ppo_all.py][line:740][INFO] steps=151	 train_return_reward=5.65493	 reached_pro=0.24138	 action_loss=-0.014	 value_loss=1.849 	 actor_supervise_loss=0.334 	 actor_supervise_accuracy=0.962	critic_supervise_loss=0.331 	 critic_supervise_accuracy=0.964	 entropy=0.860 	 kl=0.21489 	 lr=0.00002909
+[2022-11-19 10:25:57,493][my_ppo_all.py][line:460][INFO] steps=151	 episode_num=124.00000	 reached_num=43.00000
+[2022-11-19 10:26:13,866][my_ppo_all.py][line:739][INFO] steps 152, 0.00 steps/s
+[2022-11-19 10:26:13,868][my_ppo_all.py][line:740][INFO] steps=152	 train_return_reward=11.08206	 reached_pro=0.34677	 action_loss=-0.149	 value_loss=2.797 	 actor_supervise_loss=0.332 	 actor_supervise_accuracy=0.959	critic_supervise_loss=0.328 	 critic_supervise_accuracy=0.971	 entropy=0.877 	 kl=0.17723 	 lr=0.00002909
+[2022-11-19 10:32:17,825][my_ppo_all.py][line:460][INFO] steps=152	 episode_num=124.00000	 reached_num=43.00000
+[2022-11-19 10:32:34,884][my_ppo_all.py][line:739][INFO] steps 153, 0.00 steps/s
+[2022-11-19 10:32:34,888][my_ppo_all.py][line:740][INFO] steps=153	 train_return_reward=13.41901	 reached_pro=0.34677	 action_loss=-0.361	 value_loss=3.042 	 actor_supervise_loss=0.326 	 actor_supervise_accuracy=0.979	critic_supervise_loss=0.325 	 critic_supervise_accuracy=0.982	 entropy=0.845 	 kl=0.11696 	 lr=0.00002908
+[2022-11-19 10:39:08,816][my_ppo_all.py][line:460][INFO] steps=153	 episode_num=140.00000	 reached_num=35.00000
+[2022-11-19 10:39:24,802][my_ppo_all.py][line:739][INFO] steps 154, 0.00 steps/s
+[2022-11-19 10:39:24,804][my_ppo_all.py][line:740][INFO] steps=154	 train_return_reward=5.82704	 reached_pro=0.25000	 action_loss=0.248	 value_loss=3.483 	 actor_supervise_loss=0.348 	 actor_supervise_accuracy=0.902	critic_supervise_loss=0.341 	 critic_supervise_accuracy=0.917	 entropy=1.006 	 kl=0.17857 	 lr=0.00002908
+[2022-11-19 10:45:39,240][my_ppo_all.py][line:460][INFO] steps=154	 episode_num=139.00000	 reached_num=34.00000
+[2022-11-19 10:45:56,445][my_ppo_all.py][line:739][INFO] steps 155, 0.00 steps/s
+[2022-11-19 10:45:56,446][my_ppo_all.py][line:740][INFO] steps=155	 train_return_reward=6.51425	 reached_pro=0.24460	 action_loss=0.252	 value_loss=3.053 	 actor_supervise_loss=0.368 	 actor_supervise_accuracy=0.826	critic_supervise_loss=0.346 	 critic_supervise_accuracy=0.913	 entropy=1.169 	 kl=0.15471 	 lr=0.00002907
+[2022-11-19 10:52:05,459][my_ppo_all.py][line:460][INFO] steps=155	 episode_num=133.00000	 reached_num=41.00000
+[2022-11-19 10:52:26,833][my_ppo_all.py][line:739][INFO] steps 156, 0.00 steps/s
+[2022-11-19 10:52:26,837][my_ppo_all.py][line:740][INFO] steps=156	 train_return_reward=9.33570	 reached_pro=0.30827	 action_loss=-0.306	 value_loss=3.313 	 actor_supervise_loss=0.356 	 actor_supervise_accuracy=0.872	critic_supervise_loss=0.335 	 critic_supervise_accuracy=0.954	 entropy=1.174 	 kl=0.11350 	 lr=0.00002906
+[2022-11-19 10:58:23,917][my_ppo_all.py][line:460][INFO] steps=156	 episode_num=124.00000	 reached_num=38.00000
+[2022-11-19 10:58:40,932][my_ppo_all.py][line:739][INFO] steps 157, 0.00 steps/s
+[2022-11-19 10:58:40,933][my_ppo_all.py][line:740][INFO] steps=157	 train_return_reward=9.56386	 reached_pro=0.30645	 action_loss=-0.472	 value_loss=3.005 	 actor_supervise_loss=0.339 	 actor_supervise_accuracy=0.945	critic_supervise_loss=0.337 	 critic_supervise_accuracy=0.949	 entropy=0.908 	 kl=0.14875 	 lr=0.00002906
+[2022-11-19 11:04:44,287][my_ppo_all.py][line:460][INFO] steps=157	 episode_num=128.00000	 reached_num=36.00000
+[2022-11-19 11:04:57,400][my_ppo_all.py][line:739][INFO] steps 158, 0.00 steps/s
+[2022-11-19 11:04:57,403][my_ppo_all.py][line:740][INFO] steps=158	 train_return_reward=6.80497	 reached_pro=0.28125	 action_loss=-0.136	 value_loss=3.785 	 actor_supervise_loss=0.336 	 actor_supervise_accuracy=0.949	critic_supervise_loss=0.330 	 critic_supervise_accuracy=0.965	 entropy=1.012 	 kl=0.24993 	 lr=0.00002905
+[2022-11-19 11:11:34,409][my_ppo_all.py][line:460][INFO] steps=158	 episode_num=101.00000	 reached_num=43.00000
+[2022-11-19 11:11:51,952][my_ppo_all.py][line:739][INFO] steps 159, 0.00 steps/s
+[2022-11-19 11:11:51,953][my_ppo_all.py][line:740][INFO] steps=159	 train_return_reward=14.72429	 reached_pro=0.42574	 action_loss=-0.019	 value_loss=3.029 	 actor_supervise_loss=0.360 	 actor_supervise_accuracy=0.860	critic_supervise_loss=0.341 	 critic_supervise_accuracy=0.929	 entropy=1.345 	 kl=0.12072 	 lr=0.00002905
+[2022-11-19 11:17:37,129][my_ppo_all.py][line:460][INFO] steps=159	 episode_num=99.00000	 reached_num=44.00000
+[2022-11-19 11:18:10,356][my_ppo_all.py][line:674][INFO] steps=160	 scenario1_to_3lane_left_turn_c	 test_return_reward=27.52461	 actor_accuracy=0.15556	 critic_accuracy=1.00000	 goal_pro=0.60000
+[2022-11-19 11:18:25,953][my_ppo_all.py][line:674][INFO] steps=160	 scenario1_to_3lane_left_turn_t	 test_return_reward=-8.58237	 actor_accuracy=1.00000	 critic_accuracy=1.00000	 goal_pro=0.00000
+[2022-11-19 11:20:15,015][my_ppo_all.py][line:674][INFO] steps=160	 scenario3lane_merge_single_agent	 test_return_reward=5.25857	 actor_accuracy=1.00000	 critic_accuracy=1.00000	 goal_pro=0.00000
+[2022-11-19 11:21:38,781][my_ppo_all.py][line:674][INFO] steps=160	 scenario3lane_cruise_single_agent	 test_return_reward=40.55437	 actor_accuracy=0.93662	 critic_accuracy=1.00000	 goal_pro=0.80000
+[2022-11-19 11:22:38,939][my_ppo_all.py][line:674][INFO] steps=160	 scenario3lane_overtake	 test_return_reward=47.64060	 actor_accuracy=1.00000	 critic_accuracy=1.00000	 goal_pro=1.00000
+[2022-11-19 11:24:11,421][my_ppo_all.py][line:674][INFO] steps=160	 scenario3lane_cut_in	 test_return_reward=36.47092	 actor_accuracy=1.00000	 critic_accuracy=1.00000	 goal_pro=0.80000
+[2022-11-19 11:30:07,051][my_ppo_all.py][line:460][INFO] steps=160	 episode_num=116.00000	 reached_num=47.00000
+[2022-11-19 11:30:24,025][my_ppo_all.py][line:739][INFO] steps 161, 0.00 steps/s
+[2022-11-19 11:30:24,026][my_ppo_all.py][line:740][INFO] steps=161	 train_return_reward=13.70046	 reached_pro=0.40517	 action_loss=-0.218	 value_loss=3.245 	 actor_supervise_loss=0.368 	 actor_supervise_accuracy=0.849	critic_supervise_loss=0.335 	 critic_supervise_accuracy=0.952	 entropy=1.070 	 kl=0.09863 	 lr=0.00002903
+[2022-11-19 11:36:37,388][my_ppo_all.py][line:460][INFO] steps=161	 episode_num=114.00000	 reached_num=41.00000
+[2022-11-19 11:36:51,629][my_ppo_all.py][line:739][INFO] steps 162, 0.00 steps/s
+[2022-11-19 11:36:51,631][my_ppo_all.py][line:740][INFO] steps=162	 train_return_reward=11.90308	 reached_pro=0.35965	 action_loss=-0.201	 value_loss=2.601 	 actor_supervise_loss=0.364 	 actor_supervise_accuracy=0.860	critic_supervise_loss=0.332 	 critic_supervise_accuracy=0.957	 entropy=1.119 	 kl=0.19843 	 lr=0.00002903
+[2022-11-19 11:42:26,455][my_ppo_all.py][line:460][INFO] steps=162	 episode_num=92.00000	 reached_num=49.00000
+[2022-11-19 11:42:43,827][my_ppo_all.py][line:739][INFO] steps 163, 0.00 steps/s
+[2022-11-19 11:42:43,829][my_ppo_all.py][line:740][INFO] steps=163	 train_return_reward=22.98924	 reached_pro=0.53261	 action_loss=-0.512	 value_loss=2.854 	 actor_supervise_loss=0.373 	 actor_supervise_accuracy=0.821	critic_supervise_loss=0.365 	 critic_supervise_accuracy=0.843	 entropy=1.257 	 kl=0.12640 	 lr=0.00002902
+[2022-11-19 11:50:03,959][my_ppo_all.py][line:460][INFO] steps=163	 episode_num=149.00000	 reached_num=45.00000
+[2022-11-19 11:50:20,339][my_ppo_all.py][line:739][INFO] steps 164, 0.00 steps/s
+[2022-11-19 11:50:20,340][my_ppo_all.py][line:740][INFO] steps=164	 train_return_reward=8.53358	 reached_pro=0.30201	 action_loss=-0.345	 value_loss=3.506 	 actor_supervise_loss=0.366 	 actor_supervise_accuracy=0.837	critic_supervise_loss=0.350 	 critic_supervise_accuracy=0.891	 entropy=1.048 	 kl=0.15726 	 lr=0.00002902
+[2022-11-19 11:56:24,323][my_ppo_all.py][line:460][INFO] steps=164	 episode_num=119.00000	 reached_num=47.00000
+[2022-11-19 11:56:40,610][my_ppo_all.py][line:739][INFO] steps 165, 0.00 steps/s
+[2022-11-19 11:56:40,612][my_ppo_all.py][line:740][INFO] steps=165	 train_return_reward=12.03698	 reached_pro=0.39496	 action_loss=-0.054	 value_loss=3.542 	 actor_supervise_loss=0.374 	 actor_supervise_accuracy=0.816	critic_supervise_loss=0.336 	 critic_supervise_accuracy=0.956	 entropy=1.008 	 kl=0.17911 	 lr=0.00002901
+[2022-11-19 12:02:54,694][my_ppo_all.py][line:460][INFO] steps=165	 episode_num=117.00000	 reached_num=46.00000
+[2022-11-19 12:03:11,025][my_ppo_all.py][line:739][INFO] steps 166, 0.00 steps/s
+[2022-11-19 12:03:11,029][my_ppo_all.py][line:740][INFO] steps=166	 train_return_reward=15.00221	 reached_pro=0.39316	 action_loss=-0.078	 value_loss=2.689 	 actor_supervise_loss=0.367 	 actor_supervise_accuracy=0.831	critic_supervise_loss=0.325 	 critic_supervise_accuracy=0.979	 entropy=1.020 	 kl=0.17815 	 lr=0.00002900
+[2022-11-19 12:09:39,088][my_ppo_all.py][line:460][INFO] steps=166	 episode_num=124.00000	 reached_num=44.00000
+[2022-11-19 12:09:55,495][my_ppo_all.py][line:739][INFO] steps 167, 0.00 steps/s
+[2022-11-19 12:09:55,499][my_ppo_all.py][line:740][INFO] steps=167	 train_return_reward=11.47642	 reached_pro=0.35484	 action_loss=-0.043	 value_loss=3.248 	 actor_supervise_loss=0.351 	 actor_supervise_accuracy=0.911	critic_supervise_loss=0.326 	 critic_supervise_accuracy=0.983	 entropy=1.065 	 kl=0.15438 	 lr=0.00002900
+[2022-11-19 12:16:00,094][my_ppo_all.py][line:460][INFO] steps=167	 episode_num=121.00000	 reached_num=43.00000
+[2022-11-19 12:16:16,894][my_ppo_all.py][line:739][INFO] steps 168, 0.00 steps/s
+[2022-11-19 12:16:16,896][my_ppo_all.py][line:740][INFO] steps=168	 train_return_reward=11.35874	 reached_pro=0.35537	 action_loss=-0.115	 value_loss=2.978 	 actor_supervise_loss=0.325 	 actor_supervise_accuracy=0.985	critic_supervise_loss=0.321 	 critic_supervise_accuracy=0.988	 entropy=1.183 	 kl=0.18402 	 lr=0.00002899
+[2022-11-19 12:23:15,002][my_ppo_all.py][line:460][INFO] steps=168	 episode_num=123.00000	 reached_num=42.00000
+[2022-11-19 12:23:32,307][my_ppo_all.py][line:739][INFO] steps 169, 0.00 steps/s
+[2022-11-19 12:23:32,310][my_ppo_all.py][line:740][INFO] steps=169	 train_return_reward=10.96114	 reached_pro=0.34146	 action_loss=0.157	 value_loss=1.800 	 actor_supervise_loss=0.349 	 actor_supervise_accuracy=0.902	critic_supervise_loss=0.348 	 critic_supervise_accuracy=0.898	 entropy=1.155 	 kl=0.18497 	 lr=0.00002899
+[2022-11-19 12:29:25,267][my_ppo_all.py][line:460][INFO] steps=169	 episode_num=107.00000	 reached_num=50.00000
+[2022-11-19 12:29:51,855][my_ppo_all.py][line:674][INFO] steps=170	 scenario1_to_3lane_left_turn_c	 test_return_reward=-7.52925	 actor_accuracy=1.00000	 critic_accuracy=1.00000	 goal_pro=0.00000
+[2022-11-19 12:30:07,358][my_ppo_all.py][line:674][INFO] steps=170	 scenario1_to_3lane_left_turn_t	 test_return_reward=-8.41437	 actor_accuracy=1.00000	 critic_accuracy=1.00000	 goal_pro=0.00000
+[2022-11-19 12:31:38,128][my_ppo_all.py][line:674][INFO] steps=170	 scenario3lane_merge_single_agent	 test_return_reward=3.44435	 actor_accuracy=1.00000	 critic_accuracy=1.00000	 goal_pro=0.00000
+[2022-11-19 12:32:52,102][my_ppo_all.py][line:674][INFO] steps=170	 scenario3lane_cruise_single_agent	 test_return_reward=37.52206	 actor_accuracy=0.87387	 critic_accuracy=1.00000	 goal_pro=1.00000
+[2022-11-19 12:33:59,900][my_ppo_all.py][line:674][INFO] steps=170	 scenario3lane_overtake	 test_return_reward=52.58373	 actor_accuracy=1.00000	 critic_accuracy=1.00000	 goal_pro=1.00000
+[2022-11-19 12:35:24,850][my_ppo_all.py][line:674][INFO] steps=170	 scenario3lane_cut_in	 test_return_reward=44.35376	 actor_accuracy=0.53933	 critic_accuracy=1.00000	 goal_pro=0.80000
+[2022-11-19 12:41:43,076][my_ppo_all.py][line:460][INFO] steps=170	 episode_num=117.00000	 reached_num=52.00000
+[2022-11-19 12:42:00,518][my_ppo_all.py][line:739][INFO] steps 171, 0.00 steps/s
+[2022-11-19 12:42:00,520][my_ppo_all.py][line:740][INFO] steps=171	 train_return_reward=16.63563	 reached_pro=0.44444	 action_loss=-0.141	 value_loss=2.653 	 actor_supervise_loss=0.376 	 actor_supervise_accuracy=0.808	critic_supervise_loss=0.353 	 critic_supervise_accuracy=0.905	 entropy=1.081 	 kl=0.13037 	 lr=0.00002897
+[2022-11-19 12:48:06,684][my_ppo_all.py][line:460][INFO] steps=171	 episode_num=121.00000	 reached_num=46.00000
+[2022-11-19 12:48:23,655][my_ppo_all.py][line:739][INFO] steps 172, 0.00 steps/s
+[2022-11-19 12:48:23,658][my_ppo_all.py][line:740][INFO] steps=172	 train_return_reward=10.34399	 reached_pro=0.38017	 action_loss=-0.221	 value_loss=6.328 	 actor_supervise_loss=0.346 	 actor_supervise_accuracy=0.964	critic_supervise_loss=0.333 	 critic_supervise_accuracy=0.965	 entropy=1.148 	 kl=0.17579 	 lr=0.00002897
+[2022-11-19 12:54:21,054][my_ppo_all.py][line:460][INFO] steps=172	 episode_num=129.00000	 reached_num=47.00000
+[2022-11-19 12:54:37,917][my_ppo_all.py][line:739][INFO] steps 173, 0.00 steps/s
+[2022-11-19 12:54:37,920][my_ppo_all.py][line:740][INFO] steps=173	 train_return_reward=12.27932	 reached_pro=0.36434	 action_loss=-0.254	 value_loss=2.419 	 actor_supervise_loss=0.334 	 actor_supervise_accuracy=0.973	critic_supervise_loss=0.327 	 critic_supervise_accuracy=0.975	 entropy=0.846 	 kl=0.12920 	 lr=0.00002896
+[2022-11-19 13:01:43,754][my_ppo_all.py][line:460][INFO] steps=173	 episode_num=123.00000	 reached_num=43.00000
+[2022-11-19 13:01:59,045][my_ppo_all.py][line:739][INFO] steps 174, 0.00 steps/s
+[2022-11-19 13:01:59,045][my_ppo_all.py][line:740][INFO] steps=174	 train_return_reward=8.77228	 reached_pro=0.34959	 action_loss=-0.021	 value_loss=5.794 	 actor_supervise_loss=0.327 	 actor_supervise_accuracy=0.981	critic_supervise_loss=0.324 	 critic_supervise_accuracy=0.986	 entropy=1.029 	 kl=0.19075 	 lr=0.00002896
+[2022-11-19 13:08:05,863][my_ppo_all.py][line:460][INFO] steps=174	 episode_num=137.00000	 reached_num=40.00000
+[2022-11-19 13:08:22,150][my_ppo_all.py][line:739][INFO] steps 175, 0.00 steps/s
+[2022-11-19 13:08:22,153][my_ppo_all.py][line:740][INFO] steps=175	 train_return_reward=7.92876	 reached_pro=0.29197	 action_loss=-0.057	 value_loss=2.108 	 actor_supervise_loss=0.354 	 actor_supervise_accuracy=0.887	critic_supervise_loss=0.345 	 critic_supervise_accuracy=0.916	 entropy=0.986 	 kl=0.17628 	 lr=0.00002895
+[2022-11-19 13:14:14,431][my_ppo_all.py][line:460][INFO] steps=175	 episode_num=101.00000	 reached_num=54.00000
+[2022-11-19 13:14:30,792][my_ppo_all.py][line:739][INFO] steps 176, 0.00 steps/s
+[2022-11-19 13:14:30,796][my_ppo_all.py][line:740][INFO] steps=176	 train_return_reward=21.04423	 reached_pro=0.53465	 action_loss=-0.111	 value_loss=4.651 	 actor_supervise_loss=0.370 	 actor_supervise_accuracy=0.825	critic_supervise_loss=0.346 	 critic_supervise_accuracy=0.929	 entropy=1.144 	 kl=0.16027 	 lr=0.00002894
+[2022-11-19 13:21:13,698][my_ppo_all.py][line:460][INFO] steps=176	 episode_num=158.00000	 reached_num=33.00000
+[2022-11-19 13:21:31,291][my_ppo_all.py][line:739][INFO] steps 177, 0.00 steps/s
+[2022-11-19 13:21:31,292][my_ppo_all.py][line:740][INFO] steps=177	 train_return_reward=4.20817	 reached_pro=0.20886	 action_loss=-0.148	 value_loss=1.916 	 actor_supervise_loss=0.374 	 actor_supervise_accuracy=0.807	critic_supervise_loss=0.348 	 critic_supervise_accuracy=0.909	 entropy=0.853 	 kl=0.11840 	 lr=0.00002894
+[2022-11-19 13:27:58,564][my_ppo_all.py][line:460][INFO] steps=177	 episode_num=172.00000	 reached_num=36.00000
+[2022-11-19 13:28:14,127][my_ppo_all.py][line:739][INFO] steps 178, 0.00 steps/s
+[2022-11-19 13:28:14,131][my_ppo_all.py][line:740][INFO] steps=178	 train_return_reward=3.62867	 reached_pro=0.20930	 action_loss=-0.369	 value_loss=1.888 	 actor_supervise_loss=0.359 	 actor_supervise_accuracy=0.870	critic_supervise_loss=0.340 	 critic_supervise_accuracy=0.933	 entropy=0.851 	 kl=0.17414 	 lr=0.00002893
+[2022-11-19 13:34:43,924][my_ppo_all.py][line:460][INFO] steps=178	 episode_num=166.00000	 reached_num=30.00000
+[2022-11-19 13:34:58,242][my_ppo_all.py][line:739][INFO] steps 179, 0.00 steps/s
+[2022-11-19 13:34:58,245][my_ppo_all.py][line:740][INFO] steps=179	 train_return_reward=2.22707	 reached_pro=0.18072	 action_loss=0.011	 value_loss=1.789 	 actor_supervise_loss=0.353 	 actor_supervise_accuracy=0.896	critic_supervise_loss=0.346 	 critic_supervise_accuracy=0.918	 entropy=0.640 	 kl=0.24727 	 lr=0.00002893
+[2022-11-19 13:42:17,923][my_ppo_all.py][line:460][INFO] steps=179	 episode_num=169.00000	 reached_num=32.00000
+[2022-11-19 13:42:43,081][my_ppo_all.py][line:674][INFO] steps=180	 scenario1_to_3lane_left_turn_c	 test_return_reward=-8.45151	 actor_accuracy=1.00000	 critic_accuracy=1.00000	 goal_pro=0.00000
+[2022-11-19 13:42:58,931][my_ppo_all.py][line:674][INFO] steps=180	 scenario1_to_3lane_left_turn_t	 test_return_reward=-8.12108	 actor_accuracy=1.00000	 critic_accuracy=1.00000	 goal_pro=0.00000
+[2022-11-19 13:44:39,462][my_ppo_all.py][line:674][INFO] steps=180	 scenario3lane_merge_single_agent	 test_return_reward=4.00108	 actor_accuracy=1.00000	 critic_accuracy=1.00000	 goal_pro=0.00000
+[2022-11-19 13:46:12,576][my_ppo_all.py][line:674][INFO] steps=180	 scenario3lane_cruise_single_agent	 test_return_reward=46.88171	 actor_accuracy=0.63804	 critic_accuracy=0.71779	 goal_pro=1.00000
+[2022-11-19 13:47:19,116][my_ppo_all.py][line:674][INFO] steps=180	 scenario3lane_overtake	 test_return_reward=52.99446	 actor_accuracy=1.00000	 critic_accuracy=1.00000	 goal_pro=1.00000
+[2022-11-19 13:48:47,798][my_ppo_all.py][line:674][INFO] steps=180	 scenario3lane_cut_in	 test_return_reward=53.27257	 actor_accuracy=1.00000	 critic_accuracy=1.00000	 goal_pro=1.00000
+[2022-11-19 13:55:28,669][my_ppo_all.py][line:460][INFO] steps=180	 episode_num=173.00000	 reached_num=28.00000
+[2022-11-19 13:55:39,936][my_ppo_all.py][line:739][INFO] steps 181, 0.00 steps/s
+[2022-11-19 13:55:39,939][my_ppo_all.py][line:740][INFO] steps=181	 train_return_reward=1.28269	 reached_pro=0.16185	 action_loss=0.059	 value_loss=1.812 	 actor_supervise_loss=0.337 	 actor_supervise_accuracy=0.945	critic_supervise_loss=0.330 	 critic_supervise_accuracy=0.958	 entropy=0.764 	 kl=0.21919 	 lr=0.00002891
+[2022-11-19 14:02:04,682][my_ppo_all.py][line:460][INFO] steps=181	 episode_num=117.00000	 reached_num=50.00000
+[2022-11-19 14:02:19,844][my_ppo_all.py][line:739][INFO] steps 182, 0.00 steps/s
+[2022-11-19 14:02:19,848][my_ppo_all.py][line:740][INFO] steps=182	 train_return_reward=14.43859	 reached_pro=0.42735	 action_loss=0.095	 value_loss=2.516 	 actor_supervise_loss=0.370 	 actor_supervise_accuracy=0.821	critic_supervise_loss=0.331 	 critic_supervise_accuracy=0.962	 entropy=1.079 	 kl=0.19058 	 lr=0.00002891
+[2022-11-19 14:08:27,184][my_ppo_all.py][line:460][INFO] steps=182	 episode_num=122.00000	 reached_num=46.00000
+[2022-11-19 14:08:43,090][my_ppo_all.py][line:739][INFO] steps 183, 0.00 steps/s
+[2022-11-19 14:08:43,091][my_ppo_all.py][line:740][INFO] steps=183	 train_return_reward=13.19635	 reached_pro=0.37705	 action_loss=0.298	 value_loss=2.865 	 actor_supervise_loss=0.372 	 actor_supervise_accuracy=0.819	critic_supervise_loss=0.336 	 critic_supervise_accuracy=0.950	 entropy=1.124 	 kl=0.18942 	 lr=0.00002890
+[2022-11-19 14:14:53,255][my_ppo_all.py][line:460][INFO] steps=183	 episode_num=122.00000	 reached_num=45.00000
+[2022-11-19 14:15:07,370][my_ppo_all.py][line:739][INFO] steps 184, 0.00 steps/s
+[2022-11-19 14:15:07,375][my_ppo_all.py][line:740][INFO] steps=184	 train_return_reward=12.46452	 reached_pro=0.36885	 action_loss=0.220	 value_loss=2.790 	 actor_supervise_loss=0.369 	 actor_supervise_accuracy=0.827	critic_supervise_loss=0.352 	 critic_supervise_accuracy=0.897	 entropy=1.150 	 kl=0.23316 	 lr=0.00002890
+[2022-11-19 14:22:02,336][my_ppo_all.py][line:460][INFO] steps=184	 episode_num=148.00000	 reached_num=34.00000
+[2022-11-19 14:22:19,613][my_ppo_all.py][line:739][INFO] steps 185, 0.00 steps/s
+[2022-11-19 14:22:19,617][my_ppo_all.py][line:740][INFO] steps=185	 train_return_reward=6.18099	 reached_pro=0.22973	 action_loss=0.252	 value_loss=2.623 	 actor_supervise_loss=0.374 	 actor_supervise_accuracy=0.810	critic_supervise_loss=0.352 	 critic_supervise_accuracy=0.897	 entropy=1.044 	 kl=0.16750 	 lr=0.00002889
+[2022-11-19 14:28:38,190][my_ppo_all.py][line:460][INFO] steps=185	 episode_num=122.00000	 reached_num=40.00000
+[2022-11-19 14:28:54,063][my_ppo_all.py][line:739][INFO] steps 186, 0.00 steps/s
+[2022-11-19 14:28:54,065][my_ppo_all.py][line:740][INFO] steps=186	 train_return_reward=10.74944	 reached_pro=0.32787	 action_loss=0.267	 value_loss=2.943 	 actor_supervise_loss=0.332 	 actor_supervise_accuracy=0.972	critic_supervise_loss=0.326 	 critic_supervise_accuracy=0.978	 entropy=1.317 	 kl=0.23289 	 lr=0.00002888
+[2022-11-19 14:35:12,275][my_ppo_all.py][line:460][INFO] steps=186	 episode_num=136.00000	 reached_num=40.00000
+[2022-11-19 14:35:21,297][my_ppo_all.py][line:739][INFO] steps 187, 0.00 steps/s
+[2022-11-19 14:35:21,299][my_ppo_all.py][line:740][INFO] steps=187	 train_return_reward=6.23779	 reached_pro=0.29412	 action_loss=0.292	 value_loss=2.428 	 actor_supervise_loss=0.337 	 actor_supervise_accuracy=0.948	critic_supervise_loss=0.332 	 critic_supervise_accuracy=0.962	 entropy=1.403 	 kl=0.24130 	 lr=0.00002888
+[2022-11-19 14:42:13,428][my_ppo_all.py][line:460][INFO] steps=187	 episode_num=143.00000	 reached_num=40.00000
+[2022-11-19 14:42:31,134][my_ppo_all.py][line:739][INFO] steps 188, 0.00 steps/s
+[2022-11-19 14:42:31,137][my_ppo_all.py][line:740][INFO] steps=188	 train_return_reward=7.65276	 reached_pro=0.27972	 action_loss=0.212	 value_loss=2.631 	 actor_supervise_loss=0.340 	 actor_supervise_accuracy=0.927	critic_supervise_loss=0.324 	 critic_supervise_accuracy=0.984	 entropy=1.526 	 kl=0.14845 	 lr=0.00002887
+[2022-11-19 14:48:49,481][my_ppo_all.py][line:460][INFO] steps=188	 episode_num=142.00000	 reached_num=40.00000
+[2022-11-19 14:49:03,894][my_ppo_all.py][line:739][INFO] steps 189, 0.00 steps/s
+[2022-11-19 14:49:03,898][my_ppo_all.py][line:740][INFO] steps=189	 train_return_reward=7.36497	 reached_pro=0.28169	 action_loss=0.006	 value_loss=2.132 	 actor_supervise_loss=0.346 	 actor_supervise_accuracy=0.905	critic_supervise_loss=0.326 	 critic_supervise_accuracy=0.972	 entropy=1.398 	 kl=0.18059 	 lr=0.00002887
+[2022-11-19 14:56:06,568][my_ppo_all.py][line:460][INFO] steps=189	 episode_num=127.00000	 reached_num=43.00000
+[2022-11-19 14:56:37,194][my_ppo_all.py][line:674][INFO] steps=190	 scenario1_to_3lane_left_turn_c	 test_return_reward=3.55226	 actor_accuracy=1.00000	 critic_accuracy=1.00000	 goal_pro=0.20000
+[2022-11-19 14:56:59,429][my_ppo_all.py][line:674][INFO] steps=190	 scenario1_to_3lane_left_turn_t	 test_return_reward=16.90828	 actor_accuracy=1.00000	 critic_accuracy=1.00000	 goal_pro=0.40000
+[2022-11-19 14:58:47,036][my_ppo_all.py][line:674][INFO] steps=190	 scenario3lane_merge_single_agent	 test_return_reward=3.50746	 actor_accuracy=1.00000	 critic_accuracy=1.00000	 goal_pro=0.00000
+[2022-11-19 15:00:13,235][my_ppo_all.py][line:674][INFO] steps=190	 scenario3lane_cruise_single_agent	 test_return_reward=40.60070	 actor_accuracy=1.00000	 critic_accuracy=1.00000	 goal_pro=1.00000
+[2022-11-19 15:01:17,152][my_ppo_all.py][line:674][INFO] steps=190	 scenario3lane_overtake	 test_return_reward=46.39011	 actor_accuracy=1.00000	 critic_accuracy=1.00000	 goal_pro=1.00000
+[2022-11-19 15:02:53,150][my_ppo_all.py][line:674][INFO] steps=190	 scenario3lane_cut_in	 test_return_reward=34.91273	 actor_accuracy=0.99065	 critic_accuracy=0.98131	 goal_pro=0.60000
+[2022-11-19 15:09:02,107][my_ppo_all.py][line:460][INFO] steps=190	 episode_num=143.00000	 reached_num=36.00000
+[2022-11-19 15:09:16,746][my_ppo_all.py][line:739][INFO] steps 191, 0.00 steps/s
+[2022-11-19 15:09:16,747][my_ppo_all.py][line:740][INFO] steps=191	 train_return_reward=5.79098	 reached_pro=0.25175	 action_loss=0.372	 value_loss=3.508 	 actor_supervise_loss=0.344 	 actor_supervise_accuracy=0.922	critic_supervise_loss=0.340 	 critic_supervise_accuracy=0.923	 entropy=1.720 	 kl=0.18202 	 lr=0.00002885
+[2022-11-19 15:15:27,279][my_ppo_all.py][line:460][INFO] steps=191	 episode_num=144.00000	 reached_num=40.00000
+[2022-11-19 15:15:45,619][my_ppo_all.py][line:739][INFO] steps 192, 0.00 steps/s
+[2022-11-19 15:15:45,621][my_ppo_all.py][line:740][INFO] steps=192	 train_return_reward=5.17452	 reached_pro=0.27778	 action_loss=0.323	 value_loss=3.687 	 actor_supervise_loss=0.363 	 actor_supervise_accuracy=0.844	critic_supervise_loss=0.349 	 critic_supervise_accuracy=0.909	 entropy=1.549 	 kl=0.13834 	 lr=0.00002885
+[2022-11-19 15:22:52,393][my_ppo_all.py][line:460][INFO] steps=192	 episode_num=181.00000	 reached_num=33.00000
+[2022-11-19 15:23:06,587][my_ppo_all.py][line:739][INFO] steps 193, 0.00 steps/s
+[2022-11-19 15:23:06,589][my_ppo_all.py][line:740][INFO] steps=193	 train_return_reward=2.42550	 reached_pro=0.18232	 action_loss=0.259	 value_loss=3.208 	 actor_supervise_loss=0.337 	 actor_supervise_accuracy=0.940	critic_supervise_loss=0.333 	 critic_supervise_accuracy=0.949	 entropy=1.406 	 kl=0.18897 	 lr=0.00002884
+[2022-11-19 15:29:52,360][my_ppo_all.py][line:460][INFO] steps=193	 episode_num=165.00000	 reached_num=32.00000
+[2022-11-19 15:30:08,652][my_ppo_all.py][line:739][INFO] steps 194, 0.00 steps/s
+[2022-11-19 15:30:08,657][my_ppo_all.py][line:740][INFO] steps=194	 train_return_reward=2.86530	 reached_pro=0.19394	 action_loss=0.338	 value_loss=3.724 	 actor_supervise_loss=0.331 	 actor_supervise_accuracy=0.961	critic_supervise_loss=0.332 	 critic_supervise_accuracy=0.952	 entropy=1.557 	 kl=0.17550 	 lr=0.00002884
+[2022-11-19 15:36:56,099][my_ppo_all.py][line:460][INFO] steps=194	 episode_num=119.00000	 reached_num=43.00000
+[2022-11-19 15:37:13,613][my_ppo_all.py][line:739][INFO] steps 195, 0.00 steps/s
+[2022-11-19 15:37:13,616][my_ppo_all.py][line:740][INFO] steps=195	 train_return_reward=9.62588	 reached_pro=0.36134	 action_loss=0.379	 value_loss=3.366 	 actor_supervise_loss=0.337 	 actor_supervise_accuracy=0.957	critic_supervise_loss=0.330 	 critic_supervise_accuracy=0.963	 entropy=1.878 	 kl=0.15091 	 lr=0.00002883
+[2022-11-19 15:43:13,633][my_ppo_all.py][line:460][INFO] steps=195	 episode_num=107.00000	 reached_num=46.00000
+[2022-11-19 15:43:29,083][my_ppo_all.py][line:739][INFO] steps 196, 0.00 steps/s
+[2022-11-19 15:43:29,087][my_ppo_all.py][line:740][INFO] steps=196	 train_return_reward=14.46232	 reached_pro=0.42991	 action_loss=0.328	 value_loss=3.290 	 actor_supervise_loss=0.368 	 actor_supervise_accuracy=0.828	critic_supervise_loss=0.357 	 critic_supervise_accuracy=0.865	 entropy=2.035 	 kl=0.16142 	 lr=0.00002882
+[2022-11-19 15:49:29,807][my_ppo_all.py][line:460][INFO] steps=196	 episode_num=117.00000	 reached_num=45.00000
+[2022-11-19 15:49:47,759][my_ppo_all.py][line:739][INFO] steps 197, 0.00 steps/s
+[2022-11-19 15:49:47,760][my_ppo_all.py][line:740][INFO] steps=197	 train_return_reward=10.26811	 reached_pro=0.38462	 action_loss=0.149	 value_loss=4.987 	 actor_supervise_loss=0.372 	 actor_supervise_accuracy=0.819	critic_supervise_loss=0.366 	 critic_supervise_accuracy=0.836	 entropy=1.912 	 kl=0.12671 	 lr=0.00002882
+[2022-11-19 15:56:25,899][my_ppo_all.py][line:460][INFO] steps=197	 episode_num=134.00000	 reached_num=40.00000
+[2022-11-19 15:56:41,817][my_ppo_all.py][line:739][INFO] steps 198, 0.00 steps/s
+[2022-11-19 15:56:41,821][my_ppo_all.py][line:740][INFO] steps=198	 train_return_reward=7.23682	 reached_pro=0.29851	 action_loss=0.221	 value_loss=3.282 	 actor_supervise_loss=0.369 	 actor_supervise_accuracy=0.822	critic_supervise_loss=0.338 	 critic_supervise_accuracy=0.939	 entropy=1.766 	 kl=0.15310 	 lr=0.00002881
+[2022-11-19 16:02:47,730][my_ppo_all.py][line:460][INFO] steps=198	 episode_num=110.00000	 reached_num=42.00000
+[2022-11-19 16:03:03,069][my_ppo_all.py][line:739][INFO] steps 199, 0.00 steps/s
+[2022-11-19 16:03:03,072][my_ppo_all.py][line:740][INFO] steps=199	 train_return_reward=9.74743	 reached_pro=0.38182	 action_loss=0.057	 value_loss=4.241 	 actor_supervise_loss=0.379 	 actor_supervise_accuracy=0.787	critic_supervise_loss=0.330 	 critic_supervise_accuracy=0.960	 entropy=1.779 	 kl=0.14565 	 lr=0.00002881
+[2022-11-19 16:09:20,392][my_ppo_all.py][line:460][INFO] steps=199	 episode_num=154.00000	 reached_num=40.00000
+[2022-11-19 16:09:45,935][my_ppo_all.py][line:674][INFO] steps=200	 scenario1_to_3lane_left_turn_c	 test_return_reward=3.70194	 actor_accuracy=0.00000	 critic_accuracy=1.00000	 goal_pro=0.20000
+[2022-11-19 16:10:02,212][my_ppo_all.py][line:674][INFO] steps=200	 scenario1_to_3lane_left_turn_t	 test_return_reward=-7.64217	 actor_accuracy=1.00000	 critic_accuracy=1.00000	 goal_pro=0.00000
+[2022-11-19 16:11:29,683][my_ppo_all.py][line:674][INFO] steps=200	 scenario3lane_merge_single_agent	 test_return_reward=0.37701	 actor_accuracy=1.00000	 critic_accuracy=1.00000	 goal_pro=0.00000
+[2022-11-19 16:13:03,728][my_ppo_all.py][line:674][INFO] steps=200	 scenario3lane_cruise_single_agent	 test_return_reward=46.13227	 actor_accuracy=1.00000	 critic_accuracy=0.99415	 goal_pro=1.00000
+[2022-11-19 16:14:40,073][my_ppo_all.py][line:674][INFO] steps=200	 scenario3lane_overtake	 test_return_reward=30.24006	 actor_accuracy=1.00000	 critic_accuracy=1.00000	 goal_pro=0.80000
+[2022-11-19 16:16:03,950][my_ppo_all.py][line:674][INFO] steps=200	 scenario3lane_cut_in	 test_return_reward=53.64939	 actor_accuracy=1.00000	 critic_accuracy=1.00000	 goal_pro=1.00000
+[2022-11-19 16:22:56,951][my_ppo_all.py][line:460][INFO] steps=200	 episode_num=143.00000	 reached_num=40.00000
+[2022-11-19 16:23:12,188][my_ppo_all.py][line:739][INFO] steps 201, 0.00 steps/s
+[2022-11-19 16:23:12,190][my_ppo_all.py][line:740][INFO] steps=201	 train_return_reward=7.22901	 reached_pro=0.27972	 action_loss=0.000	 value_loss=2.409 	 actor_supervise_loss=0.372 	 actor_supervise_accuracy=0.807	critic_supervise_loss=0.328 	 critic_supervise_accuracy=0.968	 entropy=1.609 	 kl=0.19545 	 lr=0.00002879
+[2022-11-19 16:29:11,714][my_ppo_all.py][line:460][INFO] steps=201	 episode_num=124.00000	 reached_num=43.00000
+[2022-11-19 16:29:26,689][my_ppo_all.py][line:739][INFO] steps 202, 0.00 steps/s
+[2022-11-19 16:29:26,689][my_ppo_all.py][line:740][INFO] steps=202	 train_return_reward=11.65449	 reached_pro=0.34677	 action_loss=-0.136	 value_loss=2.145 	 actor_supervise_loss=0.342 	 actor_supervise_accuracy=0.937	critic_supervise_loss=0.334 	 critic_supervise_accuracy=0.938	 entropy=1.640 	 kl=0.17293 	 lr=0.00002879
+[2022-11-19 16:35:19,395][my_ppo_all.py][line:460][INFO] steps=202	 episode_num=107.00000	 reached_num=51.00000
+[2022-11-19 16:35:36,082][my_ppo_all.py][line:739][INFO] steps 203, 0.00 steps/s
+[2022-11-19 16:35:36,085][my_ppo_all.py][line:740][INFO] steps=203	 train_return_reward=17.25089	 reached_pro=0.47664	 action_loss=0.153	 value_loss=3.199 	 actor_supervise_loss=0.368 	 actor_supervise_accuracy=0.826	critic_supervise_loss=0.368 	 critic_supervise_accuracy=0.824	 entropy=1.805 	 kl=0.15472 	 lr=0.00002878
+[2022-11-19 16:41:48,713][my_ppo_all.py][line:460][INFO] steps=203	 episode_num=114.00000	 reached_num=44.00000
+[2022-11-19 16:42:04,670][my_ppo_all.py][line:739][INFO] steps 204, 0.00 steps/s
+[2022-11-19 16:42:04,674][my_ppo_all.py][line:740][INFO] steps=204	 train_return_reward=13.84989	 reached_pro=0.38596	 action_loss=0.170	 value_loss=3.101 	 actor_supervise_loss=0.361 	 actor_supervise_accuracy=0.845	critic_supervise_loss=0.345 	 critic_supervise_accuracy=0.929	 entropy=1.702 	 kl=0.15995 	 lr=0.00002878
+[2022-11-19 16:48:01,855][my_ppo_all.py][line:460][INFO] steps=204	 episode_num=121.00000	 reached_num=42.00000
+[2022-11-19 16:48:16,417][my_ppo_all.py][line:739][INFO] steps 205, 0.00 steps/s
+[2022-11-19 16:48:16,419][my_ppo_all.py][line:740][INFO] steps=205	 train_return_reward=11.40244	 reached_pro=0.34711	 action_loss=0.086	 value_loss=2.889 	 actor_supervise_loss=0.343 	 actor_supervise_accuracy=0.975	critic_supervise_loss=0.327 	 critic_supervise_accuracy=0.983	 entropy=1.567 	 kl=0.18410 	 lr=0.00002877
+[2022-11-19 16:55:03,079][my_ppo_all.py][line:460][INFO] steps=205	 episode_num=138.00000	 reached_num=41.00000
+[2022-11-19 16:55:17,134][my_ppo_all.py][line:739][INFO] steps 206, 0.00 steps/s
+[2022-11-19 16:55:17,136][my_ppo_all.py][line:740][INFO] steps=206	 train_return_reward=8.31044	 reached_pro=0.29710	 action_loss=-0.009	 value_loss=3.015 	 actor_supervise_loss=0.329 	 actor_supervise_accuracy=0.986	critic_supervise_loss=0.321 	 critic_supervise_accuracy=0.991	 entropy=1.374 	 kl=0.22056 	 lr=0.00002876
+[2022-11-19 17:01:47,086][my_ppo_all.py][line:460][INFO] steps=206	 episode_num=149.00000	 reached_num=37.00000
+[2022-11-19 17:01:53,596][my_ppo_all.py][line:739][INFO] steps 207, 0.00 steps/s
+[2022-11-19 17:01:53,600][my_ppo_all.py][line:740][INFO] steps=207	 train_return_reward=6.41924	 reached_pro=0.24832	 action_loss=0.158	 value_loss=3.529 	 actor_supervise_loss=0.329 	 actor_supervise_accuracy=0.973	critic_supervise_loss=0.329 	 critic_supervise_accuracy=0.962	 entropy=1.465 	 kl=0.12274 	 lr=0.00002876
+[2022-11-19 17:07:59,159][my_ppo_all.py][line:460][INFO] steps=207	 episode_num=130.00000	 reached_num=46.00000
+[2022-11-19 17:08:12,353][my_ppo_all.py][line:739][INFO] steps 208, 0.00 steps/s
+[2022-11-19 17:08:12,356][my_ppo_all.py][line:740][INFO] steps=208	 train_return_reward=9.53176	 reached_pro=0.35385	 action_loss=0.053	 value_loss=6.260 	 actor_supervise_loss=0.349 	 actor_supervise_accuracy=0.888	critic_supervise_loss=0.350 	 critic_supervise_accuracy=0.886	 entropy=1.531 	 kl=0.21829 	 lr=0.00002875
+[2022-11-19 17:14:44,807][my_ppo_all.py][line:460][INFO] steps=208	 episode_num=135.00000	 reached_num=45.00000
+[2022-11-19 17:15:01,605][my_ppo_all.py][line:739][INFO] steps 209, 0.00 steps/s
+[2022-11-19 17:15:01,608][my_ppo_all.py][line:740][INFO] steps=209	 train_return_reward=11.62693	 reached_pro=0.33333	 action_loss=-0.047	 value_loss=3.054 	 actor_supervise_loss=0.368 	 actor_supervise_accuracy=0.831	critic_supervise_loss=0.370 	 critic_supervise_accuracy=0.818	 entropy=1.608 	 kl=0.17592 	 lr=0.00002875
+[2022-11-19 17:21:25,616][my_ppo_all.py][line:460][INFO] steps=209	 episode_num=154.00000	 reached_num=43.00000
+[2022-11-19 17:21:57,232][my_ppo_all.py][line:674][INFO] steps=210	 scenario1_to_3lane_left_turn_c	 test_return_reward=41.22864	 actor_accuracy=0.94595	 critic_accuracy=0.78378	 goal_pro=0.80000
+[2022-11-19 17:22:12,082][my_ppo_all.py][line:674][INFO] steps=210	 scenario1_to_3lane_left_turn_t	 test_return_reward=-8.44224	 actor_accuracy=1.00000	 critic_accuracy=1.00000	 goal_pro=0.00000
+[2022-11-19 17:23:37,914][my_ppo_all.py][line:674][INFO] steps=210	 scenario3lane_merge_single_agent	 test_return_reward=4.15116	 actor_accuracy=1.00000	 critic_accuracy=1.00000	 goal_pro=0.00000
+[2022-11-19 17:25:03,726][my_ppo_all.py][line:674][INFO] steps=210	 scenario3lane_cruise_single_agent	 test_return_reward=38.85743	 actor_accuracy=1.00000	 critic_accuracy=1.00000	 goal_pro=0.80000
+[2022-11-19 17:26:37,149][my_ppo_all.py][line:674][INFO] steps=210	 scenario3lane_overtake	 test_return_reward=31.06097	 actor_accuracy=1.00000	 critic_accuracy=1.00000	 goal_pro=0.80000
+[2022-11-19 17:28:18,566][my_ppo_all.py][line:674][INFO] steps=210	 scenario3lane_cut_in	 test_return_reward=42.36742	 actor_accuracy=1.00000	 critic_accuracy=1.00000	 goal_pro=0.80000
+[2022-11-19 17:35:45,568][my_ppo_all.py][line:460][INFO] steps=210	 episode_num=168.00000	 reached_num=43.00000
+[2022-11-19 17:35:56,751][my_ppo_all.py][line:739][INFO] steps 211, 0.00 steps/s
+[2022-11-19 17:35:56,753][my_ppo_all.py][line:740][INFO] steps=211	 train_return_reward=7.63981	 reached_pro=0.25595	 action_loss=-0.275	 value_loss=3.002 	 actor_supervise_loss=0.346 	 actor_supervise_accuracy=0.912	critic_supervise_loss=0.336 	 critic_supervise_accuracy=0.951	 entropy=1.162 	 kl=0.24759 	 lr=0.00002873
+[2022-11-19 17:43:02,368][my_ppo_all.py][line:460][INFO] steps=211	 episode_num=241.00000	 reached_num=24.00000
+[2022-11-19 17:43:08,796][my_ppo_all.py][line:739][INFO] steps 212, 0.00 steps/s
+[2022-11-19 17:43:08,799][my_ppo_all.py][line:740][INFO] steps=212	 train_return_reward=-2.09511	 reached_pro=0.09959	 action_loss=-0.047	 value_loss=2.775 	 actor_supervise_loss=0.351 	 actor_supervise_accuracy=0.849	critic_supervise_loss=0.331 	 critic_supervise_accuracy=0.961	 entropy=0.865 	 kl=0.28385 	 lr=0.00002873
+[2022-11-19 17:50:13,710][my_ppo_all.py][line:460][INFO] steps=212	 episode_num=225.00000	 reached_num=30.00000
+[2022-11-19 17:50:24,067][my_ppo_all.py][line:739][INFO] steps 213, 0.00 steps/s
+[2022-11-19 17:50:24,069][my_ppo_all.py][line:740][INFO] steps=213	 train_return_reward=-0.83090	 reached_pro=0.13333	 action_loss=-0.003	 value_loss=2.347 	 actor_supervise_loss=0.355 	 actor_supervise_accuracy=0.887	critic_supervise_loss=0.352 	 critic_supervise_accuracy=0.885	 entropy=1.288 	 kl=0.22972 	 lr=0.00002872
+[2022-11-19 17:57:30,803][my_ppo_all.py][line:460][INFO] steps=213	 episode_num=209.00000	 reached_num=38.00000
+[2022-11-19 17:57:43,598][my_ppo_all.py][line:739][INFO] steps 214, 0.00 steps/s
+[2022-11-19 17:57:43,600][my_ppo_all.py][line:740][INFO] steps=214	 train_return_reward=1.31528	 reached_pro=0.18182	 action_loss=-0.130	 value_loss=2.773 	 actor_supervise_loss=0.371 	 actor_supervise_accuracy=0.820	critic_supervise_loss=0.360 	 critic_supervise_accuracy=0.854	 entropy=1.459 	 kl=0.18404 	 lr=0.00002872
+[2022-11-19 18:03:59,345][my_ppo_all.py][line:460][INFO] steps=214	 episode_num=132.00000	 reached_num=41.00000
+[2022-11-19 18:04:14,295][my_ppo_all.py][line:739][INFO] steps 215, 0.00 steps/s
+[2022-11-19 18:04:14,297][my_ppo_all.py][line:740][INFO] steps=215	 train_return_reward=10.18500	 reached_pro=0.31061	 action_loss=0.148	 value_loss=3.026 	 actor_supervise_loss=0.376 	 actor_supervise_accuracy=0.798	critic_supervise_loss=0.352 	 critic_supervise_accuracy=0.888	 entropy=1.301 	 kl=0.26287 	 lr=0.00002871
+[2022-11-19 18:11:40,338][my_ppo_all.py][line:460][INFO] steps=215	 episode_num=142.00000	 reached_num=43.00000
+[2022-11-19 18:11:54,172][my_ppo_all.py][line:739][INFO] steps 216, 0.00 steps/s
+[2022-11-19 18:11:54,175][my_ppo_all.py][line:740][INFO] steps=216	 train_return_reward=10.07957	 reached_pro=0.30282	 action_loss=0.094	 value_loss=3.455 	 actor_supervise_loss=0.365 	 actor_supervise_accuracy=0.836	critic_supervise_loss=0.329 	 critic_supervise_accuracy=0.980	 entropy=1.592 	 kl=0.22952 	 lr=0.00002870
+[2022-11-19 18:18:12,735][my_ppo_all.py][line:460][INFO] steps=216	 episode_num=142.00000	 reached_num=44.00000
+[2022-11-19 18:18:25,536][my_ppo_all.py][line:739][INFO] steps 217, 0.00 steps/s
+[2022-11-19 18:18:25,538][my_ppo_all.py][line:740][INFO] steps=217	 train_return_reward=9.88583	 reached_pro=0.30986	 action_loss=0.041	 value_loss=2.968 	 actor_supervise_loss=0.338 	 actor_supervise_accuracy=0.950	critic_supervise_loss=0.329 	 critic_supervise_accuracy=0.969	 entropy=1.391 	 kl=0.24139 	 lr=0.00002870
+[2022-11-19 18:25:12,148][my_ppo_all.py][line:460][INFO] steps=217	 episode_num=154.00000	 reached_num=41.00000
+[2022-11-19 18:25:26,058][my_ppo_all.py][line:739][INFO] steps 218, 0.00 steps/s
+[2022-11-19 18:25:26,061][my_ppo_all.py][line:740][INFO] steps=218	 train_return_reward=6.71898	 reached_pro=0.26623	 action_loss=-0.115	 value_loss=2.619 	 actor_supervise_loss=0.336 	 actor_supervise_accuracy=0.943	critic_supervise_loss=0.333 	 critic_supervise_accuracy=0.950	 entropy=1.443 	 kl=0.19876 	 lr=0.00002869
+[2022-11-19 18:31:39,579][my_ppo_all.py][line:460][INFO] steps=218	 episode_num=119.00000	 reached_num=48.00000
+[2022-11-19 18:31:54,875][my_ppo_all.py][line:739][INFO] steps 219, 0.00 steps/s
+[2022-11-19 18:31:54,879][my_ppo_all.py][line:740][INFO] steps=219	 train_return_reward=15.84361	 reached_pro=0.40336	 action_loss=-0.097	 value_loss=3.086 	 actor_supervise_loss=0.362 	 actor_supervise_accuracy=0.852	critic_supervise_loss=0.326 	 critic_supervise_accuracy=0.982	 entropy=1.577 	 kl=0.19680 	 lr=0.00002869
+[2022-11-19 18:38:41,721][my_ppo_all.py][line:460][INFO] steps=219	 episode_num=135.00000	 reached_num=46.00000
+[2022-11-19 18:39:08,929][my_ppo_all.py][line:674][INFO] steps=220	 scenario1_to_3lane_left_turn_c	 test_return_reward=3.93888	 actor_accuracy=1.00000	 critic_accuracy=1.00000	 goal_pro=0.20000
+[2022-11-19 18:39:27,024][my_ppo_all.py][line:674][INFO] steps=220	 scenario1_to_3lane_left_turn_t	 test_return_reward=4.21519	 actor_accuracy=1.00000	 critic_accuracy=1.00000	 goal_pro=0.20000
+[2022-11-19 18:41:03,385][my_ppo_all.py][line:674][INFO] steps=220	 scenario3lane_merge_single_agent	 test_return_reward=5.60477	 actor_accuracy=1.00000	 critic_accuracy=1.00000	 goal_pro=0.00000
+[2022-11-19 18:42:35,961][my_ppo_all.py][line:674][INFO] steps=220	 scenario3lane_cruise_single_agent	 test_return_reward=40.09624	 actor_accuracy=1.00000	 critic_accuracy=1.00000	 goal_pro=1.00000
+[2022-11-19 18:43:43,079][my_ppo_all.py][line:674][INFO] steps=220	 scenario3lane_overtake	 test_return_reward=52.99303	 actor_accuracy=1.00000	 critic_accuracy=1.00000	 goal_pro=1.00000
+[2022-11-19 18:45:13,108][my_ppo_all.py][line:674][INFO] steps=220	 scenario3lane_cut_in	 test_return_reward=36.89080	 actor_accuracy=1.00000	 critic_accuracy=1.00000	 goal_pro=0.60000
+[2022-11-19 18:52:37,607][my_ppo_all.py][line:460][INFO] steps=220	 episode_num=136.00000	 reached_num=47.00000
+[2022-11-19 18:52:52,381][my_ppo_all.py][line:739][INFO] steps 221, 0.00 steps/s
+[2022-11-19 18:52:52,383][my_ppo_all.py][line:740][INFO] steps=221	 train_return_reward=12.25857	 reached_pro=0.34559	 action_loss=-0.107	 value_loss=2.859 	 actor_supervise_loss=0.362 	 actor_supervise_accuracy=0.847	critic_supervise_loss=0.331 	 critic_supervise_accuracy=0.965	 entropy=1.365 	 kl=0.19655 	 lr=0.00002867
+[2022-11-19 18:59:32,223][my_ppo_all.py][line:460][INFO] steps=221	 episode_num=143.00000	 reached_num=38.00000
+[2022-11-19 18:59:46,548][my_ppo_all.py][line:739][INFO] steps 222, 0.00 steps/s
+[2022-11-19 18:59:46,550][my_ppo_all.py][line:740][INFO] steps=222	 train_return_reward=5.50772	 reached_pro=0.26573	 action_loss=0.335	 value_loss=6.861 	 actor_supervise_loss=0.343 	 actor_supervise_accuracy=0.929	critic_supervise_loss=0.326 	 critic_supervise_accuracy=0.979	 entropy=1.779 	 kl=0.21964 	 lr=0.00002867
+[2022-11-19 19:05:59,427][my_ppo_all.py][line:460][INFO] steps=222	 episode_num=128.00000	 reached_num=47.00000
+[2022-11-19 19:06:15,814][my_ppo_all.py][line:739][INFO] steps 223, 0.00 steps/s
+[2022-11-19 19:06:15,816][my_ppo_all.py][line:740][INFO] steps=223	 train_return_reward=13.81849	 reached_pro=0.36719	 action_loss=-0.321	 value_loss=2.816 	 actor_supervise_loss=0.331 	 actor_supervise_accuracy=0.978	critic_supervise_loss=0.325 	 critic_supervise_accuracy=0.983	 entropy=1.589 	 kl=0.17958 	 lr=0.00002866
+[2022-11-19 19:12:54,928][my_ppo_all.py][line:460][INFO] steps=223	 episode_num=136.00000	 reached_num=39.00000
+[2022-11-19 19:13:09,803][my_ppo_all.py][line:739][INFO] steps 224, 0.00 steps/s
+[2022-11-19 19:13:09,807][my_ppo_all.py][line:740][INFO] steps=224	 train_return_reward=10.03288	 reached_pro=0.28676	 action_loss=-0.156	 value_loss=3.105 	 actor_supervise_loss=0.366 	 actor_supervise_accuracy=0.829	critic_supervise_loss=0.344 	 critic_supervise_accuracy=0.917	 entropy=1.534 	 kl=0.20409 	 lr=0.00002866
+[2022-11-19 19:19:44,797][my_ppo_all.py][line:460][INFO] steps=224	 episode_num=150.00000	 reached_num=45.00000
+[2022-11-19 19:19:59,932][my_ppo_all.py][line:739][INFO] steps 225, 0.00 steps/s
+[2022-11-19 19:19:59,934][my_ppo_all.py][line:740][INFO] steps=225	 train_return_reward=9.23689	 reached_pro=0.30000	 action_loss=-0.218	 value_loss=2.571 	 actor_supervise_loss=0.357 	 actor_supervise_accuracy=0.868	critic_supervise_loss=0.336 	 critic_supervise_accuracy=0.947	 entropy=1.518 	 kl=0.20131 	 lr=0.00002865
+[2022-11-19 19:27:26,764][my_ppo_all.py][line:460][INFO] steps=225	 episode_num=166.00000	 reached_num=34.00000
+[2022-11-19 19:27:42,732][my_ppo_all.py][line:739][INFO] steps 226, 0.00 steps/s
+[2022-11-19 19:27:42,734][my_ppo_all.py][line:740][INFO] steps=226	 train_return_reward=3.51698	 reached_pro=0.20482	 action_loss=-0.084	 value_loss=2.516 	 actor_supervise_loss=0.330 	 actor_supervise_accuracy=0.972	critic_supervise_loss=0.330 	 critic_supervise_accuracy=0.966	 entropy=1.409 	 kl=0.20912 	 lr=0.00002864
+[2022-11-19 19:34:07,172][my_ppo_all.py][line:460][INFO] steps=226	 episode_num=128.00000	 reached_num=42.00000
+[2022-11-19 19:34:24,514][my_ppo_all.py][line:739][INFO] steps 227, 0.00 steps/s
+[2022-11-19 19:34:24,518][my_ppo_all.py][line:740][INFO] steps=227	 train_return_reward=9.04850	 reached_pro=0.32812	 action_loss=0.149	 value_loss=4.765 	 actor_supervise_loss=0.335 	 actor_supervise_accuracy=0.949	critic_supervise_loss=0.330 	 critic_supervise_accuracy=0.958	 entropy=1.707 	 kl=0.17468 	 lr=0.00002864
+[2022-11-19 19:40:24,672][my_ppo_all.py][line:460][INFO] steps=227	 episode_num=125.00000	 reached_num=45.00000
+[2022-11-19 19:40:41,290][my_ppo_all.py][line:739][INFO] steps 228, 0.00 steps/s
+[2022-11-19 19:40:41,294][my_ppo_all.py][line:740][INFO] steps=228	 train_return_reward=13.30161	 reached_pro=0.36000	 action_loss=-0.270	 value_loss=2.615 	 actor_supervise_loss=0.329 	 actor_supervise_accuracy=0.971	critic_supervise_loss=0.326 	 critic_supervise_accuracy=0.971	 entropy=1.746 	 kl=0.12411 	 lr=0.00002863
+[2022-11-19 19:46:57,514][my_ppo_all.py][line:460][INFO] steps=228	 episode_num=136.00000	 reached_num=48.00000
+[2022-11-19 19:47:13,753][my_ppo_all.py][line:739][INFO] steps 229, 0.00 steps/s
+[2022-11-19 19:47:13,755][my_ppo_all.py][line:740][INFO] steps=229	 train_return_reward=12.42772	 reached_pro=0.35294	 action_loss=-0.126	 value_loss=3.485 	 actor_supervise_loss=0.356 	 actor_supervise_accuracy=0.870	critic_supervise_loss=0.344 	 critic_supervise_accuracy=0.909	 entropy=1.581 	 kl=0.20236 	 lr=0.00002863
+[2022-11-19 19:54:11,662][my_ppo_all.py][line:460][INFO] steps=229	 episode_num=140.00000	 reached_num=48.00000
+[2022-11-19 19:54:47,443][my_ppo_all.py][line:674][INFO] steps=230	 scenario1_to_3lane_left_turn_c	 test_return_reward=3.77761	 actor_accuracy=0.00000	 critic_accuracy=0.47222	 goal_pro=0.20000
+[2022-11-19 19:55:02,469][my_ppo_all.py][line:674][INFO] steps=230	 scenario1_to_3lane_left_turn_t	 test_return_reward=-8.45152	 actor_accuracy=1.00000	 critic_accuracy=1.00000	 goal_pro=0.00000
+[2022-11-19 19:56:25,068][my_ppo_all.py][line:674][INFO] steps=230	 scenario3lane_merge_single_agent	 test_return_reward=-1.87773	 actor_accuracy=1.00000	 critic_accuracy=1.00000	 goal_pro=0.00000
+[2022-11-19 19:57:49,705][my_ppo_all.py][line:674][INFO] steps=230	 scenario3lane_cruise_single_agent	 test_return_reward=48.87732	 actor_accuracy=0.97561	 critic_accuracy=0.71545	 goal_pro=1.00000
+[2022-11-19 19:58:56,692][my_ppo_all.py][line:674][INFO] steps=230	 scenario3lane_overtake	 test_return_reward=53.92158	 actor_accuracy=1.00000	 critic_accuracy=1.00000	 goal_pro=1.00000
+[2022-11-19 20:00:26,052][my_ppo_all.py][line:674][INFO] steps=230	 scenario3lane_cut_in	 test_return_reward=28.68569	 actor_accuracy=0.81356	 critic_accuracy=0.76271	 goal_pro=0.60000
+[2022-11-19 20:08:05,617][my_ppo_all.py][line:460][INFO] steps=230	 episode_num=172.00000	 reached_num=35.00000
+[2022-11-19 20:08:20,756][my_ppo_all.py][line:739][INFO] steps 231, 0.00 steps/s
+[2022-11-19 20:08:20,757][my_ppo_all.py][line:740][INFO] steps=231	 train_return_reward=4.97202	 reached_pro=0.20349	 action_loss=0.026	 value_loss=3.038 	 actor_supervise_loss=0.371 	 actor_supervise_accuracy=0.820	critic_supervise_loss=0.341 	 critic_supervise_accuracy=0.925	 entropy=1.551 	 kl=0.18490 	 lr=0.00002861
+[2022-11-19 20:15:15,132][my_ppo_all.py][line:460][INFO] steps=231	 episode_num=162.00000	 reached_num=40.00000
+[2022-11-19 20:15:31,235][my_ppo_all.py][line:739][INFO] steps 232, 0.00 steps/s
+[2022-11-19 20:15:31,237][my_ppo_all.py][line:740][INFO] steps=232	 train_return_reward=6.56122	 reached_pro=0.24691	 action_loss=-0.020	 value_loss=3.382 	 actor_supervise_loss=0.371 	 actor_supervise_accuracy=0.820	critic_supervise_loss=0.325 	 critic_supervise_accuracy=0.973	 entropy=1.575 	 kl=0.18589 	 lr=0.00002861
+[2022-11-19 20:21:53,479][my_ppo_all.py][line:460][INFO] steps=232	 episode_num=131.00000	 reached_num=46.00000
+[2022-11-19 20:22:11,081][my_ppo_all.py][line:739][INFO] steps 233, 0.00 steps/s
+[2022-11-19 20:22:11,083][my_ppo_all.py][line:740][INFO] steps=233	 train_return_reward=12.00577	 reached_pro=0.35115	 action_loss=-0.029	 value_loss=2.683 	 actor_supervise_loss=0.347 	 actor_supervise_accuracy=0.928	critic_supervise_loss=0.324 	 critic_supervise_accuracy=0.979	 entropy=1.815 	 kl=0.15718 	 lr=0.00002860
+[2022-11-19 20:28:34,697][my_ppo_all.py][line:460][INFO] steps=233	 episode_num=132.00000	 reached_num=44.00000
+[2022-11-19 20:28:50,165][my_ppo_all.py][line:739][INFO] steps 234, 0.00 steps/s
+[2022-11-19 20:28:50,166][my_ppo_all.py][line:740][INFO] steps=234	 train_return_reward=12.54456	 reached_pro=0.33333	 action_loss=0.095	 value_loss=2.531 	 actor_supervise_loss=0.359 	 actor_supervise_accuracy=0.850	critic_supervise_loss=0.344 	 critic_supervise_accuracy=0.913	 entropy=1.795 	 kl=0.17899 	 lr=0.00002860
+[2022-11-19 20:35:36,687][my_ppo_all.py][line:460][INFO] steps=234	 episode_num=129.00000	 reached_num=48.00000
+[2022-11-19 20:35:50,789][my_ppo_all.py][line:739][INFO] steps 235, 0.00 steps/s
+[2022-11-19 20:35:50,793][my_ppo_all.py][line:740][INFO] steps=235	 train_return_reward=13.53968	 reached_pro=0.37209	 action_loss=-0.035	 value_loss=3.038 	 actor_supervise_loss=0.367 	 actor_supervise_accuracy=0.836	critic_supervise_loss=0.334 	 critic_supervise_accuracy=0.946	 entropy=1.765 	 kl=0.21962 	 lr=0.00002859
+[2022-11-19 20:43:23,374][my_ppo_all.py][line:460][INFO] steps=235	 episode_num=159.00000	 reached_num=42.00000
+[2022-11-19 20:43:39,948][my_ppo_all.py][line:739][INFO] steps 236, 0.00 steps/s
+[2022-11-19 20:43:39,950][my_ppo_all.py][line:740][INFO] steps=236	 train_return_reward=7.16600	 reached_pro=0.26415	 action_loss=0.068	 value_loss=2.552 	 actor_supervise_loss=0.368 	 actor_supervise_accuracy=0.836	critic_supervise_loss=0.330 	 critic_supervise_accuracy=0.970	 entropy=1.702 	 kl=0.15577 	 lr=0.00002858
+[2022-11-19 20:50:08,078][my_ppo_all.py][line:460][INFO] steps=236	 episode_num=136.00000	 reached_num=47.00000
+[2022-11-19 20:50:23,507][my_ppo_all.py][line:739][INFO] steps 237, 0.00 steps/s
+[2022-11-19 20:50:23,508][my_ppo_all.py][line:740][INFO] steps=237	 train_return_reward=11.51793	 reached_pro=0.34559	 action_loss=-0.085	 value_loss=2.463 	 actor_supervise_loss=0.325 	 actor_supervise_accuracy=0.988	critic_supervise_loss=0.322 	 critic_supervise_accuracy=0.980	 entropy=1.690 	 kl=0.16356 	 lr=0.00002858
+[2022-11-19 20:56:48,198][my_ppo_all.py][line:460][INFO] steps=237	 episode_num=144.00000	 reached_num=45.00000
+[2022-11-19 20:57:05,508][my_ppo_all.py][line:739][INFO] steps 238, 0.00 steps/s
+[2022-11-19 20:57:05,510][my_ppo_all.py][line:740][INFO] steps=238	 train_return_reward=9.97565	 reached_pro=0.31250	 action_loss=-0.010	 value_loss=2.870 	 actor_supervise_loss=0.337 	 actor_supervise_accuracy=0.952	critic_supervise_loss=0.333 	 critic_supervise_accuracy=0.952	 entropy=1.832 	 kl=0.17887 	 lr=0.00002857
+[2022-11-19 21:03:34,244][my_ppo_all.py][line:460][INFO] steps=238	 episode_num=132.00000	 reached_num=46.00000
+[2022-11-19 21:03:51,079][my_ppo_all.py][line:739][INFO] steps 239, 0.00 steps/s
+[2022-11-19 21:03:51,082][my_ppo_all.py][line:740][INFO] steps=239	 train_return_reward=12.05206	 reached_pro=0.34848	 action_loss=0.101	 value_loss=2.941 	 actor_supervise_loss=0.354 	 actor_supervise_accuracy=0.882	critic_supervise_loss=0.345 	 critic_supervise_accuracy=0.905	 entropy=2.047 	 kl=0.18047 	 lr=0.00002857
+[2022-11-19 21:11:12,231][my_ppo_all.py][line:460][INFO] steps=239	 episode_num=135.00000	 reached_num=43.00000
+[2022-11-19 21:11:39,828][my_ppo_all.py][line:674][INFO] steps=240	 scenario1_to_3lane_left_turn_c	 test_return_reward=16.38679	 actor_accuracy=1.00000	 critic_accuracy=1.00000	 goal_pro=0.40000
+[2022-11-19 21:11:56,124][my_ppo_all.py][line:674][INFO] steps=240	 scenario1_to_3lane_left_turn_t	 test_return_reward=-8.38124	 actor_accuracy=1.00000	 critic_accuracy=1.00000	 goal_pro=0.00000
+[2022-11-19 21:13:05,359][my_ppo_all.py][line:674][INFO] steps=240	 scenario3lane_merge_single_agent	 test_return_reward=1.92781	 actor_accuracy=1.00000	 critic_accuracy=1.00000	 goal_pro=0.00000
+[2022-11-19 21:14:28,024][my_ppo_all.py][line:674][INFO] steps=240	 scenario3lane_cruise_single_agent	 test_return_reward=20.33041	 actor_accuracy=1.00000	 critic_accuracy=1.00000	 goal_pro=0.60000
+[2022-11-19 21:15:31,856][my_ppo_all.py][line:674][INFO] steps=240	 scenario3lane_overtake	 test_return_reward=45.70721	 actor_accuracy=1.00000	 critic_accuracy=1.00000	 goal_pro=0.80000
+[2022-11-19 21:17:01,118][my_ppo_all.py][line:674][INFO] steps=240	 scenario3lane_cut_in	 test_return_reward=41.64906	 actor_accuracy=0.96364	 critic_accuracy=1.00000	 goal_pro=0.80000
+[2022-11-19 21:23:15,652][my_ppo_all.py][line:460][INFO] steps=240	 episode_num=142.00000	 reached_num=45.00000
+[2022-11-19 21:23:36,303][my_ppo_all.py][line:739][INFO] steps 241, 0.00 steps/s
+[2022-11-19 21:23:36,304][my_ppo_all.py][line:740][INFO] steps=241	 train_return_reward=9.72636	 reached_pro=0.31690	 action_loss=-0.111	 value_loss=3.080 	 actor_supervise_loss=0.342 	 actor_supervise_accuracy=0.968	critic_supervise_loss=0.329 	 critic_supervise_accuracy=0.962	 entropy=1.729 	 kl=0.18654 	 lr=0.00002855
+[2022-11-19 21:30:36,272][my_ppo_all.py][line:460][INFO] steps=241	 episode_num=204.00000	 reached_num=38.00000
+[2022-11-19 21:30:52,132][my_ppo_all.py][line:739][INFO] steps 242, 0.00 steps/s
+[2022-11-19 21:30:52,135][my_ppo_all.py][line:740][INFO] steps=242	 train_return_reward=1.89769	 reached_pro=0.18627	 action_loss=-0.340	 value_loss=2.796 	 actor_supervise_loss=0.338 	 actor_supervise_accuracy=0.929	critic_supervise_loss=0.329 	 critic_supervise_accuracy=0.960	 entropy=1.424 	 kl=0.17081 	 lr=0.00002855
+[2022-11-19 21:38:23,941][my_ppo_all.py][line:460][INFO] steps=242	 episode_num=256.00000	 reached_num=22.00000
+[2022-11-19 21:38:39,589][my_ppo_all.py][line:739][INFO] steps 243, 0.00 steps/s
+[2022-11-19 21:38:39,590][my_ppo_all.py][line:740][INFO] steps=243	 train_return_reward=-2.75148	 reached_pro=0.08594	 action_loss=-0.131	 value_loss=2.747 	 actor_supervise_loss=0.320 	 actor_supervise_accuracy=0.994	critic_supervise_loss=0.320 	 critic_supervise_accuracy=0.993	 entropy=1.308 	 kl=0.14910 	 lr=0.00002854
+[2022-11-19 21:45:47,951][my_ppo_all.py][line:460][INFO] steps=243	 episode_num=188.00000	 reached_num=39.00000
+[2022-11-19 21:46:03,196][my_ppo_all.py][line:739][INFO] steps 244, 0.00 steps/s
+[2022-11-19 21:46:03,198][my_ppo_all.py][line:740][INFO] steps=244	 train_return_reward=3.81572	 reached_pro=0.20745	 action_loss=-0.385	 value_loss=3.255 	 actor_supervise_loss=0.341 	 actor_supervise_accuracy=0.928	critic_supervise_loss=0.336 	 critic_supervise_accuracy=0.938	 entropy=1.623 	 kl=0.21011 	 lr=0.00002854
+[2022-11-19 21:53:57,336][my_ppo_all.py][line:460][INFO] steps=244	 episode_num=209.00000	 reached_num=39.00000
+[2022-11-19 21:54:12,774][my_ppo_all.py][line:739][INFO] steps 245, 0.00 steps/s
+[2022-11-19 21:54:12,776][my_ppo_all.py][line:740][INFO] steps=245	 train_return_reward=2.76155	 reached_pro=0.18660	 action_loss=-0.234	 value_loss=2.998 	 actor_supervise_loss=0.353 	 actor_supervise_accuracy=0.905	critic_supervise_loss=0.339 	 critic_supervise_accuracy=0.935	 entropy=1.510 	 kl=0.20400 	 lr=0.00002853
+[2022-11-19 22:00:32,741][my_ppo_all.py][line:460][INFO] steps=245	 episode_num=139.00000	 reached_num=43.00000
+[2022-11-19 22:00:39,051][my_ppo_all.py][line:739][INFO] steps 246, 0.00 steps/s
+[2022-11-19 22:00:39,054][my_ppo_all.py][line:740][INFO] steps=246	 train_return_reward=8.95989	 reached_pro=0.30935	 action_loss=0.272	 value_loss=3.426 	 actor_supervise_loss=0.364 	 actor_supervise_accuracy=0.830	critic_supervise_loss=0.341 	 critic_supervise_accuracy=0.914	 entropy=1.434 	 kl=0.24139 	 lr=0.00002852
+[2022-11-19 22:07:12,828][my_ppo_all.py][line:460][INFO] steps=246	 episode_num=144.00000	 reached_num=48.00000
+[2022-11-19 22:07:19,358][my_ppo_all.py][line:739][INFO] steps 247, 0.00 steps/s
+[2022-11-19 22:07:19,360][my_ppo_all.py][line:740][INFO] steps=247	 train_return_reward=11.06922	 reached_pro=0.33333	 action_loss=0.052	 value_loss=3.254 	 actor_supervise_loss=0.349 	 actor_supervise_accuracy=0.899	critic_supervise_loss=0.332 	 critic_supervise_accuracy=0.962	 entropy=1.261 	 kl=0.21083 	 lr=0.00002852
+[2022-11-19 22:14:17,477][my_ppo_all.py][line:460][INFO] steps=247	 episode_num=167.00000	 reached_num=43.00000
+[2022-11-19 22:14:33,050][my_ppo_all.py][line:739][INFO] steps 248, 0.00 steps/s
+[2022-11-19 22:14:33,052][my_ppo_all.py][line:740][INFO] steps=248	 train_return_reward=7.27400	 reached_pro=0.25749	 action_loss=-0.008	 value_loss=3.044 	 actor_supervise_loss=0.326 	 actor_supervise_accuracy=0.979	critic_supervise_loss=0.326 	 critic_supervise_accuracy=0.975	 entropy=1.329 	 kl=0.22698 	 lr=0.00002851
+[2022-11-19 22:21:17,975][my_ppo_all.py][line:460][INFO] steps=248	 episode_num=117.00000	 reached_num=51.00000
+[2022-11-19 22:21:33,072][my_ppo_all.py][line:739][INFO] steps 249, 0.00 steps/s
+[2022-11-19 22:21:33,077][my_ppo_all.py][line:740][INFO] steps=249	 train_return_reward=14.96547	 reached_pro=0.43590	 action_loss=0.064	 value_loss=2.304 	 actor_supervise_loss=0.333 	 actor_supervise_accuracy=0.944	critic_supervise_loss=0.332 	 critic_supervise_accuracy=0.948	 entropy=1.833 	 kl=0.20621 	 lr=0.00002851
+[2022-11-19 22:28:33,291][my_ppo_all.py][line:460][INFO] steps=249	 episode_num=125.00000	 reached_num=59.00000
+[2022-11-19 22:28:57,386][my_ppo_all.py][line:674][INFO] steps=250	 scenario1_to_3lane_left_turn_c	 test_return_reward=4.06299	 actor_accuracy=1.00000	 critic_accuracy=1.00000	 goal_pro=0.20000
+[2022-11-19 22:29:12,518][my_ppo_all.py][line:674][INFO] steps=250	 scenario1_to_3lane_left_turn_t	 test_return_reward=-8.36689	 actor_accuracy=1.00000	 critic_accuracy=1.00000	 goal_pro=0.00000
+[2022-11-19 22:30:44,996][my_ppo_all.py][line:674][INFO] steps=250	 scenario3lane_merge_single_agent	 test_return_reward=4.96700	 actor_accuracy=1.00000	 critic_accuracy=1.00000	 goal_pro=0.00000
+[2022-11-19 22:32:03,365][my_ppo_all.py][line:674][INFO] steps=250	 scenario3lane_cruise_single_agent	 test_return_reward=26.59191	 actor_accuracy=0.80952	 critic_accuracy=0.87619	 goal_pro=0.60000
+[2022-11-19 22:33:07,875][my_ppo_all.py][line:674][INFO] steps=250	 scenario3lane_overtake	 test_return_reward=54.91700	 actor_accuracy=1.00000	 critic_accuracy=1.00000	 goal_pro=1.00000
+[2022-11-19 22:34:45,732][my_ppo_all.py][line:674][INFO] steps=250	 scenario3lane_cut_in	 test_return_reward=32.53343	 actor_accuracy=0.69595	 critic_accuracy=0.00676	 goal_pro=0.60000
+[2022-11-19 22:40:55,877][my_ppo_all.py][line:460][INFO] steps=250	 episode_num=146.00000	 reached_num=48.00000
+[2022-11-19 22:41:11,572][my_ppo_all.py][line:739][INFO] steps 251, 0.00 steps/s
+[2022-11-19 22:41:11,574][my_ppo_all.py][line:740][INFO] steps=251	 train_return_reward=11.71158	 reached_pro=0.32877	 action_loss=-0.055	 value_loss=2.860 	 actor_supervise_loss=0.364 	 actor_supervise_accuracy=0.840	critic_supervise_loss=0.335 	 critic_supervise_accuracy=0.957	 entropy=1.251 	 kl=0.20666 	 lr=0.00002849
+[2022-11-19 22:47:52,593][my_ppo_all.py][line:460][INFO] steps=251	 episode_num=168.00000	 reached_num=43.00000
+[2022-11-19 22:48:08,493][my_ppo_all.py][line:739][INFO] steps 252, 0.00 steps/s
+[2022-11-19 22:48:08,495][my_ppo_all.py][line:740][INFO] steps=252	 train_return_reward=6.44738	 reached_pro=0.25595	 action_loss=0.012	 value_loss=2.421 	 actor_supervise_loss=0.354 	 actor_supervise_accuracy=0.877	critic_supervise_loss=0.332 	 critic_supervise_accuracy=0.960	 entropy=1.385 	 kl=0.22483 	 lr=0.00002849
+[2022-11-19 22:54:35,680][my_ppo_all.py][line:460][INFO] steps=252	 episode_num=139.00000	 reached_num=48.00000
+[2022-11-19 22:54:46,461][my_ppo_all.py][line:739][INFO] steps 253, 0.00 steps/s
+[2022-11-19 22:54:46,464][my_ppo_all.py][line:740][INFO] steps=253	 train_return_reward=10.26966	 reached_pro=0.34532	 action_loss=0.115	 value_loss=3.935 	 actor_supervise_loss=0.336 	 actor_supervise_accuracy=0.953	critic_supervise_loss=0.329 	 critic_supervise_accuracy=0.962	 entropy=1.300 	 kl=0.23779 	 lr=0.00002848
+[2022-11-19 23:01:27,278][my_ppo_all.py][line:460][INFO] steps=253	 episode_num=148.00000	 reached_num=41.00000
+[2022-11-19 23:01:40,865][my_ppo_all.py][line:739][INFO] steps 254, 0.00 steps/s
+[2022-11-19 23:01:40,868][my_ppo_all.py][line:740][INFO] steps=254	 train_return_reward=9.71373	 reached_pro=0.27703	 action_loss=-0.111	 value_loss=2.750 	 actor_supervise_loss=0.364 	 actor_supervise_accuracy=0.838	critic_supervise_loss=0.342 	 critic_supervise_accuracy=0.922	 entropy=1.256 	 kl=0.21703 	 lr=0.00002848
+[2022-11-19 23:08:28,305][my_ppo_all.py][line:460][INFO] steps=254	 episode_num=161.00000	 reached_num=42.00000
+[2022-11-19 23:08:45,026][my_ppo_all.py][line:739][INFO] steps 255, 0.00 steps/s
+[2022-11-19 23:08:45,028][my_ppo_all.py][line:740][INFO] steps=255	 train_return_reward=7.55917	 reached_pro=0.26087	 action_loss=0.040	 value_loss=3.785 	 actor_supervise_loss=0.351 	 actor_supervise_accuracy=0.893	critic_supervise_loss=0.338 	 critic_supervise_accuracy=0.935	 entropy=1.229 	 kl=0.21022 	 lr=0.00002847
+[2022-11-19 23:16:31,131][my_ppo_all.py][line:460][INFO] steps=255	 episode_num=179.00000	 reached_num=45.00000
+[2022-11-19 23:16:47,935][my_ppo_all.py][line:739][INFO] steps 256, 0.00 steps/s
+[2022-11-19 23:16:47,937][my_ppo_all.py][line:740][INFO] steps=256	 train_return_reward=5.56544	 reached_pro=0.25140	 action_loss=-0.279	 value_loss=2.893 	 actor_supervise_loss=0.323 	 actor_supervise_accuracy=0.985	critic_supervise_loss=0.324 	 critic_supervise_accuracy=0.982	 entropy=1.318 	 kl=0.18250 	 lr=0.00002846
+[2022-11-19 23:22:52,475][my_ppo_all.py][line:460][INFO] steps=256	 episode_num=122.00000	 reached_num=52.00000
+[2022-11-19 23:23:07,910][my_ppo_all.py][line:739][INFO] steps 257, 0.00 steps/s
+[2022-11-19 23:23:07,913][my_ppo_all.py][line:740][INFO] steps=257	 train_return_reward=15.72758	 reached_pro=0.42623	 action_loss=0.152	 value_loss=3.041 	 actor_supervise_loss=0.326 	 actor_supervise_accuracy=0.978	critic_supervise_loss=0.324 	 critic_supervise_accuracy=0.976	 entropy=1.377 	 kl=0.19714 	 lr=0.00002846
+[2022-11-19 23:29:42,028][my_ppo_all.py][line:460][INFO] steps=257	 episode_num=153.00000	 reached_num=42.00000
+[2022-11-19 23:29:48,833][my_ppo_all.py][line:739][INFO] steps 258, 0.00 steps/s
+[2022-11-19 23:29:48,836][my_ppo_all.py][line:740][INFO] steps=258	 train_return_reward=8.33794	 reached_pro=0.27451	 action_loss=0.213	 value_loss=3.631 	 actor_supervise_loss=0.336 	 actor_supervise_accuracy=0.948	critic_supervise_loss=0.330 	 critic_supervise_accuracy=0.954	 entropy=1.269 	 kl=0.18582 	 lr=0.00002845
+[2022-11-19 23:36:26,404][my_ppo_all.py][line:460][INFO] steps=258	 episode_num=143.00000	 reached_num=47.00000
+[2022-11-19 23:36:41,483][my_ppo_all.py][line:739][INFO] steps 259, 0.00 steps/s
+[2022-11-19 23:36:41,486][my_ppo_all.py][line:740][INFO] steps=259	 train_return_reward=9.65016	 reached_pro=0.32867	 action_loss=0.232	 value_loss=2.723 	 actor_supervise_loss=0.363 	 actor_supervise_accuracy=0.844	critic_supervise_loss=0.344 	 critic_supervise_accuracy=0.920	 entropy=1.155 	 kl=0.23800 	 lr=0.00002845
+[2022-11-19 23:43:41,358][my_ppo_all.py][line:460][INFO] steps=259	 episode_num=148.00000	 reached_num=48.00000
+[2022-11-19 23:44:15,372][my_ppo_all.py][line:674][INFO] steps=260	 scenario1_to_3lane_left_turn_c	 test_return_reward=16.21370	 actor_accuracy=1.00000	 critic_accuracy=1.00000	 goal_pro=0.40000
+[2022-11-19 23:44:33,254][my_ppo_all.py][line:674][INFO] steps=260	 scenario1_to_3lane_left_turn_t	 test_return_reward=-8.09234	 actor_accuracy=1.00000	 critic_accuracy=1.00000	 goal_pro=0.00000
+[2022-11-19 23:46:29,504][my_ppo_all.py][line:674][INFO] steps=260	 scenario3lane_merge_single_agent	 test_return_reward=6.03808	 actor_accuracy=1.00000	 critic_accuracy=1.00000	 goal_pro=0.00000
+[2022-11-19 23:47:44,716][my_ppo_all.py][line:674][INFO] steps=260	 scenario3lane_cruise_single_agent	 test_return_reward=31.48751	 actor_accuracy=1.00000	 critic_accuracy=1.00000	 goal_pro=1.00000
+[2022-11-19 23:48:47,331][my_ppo_all.py][line:674][INFO] steps=260	 scenario3lane_overtake	 test_return_reward=38.07386	 actor_accuracy=1.00000	 critic_accuracy=1.00000	 goal_pro=0.80000
+[2022-11-19 23:50:19,226][my_ppo_all.py][line:674][INFO] steps=260	 scenario3lane_cut_in	 test_return_reward=46.04510	 actor_accuracy=1.00000	 critic_accuracy=0.72800	 goal_pro=1.00000
+[2022-11-19 23:57:59,374][my_ppo_all.py][line:460][INFO] steps=260	 episode_num=171.00000	 reached_num=40.00000
+[2022-11-19 23:58:14,872][my_ppo_all.py][line:739][INFO] steps 261, 0.00 steps/s
+[2022-11-19 23:58:14,873][my_ppo_all.py][line:740][INFO] steps=261	 train_return_reward=5.63892	 reached_pro=0.23392	 action_loss=-0.077	 value_loss=2.663 	 actor_supervise_loss=0.325 	 actor_supervise_accuracy=0.978	critic_supervise_loss=0.324 	 critic_supervise_accuracy=0.980	 entropy=1.002 	 kl=0.19373 	 lr=0.00002843
+[2022-11-20 00:04:16,429][my_ppo_all.py][line:460][INFO] steps=261	 episode_num=130.00000	 reached_num=46.00000
+[2022-11-20 00:04:31,660][my_ppo_all.py][line:739][INFO] steps 262, 0.00 steps/s
+[2022-11-20 00:04:31,668][my_ppo_all.py][line:740][INFO] steps=262	 train_return_reward=12.48675	 reached_pro=0.35385	 action_loss=-0.152	 value_loss=2.926 	 actor_supervise_loss=0.322 	 actor_supervise_accuracy=0.987	critic_supervise_loss=0.321 	 critic_supervise_accuracy=0.989	 entropy=1.626 	 kl=0.20450 	 lr=0.00002843
+[2022-11-20 00:10:53,489][my_ppo_all.py][line:460][INFO] steps=262	 episode_num=140.00000	 reached_num=47.00000
+[2022-11-20 00:11:06,603][my_ppo_all.py][line:739][INFO] steps 263, 0.00 steps/s
+[2022-11-20 00:11:06,606][my_ppo_all.py][line:740][INFO] steps=263	 train_return_reward=11.51668	 reached_pro=0.33571	 action_loss=-0.060	 value_loss=2.494 	 actor_supervise_loss=0.327 	 actor_supervise_accuracy=0.972	critic_supervise_loss=0.326 	 critic_supervise_accuracy=0.972	 entropy=1.322 	 kl=0.24005 	 lr=0.00002842
+[2022-11-20 00:17:21,707][my_ppo_all.py][line:460][INFO] steps=263	 episode_num=132.00000	 reached_num=49.00000
+[2022-11-20 00:17:34,707][my_ppo_all.py][line:739][INFO] steps 264, 0.00 steps/s
+[2022-11-20 00:17:34,709][my_ppo_all.py][line:740][INFO] steps=264	 train_return_reward=12.39550	 reached_pro=0.37121	 action_loss=0.093	 value_loss=3.181 	 actor_supervise_loss=0.322 	 actor_supervise_accuracy=0.987	critic_supervise_loss=0.321 	 critic_supervise_accuracy=0.987	 entropy=1.565 	 kl=0.21799 	 lr=0.00002842
+[2022-11-20 00:24:29,028][my_ppo_all.py][line:460][INFO] steps=264	 episode_num=150.00000	 reached_num=43.00000
+[2022-11-20 00:24:39,935][my_ppo_all.py][line:739][INFO] steps 265, 0.00 steps/s
+[2022-11-20 00:24:39,939][my_ppo_all.py][line:740][INFO] steps=265	 train_return_reward=9.24295	 reached_pro=0.28667	 action_loss=-0.058	 value_loss=2.600 	 actor_supervise_loss=0.342 	 actor_supervise_accuracy=0.919	critic_supervise_loss=0.335 	 critic_supervise_accuracy=0.934	 entropy=1.519 	 kl=0.25010 	 lr=0.00002841
+[2022-11-20 00:32:20,591][my_ppo_all.py][line:460][INFO] steps=265	 episode_num=147.00000	 reached_num=48.00000
+[2022-11-20 00:32:34,097][my_ppo_all.py][line:739][INFO] steps 266, 0.00 steps/s
+[2022-11-20 00:32:34,100][my_ppo_all.py][line:740][INFO] steps=266	 train_return_reward=10.29250	 reached_pro=0.32653	 action_loss=-0.278	 value_loss=3.012 	 actor_supervise_loss=0.369 	 actor_supervise_accuracy=0.824	critic_supervise_loss=0.350 	 critic_supervise_accuracy=0.901	 entropy=1.603 	 kl=0.22473 	 lr=0.00002840
+[2022-11-20 00:39:42,781][my_ppo_all.py][line:460][INFO] steps=266	 episode_num=168.00000	 reached_num=41.00000
+[2022-11-20 00:39:58,639][my_ppo_all.py][line:739][INFO] steps 267, 0.00 steps/s
+[2022-11-20 00:39:58,641][my_ppo_all.py][line:740][INFO] steps=267	 train_return_reward=5.96035	 reached_pro=0.24405	 action_loss=-0.104	 value_loss=2.160 	 actor_supervise_loss=0.340 	 actor_supervise_accuracy=0.935	critic_supervise_loss=0.334 	 critic_supervise_accuracy=0.948	 entropy=1.598 	 kl=0.17164 	 lr=0.00002840
+[2022-11-20 00:46:58,240][my_ppo_all.py][line:460][INFO] steps=267	 episode_num=185.00000	 reached_num=37.00000
+[2022-11-20 00:47:13,601][my_ppo_all.py][line:739][INFO] steps 268, 0.00 steps/s
+[2022-11-20 00:47:13,605][my_ppo_all.py][line:740][INFO] steps=268	 train_return_reward=3.51188	 reached_pro=0.20000	 action_loss=-0.112	 value_loss=2.956 	 actor_supervise_loss=0.327 	 actor_supervise_accuracy=0.973	critic_supervise_loss=0.328 	 critic_supervise_accuracy=0.967	 entropy=1.500 	 kl=0.20269 	 lr=0.00002839
+[2022-11-20 00:53:41,099][my_ppo_all.py][line:460][INFO] steps=268	 episode_num=142.00000	 reached_num=43.00000
+[2022-11-20 00:53:53,524][my_ppo_all.py][line:739][INFO] steps 269, 0.00 steps/s
+[2022-11-20 00:53:53,527][my_ppo_all.py][line:740][INFO] steps=269	 train_return_reward=8.92868	 reached_pro=0.30282	 action_loss=0.132	 value_loss=2.892 	 actor_supervise_loss=0.327 	 actor_supervise_accuracy=0.976	critic_supervise_loss=0.325 	 critic_supervise_accuracy=0.978	 entropy=1.786 	 kl=0.20495 	 lr=0.00002839
+[2022-11-20 01:01:04,206][my_ppo_all.py][line:460][INFO] steps=269	 episode_num=153.00000	 reached_num=50.00000
+[2022-11-20 01:01:35,785][my_ppo_all.py][line:674][INFO] steps=270	 scenario1_to_3lane_left_turn_c	 test_return_reward=26.96421	 actor_accuracy=1.00000	 critic_accuracy=1.00000	 goal_pro=0.60000
+[2022-11-20 01:01:54,739][my_ppo_all.py][line:674][INFO] steps=270	 scenario1_to_3lane_left_turn_t	 test_return_reward=3.56276	 actor_accuracy=1.00000	 critic_accuracy=1.00000	 goal_pro=0.20000
+[2022-11-20 01:03:35,624][my_ppo_all.py][line:674][INFO] steps=270	 scenario3lane_merge_single_agent	 test_return_reward=7.22102	 actor_accuracy=1.00000	 critic_accuracy=1.00000	 goal_pro=0.00000
+[2022-11-20 01:04:59,108][my_ppo_all.py][line:674][INFO] steps=270	 scenario3lane_cruise_single_agent	 test_return_reward=48.49494	 actor_accuracy=1.00000	 critic_accuracy=1.00000	 goal_pro=1.00000
+[2022-11-20 01:06:01,065][my_ppo_all.py][line:674][INFO] steps=270	 scenario3lane_overtake	 test_return_reward=55.49355	 actor_accuracy=1.00000	 critic_accuracy=1.00000	 goal_pro=1.00000
+[2022-11-20 01:07:31,359][my_ppo_all.py][line:674][INFO] steps=270	 scenario3lane_cut_in	 test_return_reward=44.47347	 actor_accuracy=1.00000	 critic_accuracy=0.97531	 goal_pro=0.80000
+[2022-11-20 01:15:05,804][my_ppo_all.py][line:460][INFO] steps=270	 episode_num=140.00000	 reached_num=47.00000
+[2022-11-20 01:15:16,299][my_ppo_all.py][line:739][INFO] steps 271, 0.00 steps/s
+[2022-11-20 01:15:16,302][my_ppo_all.py][line:740][INFO] steps=271	 train_return_reward=11.54835	 reached_pro=0.33571	 action_loss=-0.054	 value_loss=2.626 	 actor_supervise_loss=0.385 	 actor_supervise_accuracy=0.765	critic_supervise_loss=0.355 	 critic_supervise_accuracy=0.878	 entropy=1.640 	 kl=0.20605 	 lr=0.00002837
+[2022-11-20 01:21:36,635][my_ppo_all.py][line:460][INFO] steps=271	 episode_num=135.00000	 reached_num=39.00000
+[2022-11-20 01:21:51,122][my_ppo_all.py][line:739][INFO] steps 272, 0.00 steps/s
+[2022-11-20 01:21:51,124][my_ppo_all.py][line:740][INFO] steps=272	 train_return_reward=9.04362	 reached_pro=0.28889	 action_loss=0.120	 value_loss=3.098 	 actor_supervise_loss=0.374 	 actor_supervise_accuracy=0.817	critic_supervise_loss=0.371 	 critic_supervise_accuracy=0.817	 entropy=1.722 	 kl=0.18603 	 lr=0.00002837
+[2022-11-20 01:28:36,962][my_ppo_all.py][line:460][INFO] steps=272	 episode_num=152.00000	 reached_num=32.00000
+[2022-11-20 01:28:51,656][my_ppo_all.py][line:739][INFO] steps 273, 0.00 steps/s
+[2022-11-20 01:28:51,657][my_ppo_all.py][line:740][INFO] steps=273	 train_return_reward=3.76449	 reached_pro=0.21053	 action_loss=0.144	 value_loss=2.722 	 actor_supervise_loss=0.368 	 actor_supervise_accuracy=0.828	critic_supervise_loss=0.347 	 critic_supervise_accuracy=0.901	 entropy=1.754 	 kl=0.17592 	 lr=0.00002836
+[2022-11-20 01:34:51,804][my_ppo_all.py][line:460][INFO] steps=273	 episode_num=120.00000	 reached_num=50.00000
+[2022-11-20 01:35:05,293][my_ppo_all.py][line:739][INFO] steps 274, 0.00 steps/s
+[2022-11-20 01:35:05,294][my_ppo_all.py][line:740][INFO] steps=274	 train_return_reward=15.51155	 reached_pro=0.41667	 action_loss=-0.254	 value_loss=2.686 	 actor_supervise_loss=0.381 	 actor_supervise_accuracy=0.784	critic_supervise_loss=0.364 	 critic_supervise_accuracy=0.840	 entropy=1.662 	 kl=0.20867 	 lr=0.00002836
+[2022-11-20 01:42:10,374][my_ppo_all.py][line:460][INFO] steps=274	 episode_num=152.00000	 reached_num=42.00000
+[2022-11-20 01:42:22,326][my_ppo_all.py][line:739][INFO] steps 275, 0.00 steps/s
+[2022-11-20 01:42:22,329][my_ppo_all.py][line:740][INFO] steps=275	 train_return_reward=7.07056	 reached_pro=0.27632	 action_loss=0.072	 value_loss=3.565 	 actor_supervise_loss=0.370 	 actor_supervise_accuracy=0.823	critic_supervise_loss=0.331 	 critic_supervise_accuracy=0.965	 entropy=1.517 	 kl=0.22911 	 lr=0.00002835
+[2022-11-20 01:50:19,550][my_ppo_all.py][line:460][INFO] steps=275	 episode_num=173.00000	 reached_num=44.00000
+[2022-11-20 01:50:26,550][my_ppo_all.py][line:739][INFO] steps 276, 0.00 steps/s
+[2022-11-20 01:50:26,553][my_ppo_all.py][line:740][INFO] steps=276	 train_return_reward=5.93390	 reached_pro=0.25434	 action_loss=-0.078	 value_loss=2.885 	 actor_supervise_loss=0.370 	 actor_supervise_accuracy=0.821	critic_supervise_loss=0.334 	 critic_supervise_accuracy=0.949	 entropy=1.019 	 kl=0.21387 	 lr=0.00002834
+[2022-11-20 01:56:46,900][my_ppo_all.py][line:460][INFO] steps=276	 episode_num=138.00000	 reached_num=45.00000
+[2022-11-20 01:57:00,659][my_ppo_all.py][line:739][INFO] steps 277, 0.00 steps/s
+[2022-11-20 01:57:00,663][my_ppo_all.py][line:740][INFO] steps=277	 train_return_reward=11.47075	 reached_pro=0.32609	 action_loss=-0.146	 value_loss=2.900 	 actor_supervise_loss=0.373 	 actor_supervise_accuracy=0.816	critic_supervise_loss=0.351 	 critic_supervise_accuracy=0.885	 entropy=1.413 	 kl=0.20358 	 lr=0.00002834
+[2022-11-20 02:03:20,357][my_ppo_all.py][line:460][INFO] steps=277	 episode_num=127.00000	 reached_num=55.00000
+[2022-11-20 02:03:46,237][my_ppo_all.py][line:739][INFO] steps 278, 0.00 steps/s
+[2022-11-20 02:03:46,240][my_ppo_all.py][line:740][INFO] steps=278	 train_return_reward=18.08427	 reached_pro=0.43307	 action_loss=-0.086	 value_loss=2.815 	 actor_supervise_loss=0.371 	 actor_supervise_accuracy=0.819	critic_supervise_loss=0.349 	 critic_supervise_accuracy=0.904	 entropy=1.514 	 kl=0.17195 	 lr=0.00002833
+[2022-11-20 02:10:28,995][my_ppo_all.py][line:460][INFO] steps=278	 episode_num=207.00000	 reached_num=36.00000
+[2022-11-20 02:10:43,245][my_ppo_all.py][line:739][INFO] steps 279, 0.00 steps/s
+[2022-11-20 02:10:43,246][my_ppo_all.py][line:740][INFO] steps=279	 train_return_reward=2.44853	 reached_pro=0.17391	 action_loss=-0.153	 value_loss=3.296 	 actor_supervise_loss=0.369 	 actor_supervise_accuracy=0.830	critic_supervise_loss=0.339 	 critic_supervise_accuracy=0.946	 entropy=1.326 	 kl=0.22023 	 lr=0.00002833
+[2022-11-20 02:18:26,238][my_ppo_all.py][line:460][INFO] steps=279	 episode_num=244.00000	 reached_num=34.00000
+[2022-11-20 02:18:49,838][my_ppo_all.py][line:674][INFO] steps=280	 scenario1_to_3lane_left_turn_c	 test_return_reward=-8.38178	 actor_accuracy=0.75000	 critic_accuracy=1.00000	 goal_pro=0.00000
+[2022-11-20 02:19:06,016][my_ppo_all.py][line:674][INFO] steps=280	 scenario1_to_3lane_left_turn_t	 test_return_reward=-8.16890	 actor_accuracy=0.16667	 critic_accuracy=1.00000	 goal_pro=0.00000
+[2022-11-20 02:20:42,311][my_ppo_all.py][line:674][INFO] steps=280	 scenario3lane_merge_single_agent	 test_return_reward=6.86289	 actor_accuracy=1.00000	 critic_accuracy=1.00000	 goal_pro=0.00000
+[2022-11-20 02:22:13,649][my_ppo_all.py][line:674][INFO] steps=280	 scenario3lane_cruise_single_agent	 test_return_reward=40.54837	 actor_accuracy=1.00000	 critic_accuracy=1.00000	 goal_pro=1.00000
+[2022-11-20 02:23:11,722][my_ppo_all.py][line:674][INFO] steps=280	 scenario3lane_overtake	 test_return_reward=48.75985	 actor_accuracy=1.00000	 critic_accuracy=1.00000	 goal_pro=1.00000
+[2022-11-20 02:24:32,303][my_ppo_all.py][line:674][INFO] steps=280	 scenario3lane_cut_in	 test_return_reward=54.80449	 actor_accuracy=1.00000	 critic_accuracy=1.00000	 goal_pro=1.00000
+[2022-11-20 02:32:54,930][my_ppo_all.py][line:460][INFO] steps=280	 episode_num=235.00000	 reached_num=30.00000
+[2022-11-20 02:33:08,124][my_ppo_all.py][line:739][INFO] steps 281, 0.00 steps/s
+[2022-11-20 02:33:08,127][my_ppo_all.py][line:740][INFO] steps=281	 train_return_reward=-0.51271	 reached_pro=0.12766	 action_loss=-0.152	 value_loss=2.925 	 actor_supervise_loss=0.334 	 actor_supervise_accuracy=0.974	critic_supervise_loss=0.329 	 critic_supervise_accuracy=0.969	 entropy=1.070 	 kl=0.26299 	 lr=0.00002831
+[2022-11-20 02:39:58,737][my_ppo_all.py][line:460][INFO] steps=281	 episode_num=191.00000	 reached_num=42.00000
+[2022-11-20 02:40:07,750][my_ppo_all.py][line:739][INFO] steps 282, 0.00 steps/s
+[2022-11-20 02:40:07,754][my_ppo_all.py][line:740][INFO] steps=282	 train_return_reward=4.28542	 reached_pro=0.21990	 action_loss=-0.116	 value_loss=2.821 	 actor_supervise_loss=0.334 	 actor_supervise_accuracy=0.977	critic_supervise_loss=0.332 	 critic_supervise_accuracy=0.960	 entropy=0.978 	 kl=0.24136 	 lr=0.00002831
+[2022-11-20 02:46:32,523][my_ppo_all.py][line:460][INFO] steps=282	 episode_num=123.00000	 reached_num=54.00000
+[2022-11-20 02:46:39,356][my_ppo_all.py][line:739][INFO] steps 283, 0.00 steps/s
+[2022-11-20 02:46:39,359][my_ppo_all.py][line:740][INFO] steps=283	 train_return_reward=18.87409	 reached_pro=0.43902	 action_loss=0.045	 value_loss=3.368 	 actor_supervise_loss=0.334 	 actor_supervise_accuracy=0.978	critic_supervise_loss=0.335 	 critic_supervise_accuracy=0.947	 entropy=1.351 	 kl=0.17382 	 lr=0.00002830
+[2022-11-20 02:53:16,424][my_ppo_all.py][line:460][INFO] steps=283	 episode_num=139.00000	 reached_num=48.00000
+[2022-11-20 02:53:22,520][my_ppo_all.py][line:739][INFO] steps 284, 0.00 steps/s
+[2022-11-20 02:53:22,523][my_ppo_all.py][line:740][INFO] steps=284	 train_return_reward=13.56467	 reached_pro=0.34532	 action_loss=0.002	 value_loss=3.798 	 actor_supervise_loss=0.354 	 actor_supervise_accuracy=0.892	critic_supervise_loss=0.345 	 critic_supervise_accuracy=0.910	 entropy=1.319 	 kl=0.27565 	 lr=0.00002830
+[2022-11-20 03:00:05,462][my_ppo_all.py][line:460][INFO] steps=284	 episode_num=153.00000	 reached_num=45.00000
+[2022-11-20 03:00:16,842][my_ppo_all.py][line:739][INFO] steps 285, 0.00 steps/s
+[2022-11-20 03:00:16,844][my_ppo_all.py][line:740][INFO] steps=285	 train_return_reward=9.79922	 reached_pro=0.29412	 action_loss=0.071	 value_loss=2.648 	 actor_supervise_loss=0.329 	 actor_supervise_accuracy=0.979	critic_supervise_loss=0.324 	 critic_supervise_accuracy=0.978	 entropy=1.267 	 kl=0.24585 	 lr=0.00002829
+[2022-11-20 03:08:45,528][my_ppo_all.py][line:460][INFO] steps=285	 episode_num=143.00000	 reached_num=46.00000
+[2022-11-20 03:08:52,328][my_ppo_all.py][line:739][INFO] steps 286, 0.00 steps/s
+[2022-11-20 03:08:52,331][my_ppo_all.py][line:740][INFO] steps=286	 train_return_reward=10.72537	 reached_pro=0.32168	 action_loss=0.151	 value_loss=3.193 	 actor_supervise_loss=0.340 	 actor_supervise_accuracy=0.943	critic_supervise_loss=0.343 	 critic_supervise_accuracy=0.929	 entropy=1.237 	 kl=0.17672 	 lr=0.00002828
+[2022-11-20 03:15:21,580][my_ppo_all.py][line:460][INFO] steps=286	 episode_num=122.00000	 reached_num=51.00000
+[2022-11-20 03:15:34,237][my_ppo_all.py][line:739][INFO] steps 287, 0.00 steps/s
+[2022-11-20 03:15:34,241][my_ppo_all.py][line:740][INFO] steps=287	 train_return_reward=17.07373	 reached_pro=0.41803	 action_loss=0.098	 value_loss=2.929 	 actor_supervise_loss=0.336 	 actor_supervise_accuracy=0.967	critic_supervise_loss=0.334 	 critic_supervise_accuracy=0.954	 entropy=1.368 	 kl=0.23896 	 lr=0.00002828
+[2022-11-20 03:22:07,266][my_ppo_all.py][line:460][INFO] steps=287	 episode_num=139.00000	 reached_num=44.00000
+[2022-11-20 03:22:19,684][my_ppo_all.py][line:739][INFO] steps 288, 0.00 steps/s
+[2022-11-20 03:22:19,687][my_ppo_all.py][line:740][INFO] steps=288	 train_return_reward=10.20292	 reached_pro=0.31655	 action_loss=0.143	 value_loss=2.807 	 actor_supervise_loss=0.349 	 actor_supervise_accuracy=0.906	critic_supervise_loss=0.330 	 critic_supervise_accuracy=0.971	 entropy=1.201 	 kl=0.23541 	 lr=0.00002827
+[2022-11-20 03:28:58,579][my_ppo_all.py][line:460][INFO] steps=288	 episode_num=154.00000	 reached_num=46.00000
+[2022-11-20 03:29:10,029][my_ppo_all.py][line:739][INFO] steps 289, 0.00 steps/s
+[2022-11-20 03:29:10,032][my_ppo_all.py][line:740][INFO] steps=289	 train_return_reward=9.11510	 reached_pro=0.29870	 action_loss=-0.039	 value_loss=2.962 	 actor_supervise_loss=0.364 	 actor_supervise_accuracy=0.831	critic_supervise_loss=0.326 	 critic_supervise_accuracy=0.980	 entropy=1.244 	 kl=0.26127 	 lr=0.00002827
+[2022-11-20 03:36:04,540][my_ppo_all.py][line:460][INFO] steps=289	 episode_num=139.00000	 reached_num=47.00000
+[2022-11-20 03:36:30,641][my_ppo_all.py][line:674][INFO] steps=290	 scenario1_to_3lane_left_turn_c	 test_return_reward=5.28570	 actor_accuracy=1.00000	 critic_accuracy=1.00000	 goal_pro=0.20000
+[2022-11-20 03:36:49,185][my_ppo_all.py][line:674][INFO] steps=290	 scenario1_to_3lane_left_turn_t	 test_return_reward=-8.87571	 actor_accuracy=1.00000	 critic_accuracy=1.00000	 goal_pro=0.00000
+[2022-11-20 03:37:56,375][my_ppo_all.py][line:674][INFO] steps=290	 scenario3lane_merge_single_agent	 test_return_reward=3.42251	 actor_accuracy=0.97122	 critic_accuracy=0.91367	 goal_pro=0.00000
+[2022-11-20 03:39:19,052][my_ppo_all.py][line:674][INFO] steps=290	 scenario3lane_cruise_single_agent	 test_return_reward=44.92363	 actor_accuracy=1.00000	 critic_accuracy=1.00000	 goal_pro=1.00000
+[2022-11-20 03:40:18,870][my_ppo_all.py][line:674][INFO] steps=290	 scenario3lane_overtake	 test_return_reward=29.29788	 actor_accuracy=1.00000	 critic_accuracy=1.00000	 goal_pro=0.60000
+[2022-11-20 03:41:48,479][my_ppo_all.py][line:674][INFO] steps=290	 scenario3lane_cut_in	 test_return_reward=40.48953	 actor_accuracy=1.00000	 critic_accuracy=1.00000	 goal_pro=1.00000
+[2022-11-20 03:49:30,996][my_ppo_all.py][line:460][INFO] steps=290	 episode_num=160.00000	 reached_num=46.00000
+[2022-11-20 03:49:40,074][my_ppo_all.py][line:739][INFO] steps 291, 0.00 steps/s
+[2022-11-20 03:49:40,075][my_ppo_all.py][line:740][INFO] steps=291	 train_return_reward=8.53872	 reached_pro=0.28750	 action_loss=-0.004	 value_loss=2.950 	 actor_supervise_loss=0.327 	 actor_supervise_accuracy=0.978	critic_supervise_loss=0.326 	 critic_supervise_accuracy=0.976	 entropy=1.133 	 kl=0.16939 	 lr=0.00002825
+[2022-11-20 03:56:56,484][my_ppo_all.py][line:460][INFO] steps=291	 episode_num=127.00000	 reached_num=46.00000
+[2022-11-20 03:57:05,632][my_ppo_all.py][line:739][INFO] steps 292, 0.00 steps/s
+[2022-11-20 03:57:05,640][my_ppo_all.py][line:740][INFO] steps=292	 train_return_reward=12.01663	 reached_pro=0.36220	 action_loss=0.359	 value_loss=3.653 	 actor_supervise_loss=0.328 	 actor_supervise_accuracy=0.981	critic_supervise_loss=0.330 	 critic_supervise_accuracy=0.972	 entropy=1.299 	 kl=0.28374 	 lr=0.00002825
+[2022-11-20 04:03:41,714][my_ppo_all.py][line:460][INFO] steps=292	 episode_num=134.00000	 reached_num=50.00000
+[2022-11-20 04:03:53,479][my_ppo_all.py][line:739][INFO] steps 293, 0.00 steps/s
+[2022-11-20 04:03:53,482][my_ppo_all.py][line:740][INFO] steps=293	 train_return_reward=12.87173	 reached_pro=0.37313	 action_loss=-0.053	 value_loss=2.555 	 actor_supervise_loss=0.343 	 actor_supervise_accuracy=0.923	critic_supervise_loss=0.337 	 critic_supervise_accuracy=0.939	 entropy=1.491 	 kl=0.23458 	 lr=0.00002824
+[2022-11-20 04:10:48,689][my_ppo_all.py][line:460][INFO] steps=293	 episode_num=161.00000	 reached_num=39.00000
+[2022-11-20 04:11:02,642][my_ppo_all.py][line:739][INFO] steps 294, 0.00 steps/s
+[2022-11-20 04:11:02,644][my_ppo_all.py][line:740][INFO] steps=294	 train_return_reward=4.35095	 reached_pro=0.24224	 action_loss=0.233	 value_loss=3.051 	 actor_supervise_loss=0.367 	 actor_supervise_accuracy=0.827	critic_supervise_loss=0.343 	 critic_supervise_accuracy=0.929	 entropy=1.297 	 kl=0.24633 	 lr=0.00002824
+[2022-11-20 04:17:59,184][my_ppo_all.py][line:460][INFO] steps=294	 episode_num=153.00000	 reached_num=39.00000
+[2022-11-20 04:18:14,296][my_ppo_all.py][line:739][INFO] steps 295, 0.00 steps/s
+[2022-11-20 04:18:14,298][my_ppo_all.py][line:740][INFO] steps=295	 train_return_reward=7.20789	 reached_pro=0.25490	 action_loss=-0.046	 value_loss=3.081 	 actor_supervise_loss=0.336 	 actor_supervise_accuracy=0.961	critic_supervise_loss=0.334 	 critic_supervise_accuracy=0.951	 entropy=1.283 	 kl=0.20102 	 lr=0.00002823
+[2022-11-20 04:25:32,635][my_ppo_all.py][line:460][INFO] steps=295	 episode_num=150.00000	 reached_num=40.00000
+[2022-11-20 04:25:44,534][my_ppo_all.py][line:739][INFO] steps 296, 0.00 steps/s
+[2022-11-20 04:25:44,537][my_ppo_all.py][line:740][INFO] steps=296	 train_return_reward=7.75534	 reached_pro=0.26667	 action_loss=0.110	 value_loss=3.309 	 actor_supervise_loss=0.330 	 actor_supervise_accuracy=0.973	critic_supervise_loss=0.329 	 critic_supervise_accuracy=0.976	 entropy=1.240 	 kl=0.25096 	 lr=0.00002822
+[2022-11-20 04:33:03,709][my_ppo_all.py][line:460][INFO] steps=296	 episode_num=122.00000	 reached_num=46.00000
+[2022-11-20 04:33:17,307][my_ppo_all.py][line:739][INFO] steps 297, 0.00 steps/s
+[2022-11-20 04:33:17,310][my_ppo_all.py][line:740][INFO] steps=297	 train_return_reward=14.85882	 reached_pro=0.37705	 action_loss=0.009	 value_loss=2.670 	 actor_supervise_loss=0.328 	 actor_supervise_accuracy=0.978	critic_supervise_loss=0.326 	 critic_supervise_accuracy=0.978	 entropy=1.398 	 kl=0.22691 	 lr=0.00002822
+[2022-11-20 04:39:48,014][my_ppo_all.py][line:460][INFO] steps=297	 episode_num=135.00000	 reached_num=44.00000
+[2022-11-20 04:40:01,757][my_ppo_all.py][line:739][INFO] steps 298, 0.00 steps/s
+[2022-11-20 04:40:01,758][my_ppo_all.py][line:740][INFO] steps=298	 train_return_reward=11.99177	 reached_pro=0.32593	 action_loss=0.046	 value_loss=2.616 	 actor_supervise_loss=0.344 	 actor_supervise_accuracy=0.923	critic_supervise_loss=0.340 	 critic_supervise_accuracy=0.922	 entropy=1.144 	 kl=0.21891 	 lr=0.00002821
+[2022-11-20 04:46:24,654][my_ppo_all.py][line:460][INFO] steps=298	 episode_num=148.00000	 reached_num=42.00000
+[2022-11-20 04:46:37,028][my_ppo_all.py][line:739][INFO] steps 299, 0.00 steps/s
+[2022-11-20 04:46:37,030][my_ppo_all.py][line:740][INFO] steps=299	 train_return_reward=8.19400	 reached_pro=0.28378	 action_loss=-0.231	 value_loss=2.623 	 actor_supervise_loss=0.366 	 actor_supervise_accuracy=0.837	critic_supervise_loss=0.342 	 critic_supervise_accuracy=0.936	 entropy=1.180 	 kl=0.22355 	 lr=0.00002821
+[2022-11-20 04:53:26,358][my_ppo_all.py][line:460][INFO] steps=299	 episode_num=134.00000	 reached_num=46.00000
+[2022-11-20 04:53:51,651][my_ppo_all.py][line:674][INFO] steps=300	 scenario1_to_3lane_left_turn_c	 test_return_reward=4.19444	 actor_accuracy=1.00000	 critic_accuracy=1.00000	 goal_pro=0.20000
+[2022-11-20 04:54:10,911][my_ppo_all.py][line:674][INFO] steps=300	 scenario1_to_3lane_left_turn_t	 test_return_reward=-8.17468	 actor_accuracy=1.00000	 critic_accuracy=1.00000	 goal_pro=0.00000
+[2022-11-20 04:55:30,444][my_ppo_all.py][line:674][INFO] steps=300	 scenario3lane_merge_single_agent	 test_return_reward=2.28194	 actor_accuracy=1.00000	 critic_accuracy=1.00000	 goal_pro=0.00000
+[2022-11-20 04:57:02,641][my_ppo_all.py][line:674][INFO] steps=300	 scenario3lane_cruise_single_agent	 test_return_reward=30.36542	 actor_accuracy=1.00000	 critic_accuracy=1.00000	 goal_pro=1.00000
+[2022-11-20 04:58:05,666][my_ppo_all.py][line:674][INFO] steps=300	 scenario3lane_overtake	 test_return_reward=31.22342	 actor_accuracy=1.00000	 critic_accuracy=1.00000	 goal_pro=0.80000
+[2022-11-20 04:59:33,741][my_ppo_all.py][line:674][INFO] steps=300	 scenario3lane_cut_in	 test_return_reward=44.99101	 actor_accuracy=1.00000	 critic_accuracy=1.00000	 goal_pro=0.80000
+[2022-11-20 05:06:14,178][my_ppo_all.py][line:460][INFO] steps=300	 episode_num=147.00000	 reached_num=43.00000
+[2022-11-20 05:06:27,598][my_ppo_all.py][line:739][INFO] steps 301, 0.00 steps/s
+[2022-11-20 05:06:27,599][my_ppo_all.py][line:740][INFO] steps=301	 train_return_reward=8.99319	 reached_pro=0.29252	 action_loss=-0.032	 value_loss=2.098 	 actor_supervise_loss=0.329 	 actor_supervise_accuracy=0.973	critic_supervise_loss=0.329 	 critic_supervise_accuracy=0.971	 entropy=1.321 	 kl=0.22420 	 lr=0.00002819
+[2022-11-20 05:14:32,895][my_ppo_all.py][line:460][INFO] steps=301	 episode_num=140.00000	 reached_num=47.00000
+[2022-11-20 05:14:48,430][my_ppo_all.py][line:739][INFO] steps 302, 0.00 steps/s
+[2022-11-20 05:14:48,432][my_ppo_all.py][line:740][INFO] steps=302	 train_return_reward=10.95050	 reached_pro=0.33571	 action_loss=0.114	 value_loss=2.845 	 actor_supervise_loss=0.324 	 actor_supervise_accuracy=0.984	critic_supervise_loss=0.324 	 critic_supervise_accuracy=0.985	 entropy=1.265 	 kl=0.22352 	 lr=0.00002819
+[2022-11-20 05:20:52,223][my_ppo_all.py][line:460][INFO] steps=302	 episode_num=120.00000	 reached_num=48.00000
+[2022-11-20 05:21:08,211][my_ppo_all.py][line:739][INFO] steps 303, 0.00 steps/s
+[2022-11-20 05:21:08,214][my_ppo_all.py][line:740][INFO] steps=303	 train_return_reward=17.08665	 reached_pro=0.40000	 action_loss=-0.043	 value_loss=2.713 	 actor_supervise_loss=0.327 	 actor_supervise_accuracy=0.973	critic_supervise_loss=0.324 	 critic_supervise_accuracy=0.980	 entropy=1.277 	 kl=0.19198 	 lr=0.00002818
+[2022-11-20 05:27:36,568][my_ppo_all.py][line:460][INFO] steps=303	 episode_num=132.00000	 reached_num=49.00000
+[2022-11-20 05:27:51,312][my_ppo_all.py][line:739][INFO] steps 304, 0.00 steps/s
+[2022-11-20 05:27:51,314][my_ppo_all.py][line:740][INFO] steps=304	 train_return_reward=13.18358	 reached_pro=0.37121	 action_loss=0.114	 value_loss=2.996 	 actor_supervise_loss=0.349 	 actor_supervise_accuracy=0.896	critic_supervise_loss=0.348 	 critic_supervise_accuracy=0.894	 entropy=1.138 	 kl=0.24633 	 lr=0.00002818
+[2022-11-20 05:34:36,634][my_ppo_all.py][line:460][INFO] steps=304	 episode_num=146.00000	 reached_num=44.00000
+[2022-11-20 05:34:50,521][my_ppo_all.py][line:739][INFO] steps 305, 0.00 steps/s
+[2022-11-20 05:34:50,524][my_ppo_all.py][line:740][INFO] steps=305	 train_return_reward=8.55750	 reached_pro=0.30137	 action_loss=0.120	 value_loss=2.990 	 actor_supervise_loss=0.363 	 actor_supervise_accuracy=0.843	critic_supervise_loss=0.341 	 critic_supervise_accuracy=0.934	 entropy=1.300 	 kl=0.21514 	 lr=0.00002817
+[2022-11-20 05:42:24,066][my_ppo_all.py][line:460][INFO] steps=305	 episode_num=143.00000	 reached_num=44.00000
+[2022-11-20 05:52:24,811][my_ppo_all.py][line:739][INFO] steps 306, 0.00 steps/s
+[2022-11-20 05:52:24,916][my_ppo_all.py][line:740][INFO] steps=306	 train_return_reward=8.48256	 reached_pro=0.30769	 action_loss=0.193	 value_loss=3.134 	 actor_supervise_loss=0.368 	 actor_supervise_accuracy=0.826	critic_supervise_loss=0.347 	 critic_supervise_accuracy=0.914	 entropy=1.175 	 kl=0.25485 	 lr=0.00002816
+[2022-11-20 06:35:13,797][my_ppo_all.py][line:460][INFO] steps=306	 episode_num=153.00000	 reached_num=43.00000
+[2022-11-20 06:35:27,416][my_ppo_all.py][line:739][INFO] steps 307, 0.00 steps/s
+[2022-11-20 06:35:27,419][my_ppo_all.py][line:740][INFO] steps=307	 train_return_reward=8.08664	 reached_pro=0.28105	 action_loss=0.051	 value_loss=3.750 	 actor_supervise_loss=0.364 	 actor_supervise_accuracy=0.829	critic_supervise_loss=0.339 	 critic_supervise_accuracy=0.938	 entropy=1.302 	 kl=0.22886 	 lr=0.00002816
+[2022-11-20 06:43:20,073][my_ppo_all.py][line:460][INFO] steps=307	 episode_num=168.00000	 reached_num=32.00000
+[2022-11-20 06:43:31,175][my_ppo_all.py][line:739][INFO] steps 308, 0.00 steps/s
+[2022-11-20 06:43:31,179][my_ppo_all.py][line:740][INFO] steps=308	 train_return_reward=1.53257	 reached_pro=0.19048	 action_loss=0.452	 value_loss=4.802 	 actor_supervise_loss=0.332 	 actor_supervise_accuracy=0.973	critic_supervise_loss=0.328 	 critic_supervise_accuracy=0.971	 entropy=1.268 	 kl=0.23129 	 lr=0.00002815
+[2022-11-20 06:50:12,587][my_ppo_all.py][line:460][INFO] steps=308	 episode_num=132.00000	 reached_num=42.00000
+[2022-11-20 06:50:27,318][my_ppo_all.py][line:739][INFO] steps 309, 0.00 steps/s
+[2022-11-20 06:50:27,321][my_ppo_all.py][line:740][INFO] steps=309	 train_return_reward=8.73161	 reached_pro=0.31818	 action_loss=0.255	 value_loss=3.881 	 actor_supervise_loss=0.338 	 actor_supervise_accuracy=0.938	critic_supervise_loss=0.332 	 critic_supervise_accuracy=0.952	 entropy=1.553 	 kl=0.20078 	 lr=0.00002815
+[2022-11-20 06:56:24,790][my_ppo_all.py][line:460][INFO] steps=309	 episode_num=115.00000	 reached_num=50.00000
+[2022-11-20 06:56:52,157][my_ppo_all.py][line:674][INFO] steps=310	 scenario1_to_3lane_left_turn_c	 test_return_reward=14.23769	 actor_accuracy=0.00000	 critic_accuracy=0.00000	 goal_pro=0.40000
+[2022-11-20 06:57:12,736][my_ppo_all.py][line:674][INFO] steps=310	 scenario1_to_3lane_left_turn_t	 test_return_reward=3.92252	 actor_accuracy=1.00000	 critic_accuracy=1.00000	 goal_pro=0.20000
+[2022-11-20 06:58:37,768][my_ppo_all.py][line:674][INFO] steps=310	 scenario3lane_merge_single_agent	 test_return_reward=4.65589	 actor_accuracy=1.00000	 critic_accuracy=1.00000	 goal_pro=0.00000
+[2022-11-20 06:59:59,490][my_ppo_all.py][line:674][INFO] steps=310	 scenario3lane_cruise_single_agent	 test_return_reward=43.64219	 actor_accuracy=1.00000	 critic_accuracy=1.00000	 goal_pro=1.00000
+[2022-11-20 07:01:08,569][my_ppo_all.py][line:674][INFO] steps=310	 scenario3lane_overtake	 test_return_reward=43.51879	 actor_accuracy=1.00000	 critic_accuracy=1.00000	 goal_pro=0.80000
+[2022-11-20 07:02:39,501][my_ppo_all.py][line:674][INFO] steps=310	 scenario3lane_cut_in	 test_return_reward=37.00890	 actor_accuracy=1.00000	 critic_accuracy=1.00000	 goal_pro=0.80000
+[2022-11-20 07:09:11,088][my_ppo_all.py][line:460][INFO] steps=310	 episode_num=141.00000	 reached_num=44.00000
+[2022-11-20 07:09:25,998][my_ppo_all.py][line:739][INFO] steps 311, 0.00 steps/s
+[2022-11-20 07:09:26,003][my_ppo_all.py][line:740][INFO] steps=311	 train_return_reward=10.08919	 reached_pro=0.31206	 action_loss=0.214	 value_loss=2.466 	 actor_supervise_loss=0.371 	 actor_supervise_accuracy=0.817	critic_supervise_loss=0.348 	 critic_supervise_accuracy=0.898	 entropy=1.817 	 kl=0.19559 	 lr=0.00002813
+[2022-11-20 07:15:58,960][my_ppo_all.py][line:460][INFO] steps=311	 episode_num=133.00000	 reached_num=42.00000
+[2022-11-20 07:16:11,040][my_ppo_all.py][line:739][INFO] steps 312, 0.00 steps/s
+[2022-11-20 07:16:11,043][my_ppo_all.py][line:740][INFO] steps=312	 train_return_reward=8.71735	 reached_pro=0.31579	 action_loss=0.450	 value_loss=4.185 	 actor_supervise_loss=0.371 	 actor_supervise_accuracy=0.822	critic_supervise_loss=0.335 	 critic_supervise_accuracy=0.954	 entropy=1.799 	 kl=0.24851 	 lr=0.00002813
