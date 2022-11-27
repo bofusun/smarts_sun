@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<routes xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://sumo.sf.net/xsd/routes_file.xsd">
+    <vType id="actor-car-8071219938869944969" accel="2.6" decel="4.5" vClass="passenger" speedFactor="1.5" speedDev="0.1" sigma="0.5" minGap="1.0" maxSpeed="55.5" lcCutinProb="1" lcAssertive="10" lcDogmatic="True" lcHoldPeriod="3.0" lcSlowDownAfter="0.5" lcMultiLaneCutin="False" />
+    <route id="route-gneE3_1_0-gneE3_1_max-3942193398259442324-" edges="gneE3 gneE3" />
+    <route id="route-gneE3_3_0-gneE3_3_max-5804812252160847286-" edges="gneE3 gneE3" />
+    <route id="route-gneE3_0_0-gneE3_0_max--2461599888020736049-" edges="gneE3 gneE3" />
+    <flow id="car-flow-route-gneE3_0_0-gneE3_0_max--2461599888020736049---8197680893763240099--0-0" type="actor-car-8071219938869944969" route="route-gneE3_0_0-gneE3_0_max--2461599888020736049-" departLane="0" departPos="0" departSpeed="max" arrivalLane="0" arrivalPos="max" begin="2.1515294744973135" end="900" probability="0.19140870496386284" />
+    <flow id="car-flow-route-gneE3_1_0-gneE3_1_max-3942193398259442324---8197680893763240099--1-0" type="actor-car-8071219938869944969" route="route-gneE3_1_0-gneE3_1_max-3942193398259442324-" departLane="1" departPos="0" departSpeed="max" arrivalLane="1" arrivalPos="max" begin="2.4579727337071846" end="900" probability="0.12673663022671156" />
+    <flow id="car-flow-route-gneE3_3_0-gneE3_3_max-5804812252160847286---8197680893763240099--2-0" type="actor-car-8071219938869944969" route="route-gneE3_3_0-gneE3_3_max-5804812252160847286-" departLane="3" departPos="0" departSpeed="max" arrivalLane="3" arrivalPos="max" begin="2.909857009571994" end="900" probability="0.10856119161001787" />
+</routes>
